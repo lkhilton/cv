@@ -1,0 +1,102 @@
+---
+title: "Laura K. Hilton, PhD"
+subtitle: "Curriculum Vitae"
+
+# Use the multibib extension
+filters:
+  - multibib
+
+# Turn off YAML validation
+validate-yaml: false
+
+# Define list of separate bibliography files
+bibliography:
+  talks: references/talks.bib
+  posters: references/posters.bib
+  papers: references/papers.bib
+  not-reviewed: references/not-peer-reviewed.bib
+nocite: |
+    @*
+
+# Disable citeproc
+citeproc: false
+
+# Custom cross reference type for appendix tables
+crossref:
+  custom:
+    - kind: float
+      key: apptbl
+      latex-env: apptbl
+      reference-prefix: Table A
+      space-before-numbering: false
+      latex-list-of-description: Appendix Table
+apptbl-cap-location: top
+
+
+---
+
+```{r}
+#| label: setup
+
+library(tidyverse)
+library(kableExtra)
+
+```
+
+# Education
+
+# Appointments
+
+# Awards and Honours
+
+## Publications
+
+```{r}
+#| label: count-citations
+
+# Read the file content into a single string
+text_content <- readLines("references/papers.bib", warn = FALSE)
+text_content <- paste(text_content, collapse = "\n")
+
+# Count the occurrences of a pattern
+pattern <- "@"
+count <- str_count(text_content, pattern)
+
+```
+
+## Published Peer-Reviewed Articles and Preprints
+*`r count` total; 12 as co-first author*
+
+## Invited Commentary
+
+# Presentations
+
+## Invited Presentations
+
+
+
+## Conference Oral Presentations
+
+::: {#refs-talks}
+:::
+
+\newpage
+
+
+## Conference Poster Presentations
+
+
+::: {#refs-posters}
+:::
+
+\newpage
+
+# Career Disruptions
+
+# Service
+
+## Anonymous Peer Review (2018-Present, Cumulative)
+
+ASH Annual Meeting Abstracts (1), Blood (7), Haematologica (3), Journal of Clinical Oncology (3), Genome Medicine (1), Nature Communications (1), Blood Advances (8), Journal of Molecular Diagnostics (1), Cell Genomics (1). 
+
+## Service to University and Community

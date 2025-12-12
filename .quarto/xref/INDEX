@@ -1,0 +1,19 @@
+{
+  "invited.qmd": {
+    "invited.docx": "fd872ad6"
+  },
+  "posters.qmd": {
+    "posters.docx": "170ad8ee"
+  },
+  "papers.qmd": {
+    "papers.tex": "6387a8f6",
+    "papers.docx": "21551022",
+    "papers.html": "8f9910a0"
+  },
+  "talks.qmd": {
+    "talks.docx": "fac6ef48"
+  },
+  "cv.qmd": {
+    "cv.docx": "0f7ea909"
+  }
+}
