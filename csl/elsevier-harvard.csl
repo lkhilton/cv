@@ -190,10 +190,10 @@
         <group delimiter=", " prefix=". ">
           <text macro="event" prefix=". " />
           <text macro="publisher" prefix=". "/>
-          <group>
+          <!-- <group>
             <label variable="page" form="short" suffix=" "/>
             <text variable="page"/>
-          </group>
+          </group> -->
         </group>
       </else-if>
       <else-if type="chapter paper-conference" match="any">
@@ -240,7 +240,7 @@
           <text macro="locators" prefix=". "/>
         </group>
       </group>
-      <text macro="access" prefix=". "/>
+      <!-- <text macro="access" prefix=". "/> -->
     </layout>
   </bibliography>
 </style>
