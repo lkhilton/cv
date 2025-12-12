@@ -66,6 +66,9 @@ execute:
 library(tidyverse)
 library(knitr)
 library(flextable)
+library(kableExtra)
+
+output_format <- knitr::pandoc_to()
 
 ```
 
@@ -82,10 +85,14 @@ education <- read_tsv("components/education.tsv") %>%
   )) %>% 
   mutate(year = as.character(year))    
 
-education <- flextable(education) %>% 
-  delete_part("header")
+if(output_format == "docx"){
+  education <- flextable(education) %>% 
+    delete_part("header")
 
-set_table_properties(education, layout = "autofit")
+  set_table_properties(education, layout = "autofit")
+}else{
+  kable(education, col.names = NULL)
+}
 
 ```
 
@@ -102,10 +109,15 @@ appointments <- read_tsv("components/appointments.tsv") %>%
     )) %>%
     mutate(year = as.character(year))
 
-appointments <- flextable(appointments) %>%
-    delete_part("header")
+if(output_format == "docx"){
 
-set_table_properties(appointments, layout = "autofit")
+  appointments <- flextable(appointments) %>%
+      delete_part("header")
+
+  set_table_properties(appointments, layout = "autofit")
+}else{
+  kable(appointments, col.names = NULL)
+}
 
 ```
 
@@ -122,10 +134,14 @@ awards <- read_tsv("components/awards_honours.tsv") %>%
     )) %>%
     mutate(year = as.character(year))
 
+if(output_format == "docx"){
 awards <- flextable(awards) %>%
     delete_part("header")
 
 set_table_properties(awards, layout = "autofit")
+}else{
+  kable(awards)
+}
 
 ```
 
@@ -174,10 +190,15 @@ invited_talks <- read_tsv("components/invited_talks.tsv") %>%
     )) %>%
     mutate(year = as.character(year))
 
+if(output_format == "docx"){
+
 invited_talks <- flextable(invited_talks) %>%
     delete_part("header")
 
 set_table_properties(invited_talks, layout = "autofit")
+}else{
+  kable(invited_talks, col.names = NULL)
+}
 
 ```
 
@@ -204,10 +225,15 @@ disruptions <- read_tsv("components/disruptions.tsv") %>%
     )) %>%
     mutate(year = as.character(year))
 
+if(output_format == "docx"){
+
 disruptions <- flextable(disruptions) %>%
     delete_part("header")
     
 set_table_properties(disruptions, layout = "autofit")
+}else{
+  kable(disruptions)
+}
 
 ```
 
@@ -230,10 +256,15 @@ service <- read_tsv("components/service.tsv") %>%
     )) %>%
     mutate(year = as.character(year))
 
+if(output_format == "docx"){
+
 service <- flextable(service) %>%
     delete_part("header")
 
 set_table_properties(service, layout = "autofit")
+}else{
+  kable(service)
+}
 
 ```
 

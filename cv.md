@@ -3,15 +3,45 @@
 
 # Education
 
-![](cv_files/figure-commonmark/education-1.png)
+|      |                                                                  |
+|:-----|:-----------------------------------------------------------------|
+| 2013 | PhD, Molecular Biology and Biochemistry, Simon Fraser University |
+
+Advisor: Dr. Lynne Quarmby Thesis: The NIMA-Related Kinases as
+Regulators of Ciliary Assembly and Disassembly \| \|2008 \|BSc Hons with
+Distinction, Molecular Biology and Biochemistry, Simon Fraser University
+\|
 
 # Appointments
 
-![](cv_files/figure-commonmark/appointments-1.png)
+|  |  |
+|:---|:---|
+| Jan. 2022 – Present | Adjunct Professor, Molecular Biology and Biochemistry, Simon Fraser University |
+| Feb. 2020 – Present | Staff Scientist, Lymphoid Cancer Research, BC Cancer Research Centre |
+| Research interests: Genomic and transcriptomic approaches to characterizing and classifying non-Hodgkin lymphomas; tumour evolution and lymphomagenesis. |  |
+| Feb. 2018 – Jan. 2020 | Postdoctoral Fellow, Morin Lab, Molecular Biology and Biochemistry, Simon Fraser University |
+| Research interests: Whole genome and targeted sequencing approaches to identify genetic drivers of therapeutic resistance in non-Hodgkin lymphoma. |  |
+| Sep. 2019 – Dec. 2019 | Sessional Instructor, Molecular Biology and Biochemistry, Simon Fraser University. |
+| Course: MBB 460/829, combined undergraduate and graduate level course in Cancer Genomics |  |
+| Sep. 2013 – Jan. 2017 | Postdoctoral Research Assistant, Quarmby Lab, Molecular Biology and Biochemistry, Simon Fraser University |
+| Aug. 2015 – Mar. 2017 | Visiting Teaching Fellow, Life Sciences, Quest University Canada. |
+| Sept. 2014 – June 2015 | Curriculum Coordinator, Life Sciences, Simon Fraser University |
 
 # Awards and Honours
 
-![](cv_files/figure-commonmark/awards-1.png)
+| year | details |
+|:---|:---|
+| 2019 | 15-ICML Travel Award for Top 10-ranked Abstract |
+| 2013 | SFU Faculty of Science Graduate Teaching Assistant Award |
+| 2013 | Brandhorst Graduate Prize for Best Publication by an MBB Graduate Student |
+| 2013 | SFU Graduate Student Research Award |
+| 2013 | Bruce Brandhorst Graduate Award – Best Oral Presentation |
+| 2010-2012 | NSERC Alexander Graham Bell Canada Graduate Scholarship – Doctoral |
+| 2012 | IODE Seaman Morley Scott Memorial Graduate Scholarship |
+| 2012 | Phyllis Carter Burr Graduate Scholarship in Developmental Biology and Cell Biology |
+| 2012 | SFU Graduate Fellowship |
+| 2011 | SFU President’s Research Stipend |
+| 2008-2010 | NSERC Alexander Graham Bell Canada Graduate Scholarship – Masters |
 
 # Publications
 
@@ -583,7 +613,21 @@ Domains. Wiley, Hoboken.
 
 ## Invited Presentations
 
-![](cv_files/figure-commonmark/invited-talks-1.png)
+|  |  |
+|:---|:---|
+| 2025 | Plenary introduction: Diffuse large B-cell lymphoma classification and ancestry. American Society of Hematology Annual Meeting, Orlando, FL, USA. |
+| 2024 | The Biology of Relapsed/Refractory DLBCL. Women in Lymphoma Webinar, virtual. |
+| 2023 | The Biology and Evolution of Relapse in DLBCL. SWOG Fall 2023 Group Meeting, Chicago, IL. |
+| 2023 | From Cell of Origin to Mutational Landscape 20 years of Evolving Molecular Classification in DLBCL. International Ultmann Chicago Lymphoma Symposium, Chicago, IL. |
+| 2022 | Relapse Timing Is Associated with Distinct Evolutionary Dynamics and Response to Salvage Therapy in DLBCL. BC Cancer Summit, Vancouver, BC. |
+| 2021 | Invited Departmental Seminar, Molecular Biology and Biochemistry, Simon Fraser University. |
+| 2021 | Guest lecture on alternate academic career paths, MBB 801, Simon Fraser University, Canada. |
+| 2021 | Guest lecture on lymphoma genomics and transcriptomics, Cancer Biology, Quest University, Canada. |
+| 2020 | Guest lecture on transcriptomic analysis, MBB 460/669 Cancer Genomics, Simon Fraser University, Canada. |
+| 2020 | Guest lecture on alternate academic career paths, MBB 801, Simon Fraser University, Canada. |
+| 2019 | Oxford Nanopore long-read sequencing to refine somatic variant identification. Precision Medicine and Ion Channel Retreat, Vancouver, BC. |
+| 2016 | From Cilia to Climate Change: The Algae Connection. Hot Topics in Science Seminar, Quest University Canada. |
+| 2017 | Forward Genetics in the Era of Next Gen Sequencing. Guest Lecture, BIOL436 Intro to Functional Genomics, UBC. |
 
 ## Conference Oral Presentations
 
@@ -1272,7 +1316,10 @@ Annual Meeting. Vancouver, BC, Canada.
 
 # Career Disruptions
 
-![](cv_files/figure-commonmark/disruptions-1.png)
+| year                  | details        |
+|:----------------------|:---------------|
+| Mar. 2014 – Sep. 2014 | Parental Leave |
+| Feb. 2017 – Feb. 2018 | Parental Leave |
 
 # Service
 
@@ -1285,4 +1332,11 @@ Genomics (1).
 
 ## Service to University and Community
 
-![](cv_files/figure-commonmark/service-1.png)
+| year | details |
+|:---|:---|
+| 2024-Present | Women in Lymphoma Steering Committee |
+| 2023-Present | Guider, Girl Guides of Canada |
+| 2019-2022 | Secretary, Board of Directors, Lonsdale Creek Daycare Society |
+| 2012-2013 | President, MBB Graduate Caucus |
+| 2012-2013 | Student Representative, MBB Departmental Graduate Studies Committee |
+| 2011-2012 | Secretary, MBB Graduate Caucus |
