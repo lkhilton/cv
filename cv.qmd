@@ -14,6 +14,35 @@ format:
     reference-doc: csl/custom-reference-doc.docx
     mainfont: Helvetica
     sansfont: Helvetica
+  gfm: 
+    toc: true
+    toc-depth: 2
+    output-file: README.md
+  pdf:
+    toc: false
+    geometry:
+      - top=25mm
+      - bottom=25mm
+      - right=25mm
+      - left=25mm
+      - footskip=15mm
+    mainfont: Helvetica
+    sansfont: Helvetica
+    header-includes:
+        - \usepackage{makecell}
+        - \usepackage{booktabs}
+        - \usepackage{longtable}
+        - \usepackage{array}
+        - \usepackage{xcolor}
+        - \usepackage{wrapfig}
+        - \usepackage{float}
+        - \usepackage{colortbl}
+        - \usepackage{pdflscape}
+        - \usepackage{tabu}
+        - \usepackage{threeparttable}
+        - \usepackage{threeparttablex}
+        - \usepackage{ulem}
+        - \usepackage{adjustbox}
 
 # Use the multibib extension
 filters:
@@ -72,15 +101,17 @@ output_format <- knitr::pandoc_to()
 
 ```
 
-# Education
+# Education {.unnumbered}
 
 ```{r}
 #| label: education
+#| tbl-colwidths: [10, 90]
+
 
 education <- read_tsv("components/education.tsv")
 
 if (output_format == "docx") {
-    education %>%
+    education <- education %>%
         mutate(details = str_replace_all(
             details,
             "\\{return\\}",
@@ -96,22 +127,28 @@ if (output_format == "docx") {
         mutate(details = str_replace_all(
             details,
             " \\{return\\}",
-            " <br>"
-        )) %>% 
-    kable(col.names = NULL)
+            " \n"
+        ))%>%
+    mutate(details = linebreak(details)) %>% # add LaTeX-style linebreaks
+    kableExtra::kable("latex", escape = FALSE, booktabs = TRUE, longtable = TRUE, col.names = NULL) %>% # Required formatting for line breaks
+    kable_styling(latex_options = c("scale_down", "hold_position")) %>% 
+    column_spec(1, width = "1in") %>% # Make sure table doesn't extend past the end of the page
+    column_spec(2, width = "5in")
 }
 
 ```
 
-# Appointments
+# Appointments {.unnumbered}
 
 ```{r}
 #| label: appointments
+#| tbl-colwidths: [30, 70]
+#| 
 
 appointments <- read_tsv("components/appointments.tsv")
 
 if (output_format == "docx") {
-    appointments %>%
+    appointments <- appointments %>%
         mutate(details = str_replace_all(
             details,
             "\\{return\\}",
@@ -122,7 +159,7 @@ if (output_format == "docx") {
         delete_part("header")
 
     set_table_properties(appointments, layout = "autofit")
-} else {
+} else if(output_format == "gfm"){
     appointments %>%
         mutate(details = str_replace_all(
             details,
@@ -130,35 +167,49 @@ if (output_format == "docx") {
             " <br>"
         ))%>%
     kable(col.names = NULL)
+}else if(output_format == "latex"){
+    appointments %>%
+        mutate(details = str_replace_all(
+            details,
+            " \\{return\\}",
+            " \n"
+        ))%>%
+    mutate(details = linebreak(details)) %>% 
+    kableExtra::kable("latex", escape = FALSE, booktabs = TRUE, longtable = TRUE, col.names = NULL) %>% 
+    kable_styling(latex_options = c("scale_down", "hold_position")) %>% 
+    column_spec(1, width = "1.8in") %>% 
+    column_spec(2, width = "4.2in")
 }
 
 ```
 
-# Awards and Honours
+# Awards and Honours {.unnumbered}
 
 ```{r}
 #| label: awards
+#| tbl-colwidths: [20, 80]
 
-awards <- read_tsv("components/awards_honours.tsv") %>%
+awards <- read_tsv("components/awards_honours.tsv") 
+
+if(output_format == "docx"){
+awards <- awards %>%
     mutate(details = str_replace_all(
         details,
         "\\{return\\}",
         "\n"
     )) %>%
-    mutate(year = as.character(year))
-
-if(output_format == "docx"){
-awards <- flextable(awards) %>%
+    mutate(year = as.character(year))%>% 
+    flextable() %>%
     delete_part("header")
 
 set_table_properties(awards, layout = "autofit")
 }else{
-  kable(awards)
+  kable(awards, col.names = NULL)
 }
 
 ```
 
-# Publications
+# Publications {.unnumbered}
 
 ```{r}
 #| label: count-citations
@@ -177,35 +228,39 @@ first_author_count <- str_count(text_content, paste0(pattern, collapse = "|"))
 
 ```
 
-## Published Peer-Reviewed Articles and Preprints
-*`r paper_count` total; `r first_author_count` as co-first author*
+## Published Peer-Reviewed Articles and Preprints {.unnumbered}
+*`r paper_count` total; `r first_author_count` as (co-)first author*
+
+*\*Equal contributions*
 
 ::: {#refs-papers}
 :::
 
-## Invited Commentary
+## Invited Commentary {.unnumbered}
 
 ::: {#refs-invited}
 :::
 
-# Presentations
+# Presentations {.unnumbered}
 
-## Invited Presentations
+## Invited Presentations {.unnumbered}
 
 ```{r}
 #| label: invited-talks
+#| tbl-colwidths: [10, 90]
 
-invited_talks <- read_tsv("components/invited_talks.tsv") %>%
+invited_talks <- read_tsv("components/invited_talks.tsv") 
+
+if(output_format == "docx"){
+
+invited_talks <- invited_talks %>%
     mutate(details = str_replace_all(
         details,
         "\\{return\\}",
         "\n"
     )) %>%
-    mutate(year = as.character(year))
-
-if(output_format == "docx"){
-
-invited_talks <- flextable(invited_talks) %>%
+    mutate(year = as.character(year)) %>% 
+    flextable() %>%
     delete_part("header")
 
 set_table_properties(invited_talks, layout = "autofit")
@@ -215,68 +270,72 @@ set_table_properties(invited_talks, layout = "autofit")
 
 ```
 
-## Conference Oral Presentations
+## Conference Oral Presentations {.unnumbered}
 
 ::: {#refs-talks}
 :::
 
-## Conference Poster Presentations
+## Conference Poster Presentations {.unnumbered}
 
 ::: {#refs-posters}
 :::
 
-# Career Disruptions
+# Career Disruptions {.unnumbered}
 
 ```{r ft.align="left"}
 #| label: disruptions
+#| tbl-colwidths: [30, 70]
 
-disruptions <- read_tsv("components/disruptions.tsv") %>%
+disruptions <- read_tsv("components/disruptions.tsv") 
+
+if(output_format == "docx"){
+
+disruptions <- disruptions %>%
     mutate(details = str_replace_all(
         details,
         "\\{return\\}",
         "\n"
     )) %>%
-    mutate(year = as.character(year))
-
-if(output_format == "docx"){
-
-disruptions <- flextable(disruptions) %>%
+    mutate(year = as.character(year)) %>% 
+    flextable() %>%
     delete_part("header")
     
 set_table_properties(disruptions, layout = "autofit")
 }else{
-  kable(disruptions)
+  kable(disruptions, col.names = NULL)
 }
 
 ```
 
-# Service
+# Service {.unnumbered}
 
-## Anonymous Peer Review (2018-Present, Cumulative)
+## Anonymous Peer Review (2018-Present, Cumulative) {.unnumbered}
 
 ASH Annual Meeting Abstracts (1), Blood (7), Haematologica (3), Journal of Clinical Oncology (3), Genome Medicine (1), Nature Communications (1), Blood Advances (8), Journal of Molecular Diagnostics (1), Cell Genomics (1). 
 
-## Service to University and Community
+## Service to University and Community {.unnumbered}
 
 ```{r}
 #| label: service
+#| tbl-colwidths: [20, 80]
 
-service <- read_tsv("components/service.tsv") %>%
+service <- read_tsv("components/service.tsv") 
+
+if(output_format == "docx"){
+
+service <- service %>%
     mutate(details = str_replace_all(
         details,
         "\\{return\\}",
         "\n"
     )) %>%
-    mutate(year = as.character(year))
-
-if(output_format == "docx"){
-
-service <- flextable(service) %>%
+    mutate(year = as.character(year)) %>% 
+    flextable() %>%
     delete_part("header")
 
 set_table_properties(service, layout = "autofit")
 }else{
-  kable(service)
+  kable(service, col.names = NULL)
 }
 
 ```

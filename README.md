@@ -1,28 +1,31 @@
 # Laura K. Hilton, PhD
 
 
-# Education
+- [Education](#education)
+- [Appointments](#appointments)
+- [Awards and Honours](#awards-and-honours)
+- [Publications](#publications)
+  - [Published Peer-Reviewed Articles and
+    Preprints](#published-peer-reviewed-articles-and-preprints)
+  - [Invited Commentary](#invited-commentary)
+- [Presentations](#presentations)
+  - [Invited Presentations](#invited-presentations)
+  - [Conference Oral Presentations](#conference-oral-presentations)
+  - [Conference Poster Presentations](#conference-poster-presentations)
+- [Career Disruptions](#career-disruptions)
+- [Service](#service)
+  - [Anonymous Peer Review (2018-Present,
+    Cumulative)](#anonymous-peer-review-2018-present-cumulative)
+  - [Service to University and
+    Community](#service-to-university-and-community)
 
-|  |  |
-|---:|:---|
-| 2013 | PhD, Molecular Biology and Biochemistry, Simon Fraser University <br>Advisor: Dr. Lynne Quarmby <br>Thesis: The NIMA-Related Kinases as Regulators of Ciliary Assembly and Disassembly |
-| 2008 | BSc Hons with Distinction, Molecular Biology and Biochemistry, Simon Fraser University |
+# Education
 
 # Appointments
 
-|  |  |
-|:---|:---|
-| Jan. 2022 – Present | Adjunct Professor, Molecular Biology and Biochemistry, Simon Fraser University |
-| Feb. 2020 – Present | Staff Scientist, Lymphoid Cancer Research, BC Cancer Research Centre <br>Research interests: Genomic and transcriptomic approaches to characterizing and classifying non-Hodgkin lymphomas; tumour evolution and lymphomagenesis. |
-| Feb. 2018 – Jan. 2020 | Postdoctoral Fellow, Morin Lab, Molecular Biology and Biochemistry, Simon Fraser University <br>Research interests: Whole genome and targeted sequencing approaches to identify genetic drivers of therapeutic resistance in non-Hodgkin lymphoma. |
-| Sep. 2019 – Dec. 2019 | Sessional Instructor, Molecular Biology and Biochemistry, Simon Fraser University. <br>Course: MBB 460/829, combined undergraduate and graduate level course in Cancer Genomics |
-| Sep. 2013 – Jan. 2017 | Postdoctoral Research Assistant, Quarmby Lab, Molecular Biology and Biochemistry, Simon Fraser University |
-| Aug. 2015 – Mar. 2017 | Visiting Teaching Fellow, Life Sciences, Quest University Canada. |
-| Sept. 2014 – June 2015 | Curriculum Coordinator, Life Sciences, Simon Fraser University |
-
 # Awards and Honours
 
-| year | details |
+|  |  |
 |:---|:---|
 | 2019 | 15-ICML Travel Award for Top 10-ranked Abstract |
 | 2013 | SFU Faculty of Science Graduate Teaching Assistant Award |
@@ -40,7 +43,9 @@
 
 ## Published Peer-Reviewed Articles and Preprints
 
-*39 total; 12 as co-first author*
+*39 total; 12 as (co-)first author*
+
+*\*Equal contributions*
 
 <div id="refs-papers" class="references csl-bib-body hanging-indent"
 entry-spacing="0">
@@ -607,7 +612,7 @@ Domains. Wiley, Hoboken.
 ## Invited Presentations
 
 |  |  |
-|:---|:---|
+|---:|:---|
 | 2025 | Plenary introduction: Diffuse large B-cell lymphoma classification and ancestry. American Society of Hematology Annual Meeting, Orlando, FL, USA. |
 | 2024 | The Biology of Relapsed/Refractory DLBCL. Women in Lymphoma Webinar, virtual. |
 | 2023 | The Biology and Evolution of Relapse in DLBCL. SWOG Fall 2023 Group Meeting, Chicago, IL. |
@@ -1309,7 +1314,7 @@ Annual Meeting. Vancouver, BC, Canada.
 
 # Career Disruptions
 
-| year                  | details        |
+|                       |                |
 |:----------------------|:---------------|
 | Mar. 2014 – Sep. 2014 | Parental Leave |
 | Feb. 2017 – Feb. 2018 | Parental Leave |
@@ -1325,7 +1330,7 @@ Genomics (1).
 
 ## Service to University and Community
 
-| year | details |
+|  |  |
 |:---|:---|
 | 2024-Present | Women in Lymphoma Steering Committee |
 | 2023-Present | Guider, Girl Guides of Canada |
