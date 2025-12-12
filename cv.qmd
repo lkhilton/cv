@@ -39,15 +39,64 @@ apptbl-cap-location: top
 #| label: setup
 
 library(tidyverse)
-library(kableExtra)
+library(knitr)
+library(flextable)
 
 ```
 
 # Education
 
+```{r}
+#| label: education
+
+education <- read_tsv("components/education.tsv") %>% 
+  mutate(details = str_replace_all(
+    details, 
+    "\\{return\\}", 
+    "\n"                
+  )) %>% 
+  mutate(year = as.character(year))    
+
+flextable(education) %>% 
+  delete_part("header")
+
+```
+
 # Appointments
 
+```{r}
+#| label: appointments
+
+appointments <- read_tsv("components/appointments.tsv") %>%
+    mutate(details = str_replace_all(
+        details,
+        "\\{return\\}",
+        "\n"
+    )) %>%
+    mutate(year = as.character(year))
+
+flextable(appointments) %>%
+    delete_part("header")
+
+```
+
 # Awards and Honours
+
+```{r}
+#| label: awards
+
+awards <- read_tsv("components/awards_honours.tsv") %>%
+    mutate(details = str_replace_all(
+        details,
+        "\\{return\\}",
+        "\n"
+    )) %>%
+    mutate(year = as.character(year))
+
+flextable(awards) %>%
+    delete_part("header")
+
+```
 
 ## Publications
 
@@ -58,22 +107,39 @@ library(kableExtra)
 text_content <- readLines("references/papers.bib", warn = FALSE)
 text_content <- paste(text_content, collapse = "\n")
 
-# Count the occurrences of a pattern
+# Count the number of papers
 pattern <- "@"
-count <- str_count(text_content, pattern)
+paper_count <- str_count(text_content, pattern)
+
+# Count the number of first author papers
+pattern <- c("\\{*Hilton\\}", "@article\\{hilton")
+first_author_count <- str_count(text_content, paste0(pattern, collapse = "|"))
 
 ```
 
 ## Published Peer-Reviewed Articles and Preprints
-*`r count` total; 12 as co-first author*
+*`r paper_count` total; `r first_author_count` as co-first author*
+
+::: {#refs-papers}
+:::
 
 ## Invited Commentary
+
+::: {#refs-invited}
+:::
 
 # Presentations
 
 ## Invited Presentations
 
+```{r}
+#| label: invited-talks
 
+invited_talks <- read_tsv("components/invited_talks.tsv")
+
+
+
+```
 
 ## Conference Oral Presentations
 
@@ -92,6 +158,22 @@ count <- str_count(text_content, pattern)
 \newpage
 
 # Career Disruptions
+
+```{r}
+#| label: disruptions
+
+disruptions <- read_tsv("components/disruptions.tsv") %>%
+    mutate(details = str_replace_all(
+        details,
+        "\\{return\\}",
+        "\n"
+    )) %>%
+    mutate(year = as.character(year))
+
+flextable(disruptions) %>%
+    delete_part("header")
+
+```
 
 # Service
 
