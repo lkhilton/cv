@@ -77,21 +77,28 @@ output_format <- knitr::pandoc_to()
 ```{r}
 #| label: education
 
-education <- read_tsv("components/education.tsv") %>% 
-  mutate(details = str_replace_all(
-    details, 
-    "\\{return\\}", 
-    "\n"                
-  )) %>% 
-  mutate(year = as.character(year))    
+education <- read_tsv("components/education.tsv")
 
-if(output_format == "docx"){
-  education <- flextable(education) %>% 
-    delete_part("header")
+if (output_format == "docx") {
+    education %>%
+        mutate(details = str_replace_all(
+            details,
+            "\\{return\\}",
+            "\n"
+        )) %>%
+        mutate(year = as.character(year)) %>%
+        flextable() %>%
+        delete_part("header")
 
-  set_table_properties(education, layout = "autofit")
-}else{
-  kable(education, col.names = NULL)
+    set_table_properties(education, layout = "autofit")
+} else {
+    education %>%
+        mutate(details = str_replace_all(
+            details,
+            " \\{return\\}",
+            " <br>"
+        )) %>% 
+    kable(col.names = NULL)
 }
 
 ```
@@ -101,22 +108,28 @@ if(output_format == "docx"){
 ```{r}
 #| label: appointments
 
-appointments <- read_tsv("components/appointments.tsv") %>%
-    mutate(details = str_replace_all(
-        details,
-        "\\{return\\}",
-        "\n"
-    )) %>%
-    mutate(year = as.character(year))
+appointments <- read_tsv("components/appointments.tsv")
 
-if(output_format == "docx"){
+if (output_format == "docx") {
+    appointments %>%
+        mutate(details = str_replace_all(
+            details,
+            "\\{return\\}",
+            "\n"
+        )) %>%
+        mutate(year = as.character(year)) %>%
+        flextable() %>%
+        delete_part("header")
 
-  appointments <- flextable(appointments) %>%
-      delete_part("header")
-
-  set_table_properties(appointments, layout = "autofit")
-}else{
-  kable(appointments, col.names = NULL)
+    set_table_properties(appointments, layout = "autofit")
+} else {
+    appointments %>%
+        mutate(details = str_replace_all(
+            details,
+            " \\{return\\}",
+            " <br>"
+        ))%>%
+    kable(col.names = NULL)
 }
 
 ```

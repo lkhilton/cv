@@ -3,26 +3,19 @@
 
 # Education
 
-|      |                                                                  |
-|:-----|:-----------------------------------------------------------------|
-| 2013 | PhD, Molecular Biology and Biochemistry, Simon Fraser University |
-
-Advisor: Dr. Lynne Quarmby Thesis: The NIMA-Related Kinases as
-Regulators of Ciliary Assembly and Disassembly \| \|2008 \|BSc Hons with
-Distinction, Molecular Biology and Biochemistry, Simon Fraser University
-\|
+|  |  |
+|---:|:---|
+| 2013 | PhD, Molecular Biology and Biochemistry, Simon Fraser University <br>Advisor: Dr. Lynne Quarmby <br>Thesis: The NIMA-Related Kinases as Regulators of Ciliary Assembly and Disassembly |
+| 2008 | BSc Hons with Distinction, Molecular Biology and Biochemistry, Simon Fraser University |
 
 # Appointments
 
 |  |  |
 |:---|:---|
 | Jan. 2022 – Present | Adjunct Professor, Molecular Biology and Biochemistry, Simon Fraser University |
-| Feb. 2020 – Present | Staff Scientist, Lymphoid Cancer Research, BC Cancer Research Centre |
-| Research interests: Genomic and transcriptomic approaches to characterizing and classifying non-Hodgkin lymphomas; tumour evolution and lymphomagenesis. |  |
-| Feb. 2018 – Jan. 2020 | Postdoctoral Fellow, Morin Lab, Molecular Biology and Biochemistry, Simon Fraser University |
-| Research interests: Whole genome and targeted sequencing approaches to identify genetic drivers of therapeutic resistance in non-Hodgkin lymphoma. |  |
-| Sep. 2019 – Dec. 2019 | Sessional Instructor, Molecular Biology and Biochemistry, Simon Fraser University. |
-| Course: MBB 460/829, combined undergraduate and graduate level course in Cancer Genomics |  |
+| Feb. 2020 – Present | Staff Scientist, Lymphoid Cancer Research, BC Cancer Research Centre <br>Research interests: Genomic and transcriptomic approaches to characterizing and classifying non-Hodgkin lymphomas; tumour evolution and lymphomagenesis. |
+| Feb. 2018 – Jan. 2020 | Postdoctoral Fellow, Morin Lab, Molecular Biology and Biochemistry, Simon Fraser University <br>Research interests: Whole genome and targeted sequencing approaches to identify genetic drivers of therapeutic resistance in non-Hodgkin lymphoma. |
+| Sep. 2019 – Dec. 2019 | Sessional Instructor, Molecular Biology and Biochemistry, Simon Fraser University. <br>Course: MBB 460/829, combined undergraduate and graduate level course in Cancer Genomics |
 | Sep. 2013 – Jan. 2017 | Postdoctoral Research Assistant, Quarmby Lab, Molecular Biology and Biochemistry, Simon Fraser University |
 | Aug. 2015 – Mar. 2017 | Visiting Teaching Fellow, Life Sciences, Quest University Canada. |
 | Sept. 2014 – June 2015 | Curriculum Coordinator, Life Sciences, Simon Fraser University |
