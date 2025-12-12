@@ -1,4 +1,5 @@
 /_extensions
 /.quarto/
 /_freeze
+/cv_cache
 **/*.quarto_ipynb

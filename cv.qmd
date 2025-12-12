@@ -2,6 +2,19 @@
 title: "Laura K. Hilton, PhD"
 subtitle: "Curriculum Vitae"
 
+format:
+  docx:
+    toc: false
+    geometry:
+      - top=25mm
+      - bottom=25mm
+      - right=25mm
+      - left=25mm
+      - footskip=15mm
+    reference-doc: csl/custom-reference-doc.docx
+    mainfont: Helvetica
+    sansfont: Helvetica
+
 # Use the multibib extension
 filters:
   - multibib
@@ -14,9 +27,10 @@ bibliography:
   talks: references/talks.bib
   posters: references/posters.bib
   papers: references/papers.bib
-  not-reviewed: references/not-peer-reviewed.bib
+  invited: references/not-peer-reviewed.bib
 nocite: |
     @*
+csl: csl/elsevier-harvard.csl
 
 # Disable citeproc
 citeproc: false
@@ -32,7 +46,18 @@ crossref:
       latex-list-of-description: Appendix Table
 apptbl-cap-location: top
 
+editor:
+  render-on-save: false
 
+execute:
+  freeze: auto
+  echo: false
+  include: true
+  warning: false
+  message: false
+  error: false
+  cache: false
+  
 ---
 
 ```{r}
@@ -57,8 +82,10 @@ education <- read_tsv("components/education.tsv") %>%
   )) %>% 
   mutate(year = as.character(year))    
 
-flextable(education) %>% 
+education <- flextable(education) %>% 
   delete_part("header")
+
+set_table_properties(education, layout = "autofit")
 
 ```
 
@@ -75,8 +102,10 @@ appointments <- read_tsv("components/appointments.tsv") %>%
     )) %>%
     mutate(year = as.character(year))
 
-flextable(appointments) %>%
+appointments <- flextable(appointments) %>%
     delete_part("header")
+
+set_table_properties(appointments, layout = "autofit")
 
 ```
 
@@ -93,12 +122,14 @@ awards <- read_tsv("components/awards_honours.tsv") %>%
     )) %>%
     mutate(year = as.character(year))
 
-flextable(awards) %>%
+awards <- flextable(awards) %>%
     delete_part("header")
+
+set_table_properties(awards, layout = "autofit")
 
 ```
 
-## Publications
+# Publications
 
 ```{r}
 #| label: count-citations
@@ -135,9 +166,18 @@ first_author_count <- str_count(text_content, paste0(pattern, collapse = "|"))
 ```{r}
 #| label: invited-talks
 
-invited_talks <- read_tsv("components/invited_talks.tsv")
+invited_talks <- read_tsv("components/invited_talks.tsv") %>%
+    mutate(details = str_replace_all(
+        details,
+        "\\{return\\}",
+        "\n"
+    )) %>%
+    mutate(year = as.character(year))
 
+invited_talks <- flextable(invited_talks) %>%
+    delete_part("header")
 
+set_table_properties(invited_talks, layout = "autofit")
 
 ```
 
@@ -170,8 +210,10 @@ disruptions <- read_tsv("components/disruptions.tsv") %>%
     )) %>%
     mutate(year = as.character(year))
 
-flextable(disruptions) %>%
+disruptions <- flextable(disruptions) %>%
     delete_part("header")
+    
+set_table_properties(disruptions, layout = "autofit")
 
 ```
 
