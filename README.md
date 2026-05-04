@@ -43,7 +43,7 @@
 
 ## Published Peer-Reviewed Articles and Preprints
 
-*46 total; 14 as (co-)first author*
+*47 total; 13 as (co-)first author*
 
 *\*Equal contributions*
 
@@ -184,18 +184,6 @@ Adv*. bloodadvances.2025017282.
 
 </div>
 
-<div id="ref-champagneRetreatmentRCHOPlikeTherapy2025"
-class="csl-entry">
-
-Champagne, J.-N., Villa, D., Gerrie, A.S., Venner, C.P., Slack, G.W.,
-Farinha, P., Craig, J.W., Hilton, L.K., Savage, K.J., Scott, D.W., Sehn,
-L.H., **2025**. [Retreatment with <span class="nocase">R-CHOP-like
-Therapy</span> in Patients with Late Relapse of Diffuse Large B-Cell
-Lymphoma](https://doi.org/10.1182/bloodadvances.2025017620). *Blood
-Adv*. bloodadvances.2025017620.
-
-</div>
-
 <div id="ref-collingeHighgradeBcellLymphoma2025" class="csl-entry">
 
 Collinge, B., Hilton, L.K., Wong, J., Alduaij, W., Ben-Neriah, S.,
@@ -221,34 +209,6 @@ H., Wong, J., Yiu, J., Steidl, C., Scott, D.W., Morin, R.D., **2025**.
 [<span class="nocase">LCR-modules</span>: A collection of workflows for
 cancer genome analysis](https://doi.org/10.1101/2025.09.19.676923).
 *bioRxiv*. 2025.09.19.676923.
-
-</div>
-
-<div id="ref-feldmanGeneExpressionProfiling2025" class="csl-entry">
-
-Feldman, A.L., Dasari, S., Rimsza, L.M., Scott, D.W., Oishi, N., Hu, G.,
-Farinha, P., Amador, C., Campo, E., Chan, W.C., Cook, J.R., Delabie, J.,
-Fu, K., Greiner, T.C., Hilton, L.K., Inghirami, G.G., Iqbal, J., Jaffe,
-E.S., Morin, R., Ondrejka, S.L., Ott, G., Pittaluga, S., Raess, P.W.,
-Rosenwald, A., Savage, K.J., Slack, G.W., Slager, S.L., Song, J.Y.,
-Wright, G., Wang, H.-W., Zeng, Y., Yoshino, T., Wu, X., Wilcox, R.A.,
-Wang, X., Shi, M., Satou, A., Perry, A.M., Miranda, R.N., Medeiros,
-L.J.J., Maurer, M.J., Mou, E., Ko, Y.H., Karube, K., Kahl, B.S., Jiang,
-L., Jaye, D.L., Gru, A., de Leval, L.L., Chen, W., Chapman, J.R.,
-Cerhan, J.R., Barrionuevo, C., Ansell, S.M., Aljudi, A., **2025**. [Gene
-expression profiling reveals two overarching types of ALCL with distinct
-targetable biology: An LLMPP
-study](https://doi.org/10.1182/blood.2024027700). *Blood*.
-blood.2024027700.
-
-</div>
-
-<div id="ref-hiltonGenomicTaxonomyAggressive2025" class="csl-entry">
-
-Hilton, L.K., Collinge, B., Scott, D.W., **2025**. [Genomic Taxonomy of
-Aggressive B-Cell Lymphoid
-Neoplasms](https://doi.org/10.1146/annurev-pathmechdis-111523-023413).
-*Annu Rev Pathol*.
 
 </div>
 
@@ -310,6 +270,19 @@ IRF4 mutations and thymic tropism in primary mediastinal large
 <span class="nocase">B-cell</span>
 lymphoma](https://doi.org/10.1182/blood.2025028412). *Blood*. **146**,
 1586–1600.
+
+</div>
+
+<div id="ref-terryfoxresearchinstitutemarathonofhopecancercentersnetwork.electronicaddress:mmarra@bcgsc.caTerryFoxResearch2025a"
+class="csl-entry">
+
+Terry Fox Research Institute Marathon of Hope Cancer Centers Network.
+Electronic address: mmarra@bcgsc.ca, Terry Fox Research Institute
+Marathon of Hope Cancer Centers Network, **2025**. [The Terry Fox
+Research Institute Marathon of Hope Cancer Centres Network: A
+pan-Canadian precision oncology
+initiative](https://doi.org/10.1016/j.ccell.2025.03.014). *Cancer Cell*.
+**43**, 587–592.
 
 </div>
 
