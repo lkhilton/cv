@@ -213,7 +213,6 @@ set_table_properties(awards, layout = "autofit")
 
 ```{r}
 #| label: count-citations
-
 # Read the file content into a single string
 text_content <- readLines("references/papers.bib", warn = FALSE)
 text_content <- paste(text_content, collapse = "\n")
@@ -225,6 +224,10 @@ paper_count <- str_count(text_content, pattern)
 # Count the number of first author papers
 pattern <- c("\\{*Hilton\\}", "@article\\{hilton")
 first_author_count <- str_count(text_content, paste0(pattern, collapse = "|"))
+
+# Count the number of corresponding/senior author papers
+# pattern <- c("u2020", "Hilton, Laura K.\\}", "Hilton, Laura K\\}", "Hilton, Laura\\}")
+# corr_author_count <- str_count(text_content, paste0(pattern, collapse = "|"))
 
 ```
 

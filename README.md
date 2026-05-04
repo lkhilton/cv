@@ -43,12 +43,119 @@
 
 ## Published Peer-Reviewed Articles and Preprints
 
-*39 total; 12 as (co-)first author*
+*46 total; 14 as (co-)first author*
 
 *\*Equal contributions*
 
 <div id="refs-papers" class="references csl-bib-body hanging-indent"
 entry-spacing="0">
+
+<div id="ref-aokiMultidimensionalCharacterizationTumor2026"
+class="csl-entry">
+
+Aoki, T., Duns, G., Rai, S., Jiang, A., Lytle, A., Yin, Y., Kishida, M.,
+Yu Li, M., Lee, C., Smorra, D., Hilton, L.K., Healy, S., Alig, S.K.,
+Shahrokh Esfahani, M., Sarkozy, C., Hung, S.S., Milne, K., Telenius, A.,
+O’Brien, L., Wong, J.C.H., Cassidy, C., Fujisawa, M., Strong, C.,
+Goodyear, T., Di Vito, C., Luksik, C., Edin, G., Gonzalez, L., Rangel
+Patiño, J., Hong, M., Wu, S., Lee, E., Sakhdari, A., Takata, K.,
+Miyata-Takata, T., Boyle, M., Ben-Neriah, S., Weng, A.P., Xu, A.,
+Merchant, A., Roth, A., Crump, M., Kuruvilla, J., Prica, A., Kridel, R.,
+Huntsman, D.G., Nelson, B.H., Farinha, P., Morin, R.D., Alizadeh, A.A.,
+Savage, K.J., Scott, D.W., Steidl, C., **2026**. [Multidimensional
+Characterization of Tumor–Immune Architecture Reveals Clinically
+Relevant Classic Hodgkin Lymphoma
+Subtypes](https://doi.org/10.1158/2159-8290.CD-25-0859). *Cancer
+Discov*. **16**, 993–1013.
+
+</div>
+
+<div id="ref-champagneRetreatmentRCHOPlikeTherapy2026"
+class="csl-entry">
+
+Champagne, J.-N., Villa, D., Gerrie, A.S., Venner, C.P., Slack, G.W.,
+Farinha, P., Craig, J.W., Hilton, L.K., Savage, K.J., Scott, D.W., Sehn,
+L.H., **2026**. [Retreatment with R-CHOP–like therapy in patients with
+late relapse of diffuse large <span class="nocase">B-cell</span>
+lymphoma](https://doi.org/10.1182/bloodadvances.2025017620). *Blood
+Adv*. **10**, 620–626.
+
+</div>
+
+<div id="ref-feldmanGeneExpressionProfiling2026" class="csl-entry">
+
+Feldman, A.L., Dasari, S., Rimsza, L.M., Scott, D.W., Oishi, N., Hu, G.,
+Farinha, P., Amador, C., Campo, E., Chan, W.C., Cook, J.R., Delabie, J.,
+Fu, K., Greiner, T.C., Hilton, L.K., Inghirami, G., Iqbal, J., Jaffe,
+E.S., Morin, R.D., Ondrejka, S.L., Ott, G., Pittaluga, S., Raess, P.W.,
+Rosenwald, A., Savage, K.J., Slack, G.W., Slager, S.L., Song, J.Y.,
+Wright, G.W., Wang, H.-W., Zeng, Y., Yoshino, T., Wu, X., Wilcox, R.A.,
+Wang, X., Shi, M., Satou, A., Perry, A.M., Miranda, R.N., Medeiros,
+L.J., Maurer, M.J., Mou, E., Ko, Y.-H., Karube, K., Kahl, B.S., Jiang,
+L., Jaye, D.L., Gru, A.A., de Leval, L., Chen, W., Chapman, J.R.,
+Cerhan, J.R., Barrionuevo, C., Ansell, S.M., Aljudi, A.A., **2026**.
+[Gene expression profiling reveals 2 overarching types of ALCL with
+distinct targetable biology: An LLMPP
+study](https://doi.org/10.1182/blood.2024027700). *Blood*. **147**,
+1199–1214.
+
+</div>
+
+<div id="ref-hiltonGenomicTaxonomyAggressive2026a" class="csl-entry">
+
+Hilton, L.K., Collinge, B., Scott, D.W., **2026**. [Genomic Taxonomy of
+Aggressive B-Cell Lymphoid
+Neoplasms](https://doi.org/10.1146/annurev-pathmechdis-111523-023413).
+*Annu Rev Pathol*. **21**, 321–348.
+
+</div>
+
+<div id="ref-hiltonLySeqSTTargetedSequencing2026" class="csl-entry">
+
+Hilton, L.K., Gillis, S., Yahyaei-Moayyed, F., Bridgers, J., Alduaij,
+W., Jiang, A., Ben-Neriah, S., Collinge, B., Wong, J.C.H., Boyle, M.,
+Meissner, B., Slack, G.W., Farinha, P., Craig, J.W., Gerrie, A.S.,
+Villa, D., Savage, K.J., Sehn, L.H., Karsan, A., Wright, G., Staudt,
+L.M., Morin, R.D., Steidl, C., Scott, D.W., **2026**. [LySeqST: A
+targeted sequencing assay for robust genomic classification of diffuse
+large <span class="nocase">B-cell</span>
+lymphoma](https://doi.org/10.1182/bloodadvances.2026020105). *Blood
+Adv*. bloodadvances.2026020105.
+
+</div>
+
+<div id="ref-pelzerSPENLossDrives2026" class="csl-entry">
+
+Pelzer, B., Meydan, C., Spiegel, I.M., Karagiannidis, I., Xia, M.,
+Teater, M., Welter, E.M., Searcy, Z.E., Hilton, L.K., Barisic, D., Fong,
+A., Fa, P., Sethi, S., Isgor, I.S., Fielding, J.J., Karbalayghareh, A.,
+Burdette, C.S., Tumuluru, S., Debek, S.M., Lee, S., Massoni-Badosa, R.,
+Durmaz, C., Salataj, E., Pararajalingam, P., Chen, Z., Pelzl, R.J.,
+Shah, S., Rivas, M.A., Hoehn, K.B., Mlynarczyk, C., Isles, H.M., Wang,
+X., Dogan, A., Elenitoba-Johnson, K.S.J., Scott, D.W., Dreval, K.,
+Morin, R.D., Leslie, C.S., Puri, R., Geri, J.B., Chin, C.R., Chadburn,
+A., Mason, C.E., Reinhardt, H.Christian., Anguera, M.C., Béguelin, W.,
+Venturutti, L., Melnick, A.M., **2026**. [SPEN loss drives
+extra-follicular diffuse large B cell lymphoma with female-specific
+lethality and therapeutic
+vulnerabilities](https://doi.org/10.1158/2159-8290.CD-25-1458). *Cancer
+Discov*.
+
+</div>
+
+<div id="ref-yangPatientDerivedXenograft2026" class="csl-entry">
+
+Yang, H., Arita, K., Bowman, K., Chihara, D., Henderson, J., Rost, G.,
+Rojas, E., Parsons, S., Lakra, P., Abedin, A., Neelapu, S.S., Strati,
+P., Nastoupil, L.J., Fayad, L., Iyer, S.P., Rodriguez, A., Hagemeister,
+F.B., Malpica, L., Lee, H.J., Hilton, L., Scott, D.W., Davis, R.E.,
+Flowers, C.R., Westin, J.R., Inghirami, G., Vega, F., Green, M.R.,
+**2026**. [A patient derived xenograft repository capturing clinical and
+molecular heterogeneity of large <span class="nocase">B-cell</span>
+lymphoma](https://doi.org/10.64898/2026.01.19.700406). *bioRxiv*.
+2026.01.19.700406.
+
+</div>
 
 <div id="ref-alduaijCNSRelapseHighgrade2025" class="csl-entry">
 
@@ -613,6 +720,9 @@ Domains. Wiley, Hoboken.
 
 |  |  |
 |---:|:---|
+| 2026 | Genetic subtype-guided trials: Clinical application in 2026. MD Education CLL-Lymphoma US Focus Meeting. La Jolla, CA, USA. |
+| 2026 | Evolutionary trajectories to progression and transformation in follicular lymphoma. Lymphoma Research Foundation Follicular Lymphoma Scientific Workshop. Jersey City, NJ, USA. |
+| 2025 | The Biology and Evolution of Relapse in DLBCL. University of Rochester/Wilmot Cancer Center Grand Rounds. Rochester, NY, USA. |
 | 2025 | Plenary introduction: Diffuse large B-cell lymphoma classification and ancestry. American Society of Hematology Annual Meeting, Orlando, FL, USA. |
 | 2024 | The Biology of Relapsed/Refractory DLBCL. Women in Lymphoma Webinar, virtual. |
 | 2023 | The Biology and Evolution of Relapse in DLBCL. SWOG Fall 2023 Group Meeting, Chicago, IL. |
@@ -1225,7 +1335,7 @@ Feldman, A.L., Rimsza, L.M., Savage, K.J., Morin, R.D., Scott, D.W.,
 **2022**. [Genetic Determinants of Isolated and Systemic Testicular
 Diffuse Large B-Cell Lymphoma Highlight a Disease
 Spectrum](https://doi.org/10.1182/blood-2022-165546). American Society
-of Hematology Annual Meeting.
+of Hematology Annual Meeting. New Orleans, LA, USA.
 
 </div>
 
