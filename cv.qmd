@@ -47,6 +47,7 @@ format:
 # Use the multibib extension
 filters:
   - multibib
+  - bold-author.lua
 
 # Turn off YAML validation
 validate-yaml: false

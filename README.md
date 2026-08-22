@@ -1,4 +1,4 @@
-# Laura K. Hilton, PhD
+# Laura K. **Hilton,** PhD
 
 
 - [Education](#education)
@@ -43,7 +43,7 @@
 
 ## Published Peer-Reviewed Articles and Preprints
 
-*47 total; 13 as (co-)first author*
+*48 total; 14 as (co-)first author*
 
 *\*Equal contributions*
 
@@ -54,7 +54,7 @@ entry-spacing="0">
 class="csl-entry">
 
 Aoki, T., Duns, G., Rai, S., Jiang, A., Lytle, A., Yin, Y., Kishida, M.,
-Yu Li, M., Lee, C., Smorra, D., Hilton, L.K., Healy, S., Alig, S.K.,
+Yu Li, M., Lee, C., Smorra, D., **Hilton, L.K.**, Healy, S., Alig, S.K.,
 Shahrokh Esfahani, M., Sarkozy, C., Hung, S.S., Milne, K., Telenius, A.,
 O’Brien, L., Wong, J.C.H., Cassidy, C., Fujisawa, M., Strong, C.,
 Goodyear, T., Di Vito, C., Luksik, C., Edin, G., Gonzalez, L., Rangel
@@ -74,28 +74,41 @@ Discov*. **16**, 993–1013.
 class="csl-entry">
 
 Champagne, J.-N., Villa, D., Gerrie, A.S., Venner, C.P., Slack, G.W.,
-Farinha, P., Craig, J.W., Hilton, L.K., Savage, K.J., Scott, D.W., Sehn,
-L.H., **2026**. [Retreatment with R-CHOP–like therapy in patients with
-late relapse of diffuse large <span class="nocase">B-cell</span>
+Farinha, P., Craig, J.W., **Hilton, L.K.**, Savage, K.J., Scott, D.W.,
+Sehn, L.H., **2026**. [Retreatment with R-CHOP–like therapy in patients
+with late relapse of diffuse large <span class="nocase">B-cell</span>
 lymphoma](https://doi.org/10.1182/bloodadvances.2025017620). *Blood
 Adv*. **10**, 620–626.
 
 </div>
 
+<div id="ref-drevalLCRmodulesCollectionWorkflows2026a"
+class="csl-entry">
+
+Dreval, K., **Hilton, L.K.**, Grande, B.M., Banco, G., Coyle, K.M.,
+Cruz, M., Gillis, S., Klossok, L., Pararajalingam, P., Rushton, C.K.,
+Shaalan, H., Thomas, N., Winata, H., Wong, J., Yiu, J., Steidl, C.,
+Scott, D.W., Morin, R.D., **2026**.
+[<span class="nocase">LCR-modules</span>: A collection of workflows for
+cancer genome analysis](https://doi.org/10.1093/bioinformatics/btag366).
+*Bioinformatics*. **42**, btag366.
+
+</div>
+
 <div id="ref-feldmanGeneExpressionProfiling2026" class="csl-entry">
 
-Feldman, A.L., Dasari, S., Rimsza, L.M., Scott, D.W., Oishi, N., Hu, G.,
-Farinha, P., Amador, C., Campo, E., Chan, W.C., Cook, J.R., Delabie, J.,
-Fu, K., Greiner, T.C., Hilton, L.K., Inghirami, G., Iqbal, J., Jaffe,
-E.S., Morin, R.D., Ondrejka, S.L., Ott, G., Pittaluga, S., Raess, P.W.,
-Rosenwald, A., Savage, K.J., Slack, G.W., Slager, S.L., Song, J.Y.,
-Wright, G.W., Wang, H.-W., Zeng, Y., Yoshino, T., Wu, X., Wilcox, R.A.,
-Wang, X., Shi, M., Satou, A., Perry, A.M., Miranda, R.N., Medeiros,
-L.J., Maurer, M.J., Mou, E., Ko, Y.-H., Karube, K., Kahl, B.S., Jiang,
-L., Jaye, D.L., Gru, A.A., de Leval, L., Chen, W., Chapman, J.R.,
-Cerhan, J.R., Barrionuevo, C., Ansell, S.M., Aljudi, A.A., **2026**.
-[Gene expression profiling reveals 2 overarching types of ALCL with
-distinct targetable biology: An LLMPP
+<span class="nocase">Feldman, A.L., Dasari, S., Rimsza, L.M., Scott,
+D.W., Oishi, N., Hu, G., Farinha, P., Amador, C., Campo, E., Chan, W.C.,
+Cook, J.R., Delabie, J., Fu, K., Greiner, T.C., **Hilton, L.K.**,
+Inghirami, G., Iqbal, J., Jaffe, E.S., Morin, R.D., Ondrejka, S.L., Ott,
+G., Pittaluga, S., Raess, P.W., Rosenwald, A., Savage, K.J., Slack,
+G.W., Slager, S.L., Song, J.Y., Wright, G.W., Wang, H.-W., Zeng, Y.,
+Yoshino, T., Wu, X., Wilcox, R.A., Wang, X., Shi, M., Satou, A., Perry,
+A.M., Miranda, R.N., Medeiros, L.J., Maurer, M.J., Mou, E., Ko, Y.-H.,
+Karube, K., Kahl, B.S., Jiang, L., Jaye, D.L., Gru, A.A., de Leval, L.,
+Chen, W., Chapman, J.R., Cerhan, J.R., Barrionuevo, C., Ansell, S.M.,
+Aljudi, A.A.</span>, **2026**. [Gene expression profiling reveals 2
+overarching types of ALCL with distinct targetable biology: An LLMPP
 study](https://doi.org/10.1182/blood.2024027700). *Blood*. **147**,
 1199–1214.
 
@@ -103,8 +116,8 @@ study](https://doi.org/10.1182/blood.2024027700). *Blood*. **147**,
 
 <div id="ref-hiltonGenomicTaxonomyAggressive2026a" class="csl-entry">
 
-Hilton, L.K., Collinge, B., Scott, D.W., **2026**. [Genomic Taxonomy of
-Aggressive B-Cell Lymphoid
+**Hilton, L.K.**, Collinge, B., Scott, D.W., **2026**. [Genomic Taxonomy
+of Aggressive B-Cell Lymphoid
 Neoplasms](https://doi.org/10.1146/annurev-pathmechdis-111523-023413).
 *Annu Rev Pathol*. **21**, 321–348.
 
@@ -112,30 +125,59 @@ Neoplasms](https://doi.org/10.1146/annurev-pathmechdis-111523-023413).
 
 <div id="ref-hiltonLySeqSTTargetedSequencing2026" class="csl-entry">
 
-Hilton, L.K., Gillis, S., Yahyaei-Moayyed, F., Bridgers, J., Alduaij,
-W., Jiang, A., Ben-Neriah, S., Collinge, B., Wong, J.C.H., Boyle, M.,
-Meissner, B., Slack, G.W., Farinha, P., Craig, J.W., Gerrie, A.S.,
-Villa, D., Savage, K.J., Sehn, L.H., Karsan, A., Wright, G., Staudt,
-L.M., Morin, R.D., Steidl, C., Scott, D.W., **2026**. [LySeqST: A
-targeted sequencing assay for robust genomic classification of diffuse
+**Hilton, L.K.**, Gillis, S., Yahyaei-Moayyed, F., Bridgers, J.,
+Alduaij, W., Jiang, A., Ben-Neriah, S., Collinge, B., Wong, J.C.H.,
+Boyle, M., Meissner, B., Slack, G.W., Farinha, P., Craig, J.W., Gerrie,
+A.S., Villa, D., Savage, K.J., Sehn, L.H., Karsan, A., Wright, G.,
+Staudt, L.M., Morin, R.D., Steidl, C., Scott, D.W., **2026**. [LySeqST:
+A targeted sequencing assay for robust genomic classification of diffuse
 large <span class="nocase">B-cell</span>
 lymphoma](https://doi.org/10.1182/bloodadvances.2026020105). *Blood
 Adv*. bloodadvances.2026020105.
 
 </div>
 
+<div id="ref-hiltonStaticSubtypesLarge2026" class="csl-entry">
+
+**Hilton, L.K.**, Flowers, C.R., Koff, J.L., **2026**. [Beyond Static
+Subtypes in <span class="nocase">Large B-cell Lymphoma</span>: Context,
+Plasticity, and Therapeutic
+Logic](https://doi.org/10.1158/2643-3230.BCD-26-0204). *Blood Cancer
+Discov*. **7**, 515–519.
+
+</div>
+
+<div id="ref-parkerIntegratedMultiomicProfiling2026" class="csl-entry">
+
+Parker, H., Mirandari, A., Stevens, B., Oquendo, C.J., Duran-Ferrer, M.,
+Buermann, L., Amarasinghe, H.E., Thomas, J., Carr, L., Syeda, S.,
+Sakthipakan, M., Parry, M., Rose-Zerilli, M.J.J., Davis, Z.,
+McIver-Brown, N., Xochelli, A., Ennis, S., Scarfò, L., Ghia, P.,
+Kalpadakis, C., Pangalis, G., Rossi, D., Gaidano, G., Wagner, S.,
+Ahearne, M., Seifert, M., Plass, C., Weichenhan, D., Kimby, E., Sutton,
+L.-A., Rosenquist, R., Amini, R.-M., Ljungström, V., Pratt, G., Forconi,
+F., Stamatopoulos, K., Salido, M., Ferrer, A., Thieblemont, C.,
+**Hilton, L.**, Morin, R., Walewska, R., Martín-Subero, J.I., Oscier,
+D., Oakes, C., Gibson, J., Bryant, D., Strefford, J.C., **2026**.
+[Integrated multiomic profiling reveals 2 distinct splenic marginal zone
+lymphoma subgroups with prognostic
+relevance](https://doi.org/10.1182/bloodadvances.2025019336). *Blood
+Adv*. **10**, 4943–4957.
+
+</div>
+
 <div id="ref-pelzerSPENLossDrives2026" class="csl-entry">
 
 Pelzer, B., Meydan, C., Spiegel, I.M., Karagiannidis, I., Xia, M.,
-Teater, M., Welter, E.M., Searcy, Z.E., Hilton, L.K., Barisic, D., Fong,
-A., Fa, P., Sethi, S., Isgor, I.S., Fielding, J.J., Karbalayghareh, A.,
-Burdette, C.S., Tumuluru, S., Debek, S.M., Lee, S., Massoni-Badosa, R.,
-Durmaz, C., Salataj, E., Pararajalingam, P., Chen, Z., Pelzl, R.J.,
-Shah, S., Rivas, M.A., Hoehn, K.B., Mlynarczyk, C., Isles, H.M., Wang,
-X., Dogan, A., Elenitoba-Johnson, K.S.J., Scott, D.W., Dreval, K.,
-Morin, R.D., Leslie, C.S., Puri, R., Geri, J.B., Chin, C.R., Chadburn,
-A., Mason, C.E., Reinhardt, H.Christian., Anguera, M.C., Béguelin, W.,
-Venturutti, L., Melnick, A.M., **2026**. [SPEN loss drives
+Teater, M., Welter, E.M., Searcy, Z.E., **Hilton, L.K.**, Barisic, D.,
+Fong, A., Fa, P., Sethi, S., Isgor, I.S., Fielding, J.J.,
+Karbalayghareh, A., Burdette, C.S., Tumuluru, S., Debek, S.M., Lee, S.,
+Massoni-Badosa, R., Durmaz, C., Salataj, E., Pararajalingam, P., Chen,
+Z., Pelzl, R.J., Shah, S., Rivas, M.A., Hoehn, K.B., Mlynarczyk, C.,
+Isles, H.M., Wang, X., Dogan, A., Elenitoba-Johnson, K.S.J., Scott,
+D.W., Dreval, K., Morin, R.D., Leslie, C.S., Puri, R., Geri, J.B., Chin,
+C.R., Chadburn, A., Mason, C.E., Reinhardt, H.Christian., Anguera, M.C.,
+Béguelin, W., Venturutti, L., Melnick, A.M., **2026**. [SPEN loss drives
 extra-follicular diffuse large B cell lymphoma with female-specific
 lethality and therapeutic
 vulnerabilities](https://doi.org/10.1158/2159-8290.CD-25-1458). *Cancer
@@ -143,26 +185,27 @@ Discov*.
 
 </div>
 
-<div id="ref-yangPatientDerivedXenograft2026" class="csl-entry">
+<div id="ref-yangPatientDerivedXenograftRepository2026"
+class="csl-entry">
 
 Yang, H., Arita, K., Bowman, K., Chihara, D., Henderson, J., Rost, G.,
-Rojas, E., Parsons, S., Lakra, P., Abedin, A., Neelapu, S.S., Strati,
-P., Nastoupil, L.J., Fayad, L., Iyer, S.P., Rodriguez, A., Hagemeister,
-F.B., Malpica, L., Lee, H.J., Hilton, L., Scott, D.W., Davis, R.E.,
-Flowers, C.R., Westin, J.R., Inghirami, G., Vega, F., Green, M.R.,
-**2026**. [A patient derived xenograft repository capturing clinical and
-molecular heterogeneity of large <span class="nocase">B-cell</span>
-lymphoma](https://doi.org/10.64898/2026.01.19.700406). *bioRxiv*.
-2026.01.19.700406.
+Rojas, E., Parsons, S., Lakra, P., Abedin, A.S., Neelapu, S.S., Strati,
+P., Nastoupil, L.J., Fayad, L.E., Iyer, S.P., Rodriguez, M.A.,
+Hagemeister, F.B., Malpica, L., Lee, H., **Hilton, L.K.**, Scott, D.W.,
+Davis, R.E., Flowers, C.R., Westin, J.R., Inghirami, G., Vega, F.,
+Green, M.R., **2026**. [A Patient-Derived Xenograft Repository Capturing
+Clinical and Molecular Heterogeneity of <span class="nocase">Large
+B-cell Lymphoma</span>](https://doi.org/10.1158/2643-3230.BCD-26-0005).
+*Blood Cancer Discov*. OF1–OF16.
 
 </div>
 
 <div id="ref-alduaijCNSRelapseHighgrade2025" class="csl-entry">
 
 Alduaij, W., Jiang, A., Villa, D., Collinge, B., Ben-Neriah, S., Boyle,
-M., Meissner, B., Hilton, L.K., Farinha, P., Slack, G.W., Craig, J.W.,
-Gerrie, A.S., Freeman, C.L., Mungall, A.J., Steidl, C., Sehn, L.H.,
-Scott, D.W., Savage, K.J., **2025**. [CNS relapse in high-grade
+M., Meissner, B., **Hilton, L.K.**, Farinha, P., Slack, G.W., Craig,
+J.W., Gerrie, A.S., Freeman, C.L., Mungall, A.J., Steidl, C., Sehn,
+L.H., Scott, D.W., Savage, K.J., **2025**. [CNS relapse in high-grade
 <span class="nocase">B-cell</span> lymphoma with MYC and BCL2
 rearrangements and dark-zone signature-expressing
 DLBCL](https://doi.org/10.1182/blood.2024025725). *Blood*. **145**,
@@ -174,11 +217,12 @@ DLBCL](https://doi.org/10.1182/blood.2024025725). *Blood*. **145**,
 class="csl-entry">
 
 Alduaij, W., Sehn, L.H., Champagne, J.-N., Collinge, B., Ben-Neriah, S.,
-Jiang, A., Hilton, L.K., Boyle, M., Meissner, B., Slack, G.W., Farinha,
-P., Craig, J.W., Savage, K.J., Villa, D., Gerrie, A.S., Freeman, C.L.,
-Mungall, A.J., Steidl, C., Scott, D.W., **2025**. [Population-Wide
-Introduction of <span class="nocase">Dose-Adjusted EPOCH-R In High-grade
-B-cell Lymphoma</span> with MYC/BCL2 Rearrangements, DLBCL
+Jiang, A., **Hilton, L.K.**, Boyle, M., Meissner, B., Slack, G.W.,
+Farinha, P., Craig, J.W., Savage, K.J., Villa, D., Gerrie, A.S.,
+Freeman, C.L., Mungall, A.J., Steidl, C., Scott, D.W., **2025**.
+[Population-Wide Introduction of <span class="nocase">Dose-Adjusted
+EPOCH-R In High-grade B-cell Lymphoma</span> with MYC/BCL2
+Rearrangements, DLBCL
 Morphology](https://doi.org/10.1182/bloodadvances.2025017282). *Blood
 Adv*. bloodadvances.2025017282.
 
@@ -186,7 +230,7 @@ Adv*. bloodadvances.2025017282.
 
 <div id="ref-collingeHighgradeBcellLymphoma2025" class="csl-entry">
 
-Collinge, B., Hilton, L.K., Wong, J., Alduaij, W., Ben-Neriah, S.,
+Collinge, B., **Hilton, L.K.**, Wong, J., Alduaij, W., Ben-Neriah, S.,
 Slack, G.W., Farinha, P., Boyle, M., Meissner, B., Cook, J.R., Ott, G.,
 Rosenwald, A., Campo, E., Amador, C., Greiner, T.C., Raess, P.W., Song,
 J.Y., Inghirami, G., Ondrejka, S.L., Jaffe, E.S., Weisenburger, D.D.,
@@ -200,22 +244,10 @@ study](https://doi.org/10.1182/bloodadvances.2025016651). *Blood Adv*.
 
 </div>
 
-<div id="ref-drevalLCRmodulesCollectionWorkflows2025a"
-class="csl-entry">
-
-Dreval, K., Hilton, L.K., Grande, B.M., Coyle, K.M., Cruz, M., Gillis,
-S., Pararajalingam, P., Rushton, C.K., Shaalan, H., Thomas, N., Winata,
-H., Wong, J., Yiu, J., Steidl, C., Scott, D.W., Morin, R.D., **2025**.
-[<span class="nocase">LCR-modules</span>: A collection of workflows for
-cancer genome analysis](https://doi.org/10.1101/2025.09.19.676923).
-*bioRxiv*. 2025.09.19.676923.
-
-</div>
-
 <div id="ref-klossokDLBCLoneUnifiedFramework2025a" class="csl-entry">
 
 Klossok, L., Dreval, K., Cruz, M., Wong, J.C.H., Gillis, S., Collinge,
-B., Steidl, C., Scott, D.W., Hilton, L.K., Morin, R.D., **2025**.
+B., Steidl, C., Scott, D.W., **Hilton, L.K.**, Morin, R.D., **2025**.
 [DLBCLone: A unified framework for neighbourhood-based genetic subtyping
 of lymphomas](https://doi.org/10.1101/2025.09.18.25335809). *medRxiv*.
 2025.09.18.25335809.
@@ -228,8 +260,8 @@ Li, X., Singhal, K., Deng, Q., Chihara, D., Russler-Germain, D.,
 Harkins, R.A., Henderson, J., Arita, K., Kizhakeyil, A., Sun, R., Lakra,
 P., Hussein, U., Foltz, J.A., Wilson, A., Schmidt, E., Nizamuddin, I.,
 Dinh, T., Kesaraju, A., Hamilton, M.P., Allen, C., Gandhi, M.K., Tobin,
-J., Jiang, A., Hilton, L., Scott, D.W., Vega, F., Flowers, C.R., Westin,
-J.R., Griffith, O.L., Fehniger, T.A., Griffith, M., Green, M.R.,
+J., Jiang, A., **Hilton, L.**, Scott, D.W., Vega, F., Flowers, C.R.,
+Westin, J.R., Griffith, O.L., Fehniger, T.A., Griffith, M., Green, M.R.,
 **2025**. [Large B cell lymphoma microenvironment archetype
 profiles](https://doi.org/10.1016/j.ccell.2025.06.002). *Cancer Cell*.
 **43**, 1347–1364.e13.
@@ -238,21 +270,22 @@ profiles](https://doi.org/10.1016/j.ccell.2025.06.002). *Cancer Cell*.
 
 <div id="ref-nadeuDiseasespecificU1Spliceosomal2025" class="csl-entry">
 
-Nadeu, F., Shuai, S., Clot, G., Hilton, L.K., Diaz-Navarro, A., Martín,
-S., Royo, R., Baumann, T., Kulis, M., López-Oreja, I., Cossio, M., Lu,
-J., Ljungström, V., Young, E., Plevova, K., Knisbacher, B.A., Lin, Z.,
-Hahn, C.K., Bousquets, P., Alcoceba, M., González, M., Colado, E.,
-Payer, Á.R., Aymerich, M., Terol, M.J., Rivas-Delgado, A., Enjuanes, A.,
-Ruiz-Gaspà, S., Chatzikonstantinou, T., Hägerstrand, D., Jylhä, C.,
-Skaftason, A., Mansouri, L., Stranska, K., Doubek, M., van Gastel-Mol,
-E.J., Davis, Z., Walewska, R., Scarfò, L., Trentin, L., Visentin, A.,
-Parikh, S.A., Rabe, K.G., Moia, R., Armand, M., Rossi, D., Davi, F.,
-Gaidano, G., Kay, N.E., Shanafelt, T.D., Ghia, P., Oscier, D., Langerak,
-A.W., Beà, S., López-Guillermo, A., Neuberg, D., Wu, C.J., Getz, G.,
-Pospisilova, S., Stamatopoulos, K., Rosenquist, R., Huber, W., Zenz, T.,
-Colomer, D., Martín-Subero, J.I., Delgado, J., Morin, R.D., Stein, L.D.,
-Puente, X.S., Campo, E., **2025**. [Disease-specific U1 spliceosomal RNA
-mutations in mature <span class="nocase">B-cell</span>
+<span class="nocase">Nadeu, F., Shuai, S., Clot, G., **Hilton, L.K.**,
+Diaz-Navarro, A., Martín, S., Royo, R., Baumann, T., Kulis, M.,
+López-Oreja, I., Cossio, M., Lu, J., Ljungström, V., Young, E., Plevova,
+K., Knisbacher, B.A., Lin, Z., Hahn, C.K., Bousquets, P., Alcoceba, M.,
+González, M., Colado, E., Payer, Á.R., Aymerich, M., Terol, M.J.,
+Rivas-Delgado, A., Enjuanes, A., Ruiz-Gaspà, S., Chatzikonstantinou, T.,
+Hägerstrand, D., Jylhä, C., Skaftason, A., Mansouri, L., Stranska, K.,
+Doubek, M., van Gastel-Mol, E.J., Davis, Z., Walewska, R., Scarfò, L.,
+Trentin, L., Visentin, A., Parikh, S.A., Rabe, K.G., Moia, R., Armand,
+M., Rossi, D., Davi, F., Gaidano, G., Kay, N.E., Shanafelt, T.D., Ghia,
+P., Oscier, D., Langerak, A.W., Beà, S., López-Guillermo, A., Neuberg,
+D., Wu, C.J., Getz, G., Pospisilova, S., Stamatopoulos, K., Rosenquist,
+R., Huber, W., Zenz, T., Colomer, D., Martín-Subero, J.I., Delgado, J.,
+Morin, R.D., Stein, L.D., Puente, X.S., Campo, E.</span>, **2025**.
+[Disease-specific U1 spliceosomal RNA mutations in mature
+<span class="nocase">B-cell</span>
 neoplasms](https://doi.org/10.1038/s41375-025-02667-7). *Leukemia*.
 **39**, 2076–2086.
 
@@ -263,8 +296,8 @@ neoplasms](https://doi.org/10.1038/s41375-025-02667-7). *Leukemia*.
 Rai, S., Duns, G., Frontzek, F., Wong, J.C.H., Yin, Y., Li, M.Y.,
 Kishida, M., Fujisawa, M., Healy, S., Viganò, E., Jiang, A., Woolcock,
 B., Telenius, A., Ben-Neriah, S., Meissner, B., Boyle, M., Nakamura, H.,
-O’Brien, L., Cassidy, C., Lytle, A., Farinha, P., Slack, G., Hilton,
-L.K., Morin, R.D., Venturutti, L., Aoki, T., Wretham, N., Bush, J.W.,
+O’Brien, L., Cassidy, C., Lytle, A., Farinha, P., Slack, G., **Hilton,
+L.K.**, Morin, R.D., Venturutti, L., Aoki, T., Wretham, N., Bush, J.W.,
 Evgin, L., Savage, K.J., Scott, D.W., Steidl, C., **2025**. [Somatic
 IRF4 mutations and thymic tropism in primary mediastinal large
 <span class="nocase">B-cell</span>
@@ -288,7 +321,7 @@ initiative](https://doi.org/10.1016/j.ccell.2025.03.014). *Cancer Cell*.
 
 <div id="ref-thomasDNAMethylationEpitypes2025a" class="csl-entry">
 
-Thomas, N., García-Prieto, C.A., Dreval, K., Hilton, L.K., Abramson,
+Thomas, N., García-Prieto, C.A., Dreval, K., **Hilton, L.K.**, Abramson,
 J.S., Bartlett, N.L., Bethony, J., Bowen, J., Bryan, A.C., Casper, C.,
 Dyer, M.A., Gastier-Foster, J.M., Gerrie, A.S., Greiner, T.C., Griner,
 N.B., Gross, T.G., Harris, N., Irvin, J.D., Jaffe, E.S., Leal, F.E.,
@@ -307,7 +340,7 @@ Discov*. **6**, 325–342.
 
 Benoit, A., Abraham, M.J., Li, S., Kim, J., Estrada-Tejedor, R.,
 Bakadlag, R., Subramaniam, N., Makhani, K., Guilbert, C., Tu, R.,
-Salaciak, M., Klein, K.O., Coyle, K.M., Hilton, L.K., Santiago, R.,
+Salaciak, M., Klein, K.O., Coyle, K.M., **Hilton, L.K.**, Santiago, R.,
 Dmitrienko, S., Assouline, S., Morin, R.D., Del Rincon, S.V., Johnson,
 N.A., Mann, K.K., **2024**. [STAT6 mutations enriched at diffuse large
 <span class="nocase">B-cell</span> lymphoma relapse reshape the tumor
@@ -318,7 +351,7 @@ Hematol*. **119**, 275–290.
 
 <div id="ref-collingeUnbalancedMYCBreakapart2024" class="csl-entry">
 
-Collinge, B., Ben-Neriah, S., Hilton, L.K., Alduaij, W., Tucker, T.,
+Collinge, B., Ben-Neriah, S., **Hilton, L.K.**, Alduaij, W., Tucker, T.,
 Slack, G.W., Farinha, P., Craig, J.W., Boyle, M., Meissner, B., Villa,
 D., Gerrie, A.S., Sehn, L.H., Savage, K.J., Morin, R.D., Mungall, A.J.,
 Steidl, C., Scott, D.W., **2024**. [Unbalanced MYC break-apart FISH
@@ -331,10 +364,10 @@ HGBCL-DH-BCL2](https://doi.org/10.1182/blood.2024025603). *Blood*.
 <div id="ref-grantsChronicLymphocyticLeukemia2024" class="csl-entry">
 
 Grants, J.M., May, C., Bridgers, J., Huang, S., Gillis, S., Meissner,
-B., Boyle, M., Ben-Neriah, S., Hung, S., Duns, G., Hilton, L., Gerrie,
-A.S., Marra, M., Kridel, R., Sabatini, P.J.B., Steidl, C., Scott, D.W.,
-Karsan, A., **2024**. [Chronic Lymphocytic Leukemia IGHV Somatic
-Hypermutation Detection by Targeted Capture Next-Generation
+B., Boyle, M., Ben-Neriah, S., Hung, S., Duns, G., **Hilton, L.**,
+Gerrie, A.S., Marra, M., Kridel, R., Sabatini, P.J.B., Steidl, C.,
+Scott, D.W., Karsan, A., **2024**. [Chronic Lymphocytic Leukemia IGHV
+Somatic Hypermutation Detection by Targeted Capture Next-Generation
 Sequencing](https://doi.org/10.1093/clinchem/hvad147). *Clin Chem*.
 **70**, 273–284.
 
@@ -342,8 +375,8 @@ Sequencing](https://doi.org/10.1093/clinchem/hvad147). *Clin Chem*.
 
 <div id="ref-hiltonMotiveOpportunityMYC2024a" class="csl-entry">
 
-Hilton, L.K., Collinge, B., Ben-Neriah, S., Alduaij, W., Shaalan, H.,
-Weng, A.P., Cruz, M., Slack, G.W., Farinha, P., Miyata-Takata, T.,
+**Hilton, L.K.**, Collinge, B., Ben-Neriah, S., Alduaij, W., Shaalan,
+H., Weng, A.P., Cruz, M., Slack, G.W., Farinha, P., Miyata-Takata, T.,
 Boyle, M., Meissner, B., Cook, J.R., Ondrejka, S.L., Ott, G., Rosenwald,
 A., Campo, E., Amador, C., Greiner, T.C., Raess, P.W., Song, J.Y.,
 Inghirami, G., Jaffe, E.S., Weisenburger, D.D., Chan, W.C., Beiske, K.,
@@ -361,7 +394,7 @@ study)](https://doi.org/10.1182/blood.2024024251). *Blood*. **144**,
 <div id="ref-sarkozyIntegratedSingleCell2024a" class="csl-entry">
 
 Sarkozy, C., Wu, S., Takata, K., Aoki, T., Neriah, S.B., Milne, K.,
-Goodyear, T., Strong, C., Rastogi, T., Hilton, L.K., Lai, D., Sehn,
+Goodyear, T., Strong, C., Rastogi, T., **Hilton, L.K.**, Lai, D., Sehn,
 L.H., Farinha, P., Nelson, B.H., Weng, A., Marra, M., Scott, D.W.,
 Craig, J.W., Steidl, C., Roth, A., **2024**. [Integrated single cell
 analysis reveals co-evolution of malignant B cells and tumor
@@ -374,7 +407,7 @@ lymphoma](https://doi.org/10.1016/j.ccell.2024.05.011). *Cancer Cell*.
 <div id="ref-alduaijMolecularDeterminantsClinical2023a"
 class="csl-entry">
 
-Alduaij, W., Collinge, B., Ben-Neriah, S., Jiang, A., Hilton, L.K.,
+Alduaij, W., Collinge, B., Ben-Neriah, S., Jiang, A., **Hilton, L.K.**,
 Boyle, M., Meissner, B., Chong, L., Miyata-Takata, T., Slack, G.W.,
 Farinha, P., Craig, J.W., Lytle, A., Savage, K.J., Villa, D., Gerrie,
 A.S., Freeman, C.L., Gascoyne, R.D., Connors, J.M., Morin, R.D., Sehn,
@@ -388,7 +421,7 @@ population](https://doi.org/10.1182/blood.2022018248). *Blood*. **141**,
 
 <div id="ref-daviesComparisonMHGDZsig2023b" class="csl-entry">
 
-\*Davies, J.R., \*Hilton, L.K., Jiang, A., Barrans, S., Burton, C.,
+\*Davies, J.R., **\*Hilton, L.K.**, Jiang, A., Barrans, S., Burton, C.,
 Johnson, P.W.M., Davies, A.J., Du, M.-Q., Tooze, R., Cucco, F., Care,
 M.A., Morin, R.D., Steidl, C., Sha, C., Westhead, D.R., Scott, D.W.,
 **2023**. [Comparison of MHG and DZsig reveals shared biology and a core
@@ -401,12 +434,12 @@ Advances*. **7**, 6156–6162.
 <div id="ref-drevalGeneticSubdivisionsFollicular2023a"
 class="csl-entry">
 
-Dreval, K., Hilton, L.K., Cruz, M., Shaalan, H., Ben-Neriah, S., Boyle,
-M., Collinge, B., Coyle, K.M., Duns, G., Farinha, P., Grande, B.M.,
-Meissner, B., Pararajalingam, P., Rushton, C.K., Slack, G.W., Wong, J.,
-Mungall, A.J., Marra, M.A., Connors, J.M., Steidl, C., Scott, D.W.,
-Morin, R.D., **2023**. [Genetic subdivisions of follicular lymphoma
-defined by distinct coding and noncoding mutation
+Dreval, K., **Hilton, L.K.**, Cruz, M., Shaalan, H., Ben-Neriah, S.,
+Boyle, M., Collinge, B., Coyle, K.M., Duns, G., Farinha, P., Grande,
+B.M., Meissner, B., Pararajalingam, P., Rushton, C.K., Slack, G.W.,
+Wong, J., Mungall, A.J., Marra, M.A., Connors, J.M., Steidl, C., Scott,
+D.W., Morin, R.D., **2023**. [Genetic subdivisions of follicular
+lymphoma defined by distinct coding and noncoding mutation
 patterns](https://doi.org/10.1182/blood.2022018719). *Blood*. **142**,
 561–573.
 
@@ -415,7 +448,7 @@ patterns](https://doi.org/10.1182/blood.2022018719). *Blood*. **142**,
 <div id="ref-hiltonBiologicalHeterogeneityDiffuse2023a"
 class="csl-entry">
 
-Hilton, L.K., Scott, D.W., Morin, R.D., **2023**. [Biological
+**Hilton, L.K.**, Scott, D.W., Morin, R.D., **2023**. [Biological
 heterogeneity in diffuse large <span class="nocase">B-cell</span>
 lymphoma](https://doi.org/10.1053/j.seminhematol.2023.11.006). *Semin
 Hematol*. **60**, 267–276.
@@ -424,7 +457,7 @@ Hematol*. **60**, 267–276.
 
 <div id="ref-hiltonRelapseTimingAssociated2023b" class="csl-entry">
 
-Hilton, L.K., Ngu, H.S., Collinge, B., Dreval, K., Ben-Neriah, S.,
+**Hilton, L.K.**, Ngu, H.S., Collinge, B., Dreval, K., Ben-Neriah, S.,
 Rushton, C.K., Wong, J.C.H., Cruz, M., Roth, A., Boyle, M., Meissner,
 B., Slack, G.W., Farinha, P., Craig, J.W., Gerrie, A.S., Freeman, C.L.,
 Villa, D., Rodrigo, J.A., Song, K., Crump, M., Shepherd, L., Hay, A.E.,
@@ -438,7 +471,7 @@ Lymphoma](https://doi.org/10.1200/JCO.23.00570). *J Clin Oncol*. **41**,
 
 <div id="ref-sircarExploitingFibroblastGrowth2023" class="csl-entry">
 
-Sircar, A., Singh, S., Xu-Monette, Z.Y., Coyle, K.M., Hilton, L.K.,
+Sircar, A., Singh, S., Xu-Monette, Z.Y., Coyle, K.M., **Hilton, L.K.**,
 Chavdoula, E., Ranganathan, P., Jain, N., Hanel, W., Tsichlis, P.,
 Alinari, L., Peterson, B.R., Tao, J., Muthusamy, N., Baiocchi, R.,
 Epperla, N., Young, K.H., Morin, R., Sehgal, L., **2023**. [Exploiting
@@ -451,7 +484,7 @@ lymphoma](https://doi.org/10.1038/s41375-023-02006-8). *Leukemia*.
 
 <div id="ref-thomasGeneticSubgroupsInform2023a" class="csl-entry">
 
-Thomas, N., Dreval, K., Gerhard, D.S., Hilton, L.K., Abramson, J.S.,
+Thomas, N., Dreval, K., Gerhard, D.S., **Hilton, L.K.**, Abramson, J.S.,
 Ambinder, R.F., Barta, S., Bartlett, N.L., Bethony, J., Bhatia, K.,
 Bowen, J., Bryan, A.C., Cesarman, E., Casper, C., Chadburn, A., Cruz,
 M., Dittmer, D.P., Dyer, M.A., Farinha, P., Gastier-Foster, J.M.,
@@ -473,8 +506,8 @@ lymphoma](https://doi.org/10.1182/blood.2022016534). *Blood*. **141**,
 
 <div id="ref-alduaijConcurrentCompositeLymphomas2022" class="csl-entry">
 
-Alduaij, W., Hilton, L.K., Al Moosawi, M., Ben-Neriah, S., Meissner, B.,
-Boyle, M., Mekwunye, K., Scott, D.W., Leitch, H.A., Craig, J.W.,
+Alduaij, W., **Hilton, L.K.**, Al Moosawi, M., Ben-Neriah, S., Meissner,
+B., Boyle, M., Mekwunye, K., Scott, D.W., Leitch, H.A., Craig, J.W.,
 **2022**. [Concurrent Composite Lymphomas Collectively Bearing Three
 Diagnostic Entities of Shared Clonal
 Origin](https://doi.org/10.1097/HS9.0000000000000705). *Hemasphere*.
@@ -484,20 +517,21 @@ Origin](https://doi.org/10.1097/HS9.0000000000000705). *Hemasphere*.
 
 <div id="ref-balSuperenhancerHypermutationAlters2022" class="csl-entry">
 
-Bal, E., Kumar, R., Hadigol, M., Holmes, A.B., Hilton, L.K., Loh, J.W.,
-Dreval, K., Wong, J.C.H., Vlasevska, S., Corinaldesi, C., Soni, R.K.,
-Basso, K., Morin, R.D., Khiabanian, H., Pasqualucci, L., Dalla-Favera,
-R., **2022**. [Super-enhancer hypermutation alters oncogene expression
-in B cell lymphoma](https://doi.org/10.1038/s41586-022-04906-8).
-*Nature*. **607**, 808–815.
+Bal, E., Kumar, R., Hadigol, M., Holmes, A.B., **Hilton, L.K.**, Loh,
+J.W., Dreval, K., Wong, J.C.H., Vlasevska, S., Corinaldesi, C., Soni,
+R.K., Basso, K., Morin, R.D., Khiabanian, H., Pasqualucci, L.,
+Dalla-Favera, R., **2022**. [Super-enhancer hypermutation alters
+oncogene expression in B cell
+lymphoma](https://doi.org/10.1038/s41586-022-04906-8). *Nature*.
+**607**, 808–815.
 
 </div>
 
 <div id="ref-wangSinglecellProfilingReveals2022" class="csl-entry">
 
 Wang, X., Nissen, M., Gracias, D., Kusakabe, M., Simkin, G., Jiang, A.,
-Duns, G., Sarkozy, C., Hilton, L., Chavez, E.A., Segat, G.C., Wong, R.,
-Kim, J., Aoki, T., Islam, R., May, C., Hung, S., Tyshchenko, K.,
+Duns, G., Sarkozy, C., **Hilton, L.**, Chavez, E.A., Segat, G.C., Wong,
+R., Kim, J., Aoki, T., Islam, R., May, C., Hung, S., Tyshchenko, K.,
 Brinkman, R.R., Hirst, M., Karsan, A., Freeman, C., Sehn, L.H., Morin,
 R.D., Roth, A.J., Savage, K.J., Craig, J.W., Shah, S.P., Steidl, C.,
 Scott, D.W., Weng, A.P., **2022**. [Single-cell profiling reveals a
@@ -511,17 +545,18 @@ Commun*. **13**, 6772.
 
 Duns, G., Viganò, E., Ennishi, D., Sarkozy, C., Hung, S.S., Chavez, E.,
 Takata, K., Rushton, C., Jiang, A., Ben-Neriah, S., Woolcock, B.W.,
-Slack, G.W., Hsi, E.D., Craig, J.W., Hilton, L.K., Shah, S.P., Farinha,
-P., Mottok, A., Gascoyne, R.D., Morin, R.D., Savage, K.J., Scott, D.W.,
-Steidl, C., **2021**. [Characterization of DLBCL with a PMBL gene
-expression signature](https://doi.org/10.1182/blood.2020007683).
-*Blood*. **138**, 136–148.
+Slack, G.W., Hsi, E.D., Craig, J.W., **Hilton, L.K.**, Shah, S.P.,
+Farinha, P., Mottok, A., Gascoyne, R.D., Morin, R.D., Savage, K.J.,
+Scott, D.W., Steidl, C., **2021**. [Characterization of DLBCL with a
+PMBL gene expression
+signature](https://doi.org/10.1182/blood.2020007683). *Blood*. **138**,
+136–148.
 
 </div>
 
 <div id="ref-isaevMolecularAttributesUnderlying2021" class="csl-entry">
 
-Isaev, K., Ennishi, D., Hilton, L., Skinnider, B., Mungall, K.L.,
+Isaev, K., Ennishi, D., **Hilton, L.**, Skinnider, B., Mungall, K.L.,
 Mungall, A.J., Bakhtiari, M., Tremblay-LeMay, R., Silva, A., Ben-Neriah,
 S., Boyle, M., Villa, D., Marra, M.A., Steidl, C., Gascoyne, R.D.,
 Morin, R., Savage, K.J., Scott, D.W., Kridel, R., **2021**. [Molecular
@@ -535,34 +570,35 @@ lymphoma](https://doi.org/10.3324/haematol.2020.255950).
 <div id="ref-nowickaPrognosticSignificanceFCGR2B2021a"
 class="csl-entry">
 
-\*Nowicka, M., \*Hilton, L.K., Ashton-Key, M., Hargreaves, C.E., Lee,
-C., Foxall, R., Carter, M.J., Beers, S.A., Potter, K.N., Bolen, C.R.,
-Klein, C., Knapp, A., Mir, F., Rose-Zerilli, M., Burton, C., Klapper,
-W., Scott, D.W., Sehn, L.H., Vitolo, U., Martelli, M., Trneny, M.,
-Rushton, C.K., Slack, G.W., Farinha, P., Strefford, J.C., Oestergaard,
-M.Z., Morin, R.D., Cragg, M.S., **2021**. [Prognostic significance of
-FCGR2B expression for the response of DLBCL patients to rituximab or
-obinutuzumab
+\*Nowicka, M., **\*Hilton, L.K.**, Ashton-Key, M., Hargreaves, C.E.,
+Lee, C., Foxall, R., Carter, M.J., Beers, S.A., Potter, K.N., Bolen,
+C.R., Klein, C., Knapp, A., Mir, F., Rose-Zerilli, M., Burton, C.,
+Klapper, W., Scott, D.W., Sehn, L.H., Vitolo, U., Martelli, M., Trneny,
+M., Rushton, C.K., Slack, G.W., Farinha, P., Strefford, J.C.,
+Oestergaard, M.Z., Morin, R.D., Cragg, M.S., **2021**. [Prognostic
+significance of FCGR2B expression for the response of DLBCL patients to
+rituximab or obinutuzumab
 treatment](https://doi.org/10.1182/bloodadvances.2021004770). *Blood
-Adv.* **5**, 2945–2957.
+Advances*. **5**, 2945–2957.
 
 </div>
 
 <div id="ref-shanmugamNotchActivationPervasive2021" class="csl-entry">
 
-Shanmugam, V., Craig, J.W., Hilton, L.K., Nguyen, M.H., Rushton, C.K.,
-Fahimdanesh, K., Lovitch, S., Ferland, B., Scott, D.W., Aster, J.C.,
-**2021**. [Notch activation is pervasive in SMZL and uncommon in DLBCL:
-Implications for Notch signaling in <span class="nocase">B-cell</span>
-tumors](https://doi.org/10.1182/bloodadvances.2020002995). *Blood Adv.*
-**5**, 71–83.
+Shanmugam, V., Craig, J.W., **Hilton, L.K.**, Nguyen, M.H., Rushton,
+C.K., Fahimdanesh, K., Lovitch, S., Ferland, B., Scott, D.W., Aster,
+J.C., **2021**. [Notch activation is pervasive in SMZL and uncommon in
+DLBCL: Implications for Notch signaling in
+<span class="nocase">B-cell</span>
+tumors](https://doi.org/10.1182/bloodadvances.2020002995). *Blood
+Advances*. **5**, 71–83.
 
 </div>
 
 <div id="ref-jiangPRPSSTProtocolagnosticSelftraining2020"
 class="csl-entry">
 
-\*Jiang, A., \*Hilton, L.K., Tang, J., Rushton, C.K., Grande, B.M.,
+\*Jiang, A., **\*Hilton, L.K.**, Tang, J., Rushton, C.K., Grande, B.M.,
 Scott, D.W., Morin, R.D., **2020**. [PRPS-ST: A protocol-agnostic
 self-training method for gene expression-based classification of blood
 cancers](https://doi.org/10.1158/2643-3230.BCD-20-0076). *Blood Cancer
@@ -573,12 +609,12 @@ Discov*. **1**, 244–257.
 <div id="ref-rushtonGeneticEvolutionaryPatterns2020a" class="csl-entry">
 
 Rushton, C.K., Arthur, S.E., Alcaide, M., Cheung, M., Jiang, A., Coyle,
-K.M., Cleary, K.L.S., Thomas, N., Hilton, L.K., Michaud, N., Daigle, S.,
-Davidson, J., Bushell, K., Yu, S., Rys, R.N., Jain, M., Shepherd, L.,
-Marra, M.A., Kuruvilla, J., Crump, M., Mann, K., Assouline, S., Connors,
-J.M., Steidl, C., Cragg, M.S., Scott, D.W., Johnson, N.A., Morin, R.D.,
-**2020**. [Genetic and evolutionary patterns of treatment resistance in
-relapsed <span class="nocase">B-cell</span>
+K.M., Cleary, K.L.S., Thomas, N., **Hilton, L.K.**, Michaud, N., Daigle,
+S., Davidson, J., Bushell, K., Yu, S., Rys, R.N., Jain, M., Shepherd,
+L., Marra, M.A., Kuruvilla, J., Crump, M., Mann, K., Assouline, S.,
+Connors, J.M., Steidl, C., Cragg, M.S., Scott, D.W., Johnson, N.A.,
+Morin, R.D., **2020**. [Genetic and evolutionary patterns of treatment
+resistance in relapsed <span class="nocase">B-cell</span>
 lymphoma](https://doi.org/10.1182/bloodadvances.2020001696). *Blood
 Adv*. **4**, 2886–2898.
 
@@ -586,26 +622,26 @@ Adv*. **4**, 2886–2898.
 
 <div id="ref-hiltonDoublehitSignatureIdentifies2019" class="csl-entry">
 
-Hilton, L.K., Tang, J., Ben-Neriah, S., Alcaide, M., Jiang, A., Grande,
-B.M., Rushton, C.K., Boyle, M., Meissner, B., Scott, D.W., Morin, R.D.,
-**2019**. [The double-hit signature identifies double-hit diffuse large
-<span class="nocase">B-cell</span> lymphoma with genetic events cryptic
-to FISH](https://doi.org/10.1182/blood.2019002600). *Blood*. **134**,
-1528–1532.
+**Hilton, L.K.**, Tang, J., Ben-Neriah, S., Alcaide, M., Jiang, A.,
+Grande, B.M., Rushton, C.K., Boyle, M., Meissner, B., Scott, D.W.,
+Morin, R.D., **2019**. [The double-hit signature identifies double-hit
+diffuse large <span class="nocase">B-cell</span> lymphoma with genetic
+events cryptic to FISH](https://doi.org/10.1182/blood.2019002600).
+*Blood*. **134**, 1528–1532.
 
 </div>
 
 <div id="ref-arthurGenomewideDiscoverySomatic2018a" class="csl-entry">
 
 Arthur, S.E., Jiang, A., Grande, B.M., Alcaide, M., Cojocaru, R.,
-Rushton, C.K., Mottok, A., Hilton, L.K., Lat, P.K., Zhao, E.Y., Culibrk,
-L., Ennishi, D., Jessa, S., Chong, L., Thomas, N., Pararajalingam, P.,
-Meissner, B., Boyle, M., Davidson, J., Bushell, K.R., Lai, D., Farinha,
-P., Slack, G.W., Morin, G.B., Shah, S., Sen, D., Jones, S.J.M., Mungall,
-A.J., Gascoyne, R.D., Audas, T.E., Unrau, P., Marra, M.A., Connors,
-J.M., Steidl, C., Scott, D.W., Morin, R.D., **2018**. [Genome-wide
-discovery of somatic regulatory variants in diffuse large
-<span class="nocase">B-cell</span>
+Rushton, C.K., Mottok, A., **Hilton, L.K.**, Lat, P.K., Zhao, E.Y.,
+Culibrk, L., Ennishi, D., Jessa, S., Chong, L., Thomas, N.,
+Pararajalingam, P., Meissner, B., Boyle, M., Davidson, J., Bushell,
+K.R., Lai, D., Farinha, P., Slack, G.W., Morin, G.B., Shah, S., Sen, D.,
+Jones, S.J.M., Mungall, A.J., Gascoyne, R.D., Audas, T.E., Unrau, P.,
+Marra, M.A., Connors, J.M., Steidl, C., Scott, D.W., Morin, R.D.,
+**2018**. [Genome-wide discovery of somatic regulatory variants in
+diffuse large <span class="nocase">B-cell</span>
 lymphoma](https://doi.org/10.1038/s41467-018-06354-3). *Nat Commun*.
 **9**, 4001.
 
@@ -613,11 +649,11 @@ lymphoma](https://doi.org/10.1038/s41467-018-06354-3). *Nat Commun*.
 
 <div id="ref-hiltonForwardGeneticScreen2016" class="csl-entry">
 
-Hilton, L.K., Meili, F., Buckoll, P.D., Rodriguez-Pike, J.C., Choutka,
-C.P., Kirschner, J.A., Warner, F., Lethan, M., Garces, F.A., Qi, J.,
-Quarmby, L.M., **2016**. [A Forward Genetic Screen and Whole Genome
-Sequencing Identify Deflagellation Defective Mutants in Chlamydomonas,
-Including Assignment of ADF1 as a TRP
+**Hilton, L.K.**, Meili, F., Buckoll, P.D., Rodriguez-Pike, J.C.,
+Choutka, C.P., Kirschner, J.A., Warner, F., Lethan, M., Garces, F.A.,
+Qi, J., Quarmby, L.M., **2016**. [A Forward Genetic Screen and Whole
+Genome Sequencing Identify Deflagellation Defective Mutants in
+Chlamydomonas, Including Assignment of ADF1 as a TRP
 Channel](https://doi.org/10.1534/g3.116.034264). *G3 (Bethesda)*. **6**,
 3409–3418.
 
@@ -625,9 +661,9 @@ Channel](https://doi.org/10.1534/g3.116.034264). *G3 (Bethesda)*. **6**,
 
 <div id="ref-hiltonKinasesLF4CNK22013" class="csl-entry">
 
-Hilton, L.K., Gunawardane, K., Kim, J.W., Schwarz, M.C., Quarmby, L.M.,
-**2013**. [The kinases LF4 and CNK2 control ciliary length by feedback
-regulation of assembly and disassembly
+**Hilton, L.K.**, Gunawardane, K., Kim, J.W., Schwarz, M.C., Quarmby,
+L.M., **2013**. [The kinases LF4 and CNK2 control ciliary length by
+feedback regulation of assembly and disassembly
 rates](https://doi.org/10.1016/j.cub.2013.09.038). *Curr Biol*. **23**,
 2208–2214.
 
@@ -635,7 +671,7 @@ rates](https://doi.org/10.1016/j.cub.2013.09.038). *Curr Biol*. **23**,
 
 <div id="ref-parkerCentriolesAreFreed2010" class="csl-entry">
 
-\*Parker, J.D.K., \*Hilton, L.K., Diener, D.R., Rasi, M.Q., Mahjoub,
+\*Parker, J.D.K., **\*Hilton, L.K.**, Diener, D.R., Rasi, M.Q., Mahjoub,
 M.R., Rosenbaum, J.L., Quarmby, L.M., **2010**. [Centrioles are freed
 from cilia by severing prior to
 mitosis](https://doi.org/10.1002/cm.20454). *Cytoskeleton (Hoboken)*.
@@ -645,7 +681,7 @@ mitosis](https://doi.org/10.1002/cm.20454). *Cytoskeleton (Hoboken)*.
 
 <div id="ref-hiltonNIMArelatedKinaseNEK12009" class="csl-entry">
 
-Hilton, L.K., White, M.C., Quarmby, L.M., **2009**. [The
+**Hilton, L.K.**, White, M.C., Quarmby, L.M., **2009**. [The
 <span class="nocase">NIMA-related</span> kinase NEK1 cycles through the
 nucleus](https://doi.org/10.1016/j.bbrc.2009.08.086). *Biochem Biophys
 Res Commun*. **389**, 52–56.
@@ -661,7 +697,7 @@ entry-spacing="0">
 
 <div id="ref-hiltonNuMouseModel2024" class="csl-entry">
 
-Hilton, L.K., **2024**. [A nu mouse model of diffuse large
+**Hilton, L.K.**, **2024**. [A nu mouse model of diffuse large
 <span class="nocase">B-cell</span> lymphoma in constitutional Atm
 loss](https://doi.org/10.3324/haematol.2024.285973). *Haematologica*.
 **109**, 3841–3843.
@@ -671,8 +707,8 @@ loss](https://doi.org/10.3324/haematol.2024.285973). *Haematologica*.
 <div id="ref-hiltonHarnessingMitochondrialMutations2021"
 class="csl-entry">
 
-Hilton, L.K., Scott, D.W., **2021**. [Harnessing Mitochondrial Mutations
-to ATAC Clonal Evolution in
+**Hilton, L.K.**, Scott, D.W., **2021**. [Harnessing Mitochondrial
+Mutations to ATAC Clonal Evolution in
 CLL](https://doi.org/10.1158/2159-8290.CD-21-1225). *Cancer Discov*.
 **11**, 2965–2967.
 
@@ -680,8 +716,8 @@ CLL](https://doi.org/10.1158/2159-8290.CD-21-1225). *Cancer Discov*.
 
 <div id="ref-hiltonCilia2011" class="csl-entry">
 
-Hilton, L.K., Quarmby, L.M., **2011**. Cilia. Nabi, I.R. (Ed.), Cellular
-Domains. Wiley, Hoboken.
+**Hilton, L.K.**, Quarmby, L.M., **2011**. Cilia. Nabi, I.R. (Ed.),
+Cellular Domains. Wiley, Hoboken.
 
 </div>
 
@@ -719,33 +755,34 @@ entry-spacing="0">
 class="csl-entry">
 
 Alduaij, W., Sehn, L.H., Champagne, J., Collinge, B., Ben-Neriah, S.,
-Jiang, A., Hilton, L.K., Boyle, M., Meissner, B., Slack, G.W., Farinha,
-P., Craig, J.W., Savage, K.J., Villa, D., Gerrie, A.S., Freeman, C.L.,
-Mungall, A.J., Steidl, C., Scott, D.W., **2025**. Population-Wide
-Introduction of Dose-Adjusted Epoch-R in High-Grade B-Cell Lymphoma with
-Myc and Bcl2 Rearrangements with Dlbcl Morphology. International
-Conference on Malignant Lymphoma. Lugano, CH.
+Jiang, A., **Hilton, L.K.**, Boyle, M., Meissner, B., Slack, G.W.,
+Farinha, P., Craig, J.W., Savage, K.J., Villa, D., Gerrie, A.S.,
+Freeman, C.L., Mungall, A.J., Steidl, C., Scott, D.W., **2025**.
+Population-Wide Introduction of Dose-Adjusted Epoch-R in High-Grade
+B-Cell Lymphoma with Myc and Bcl2 Rearrangements with Dlbcl Morphology.
+International Conference on Malignant Lymphoma. Lugano, CH.
 
 </div>
 
 <div id="ref-fongMultiOmicProfilingDark2025" class="csl-entry">
 
-Fong, A., Collinge, B., Hilton, L.K., Rai, S., Cassidy, C., Ben-Neriah,
-S., Boyle, M., Telenius, A., Meissner, B., Farinha, P., Lytle, A.,
-Slack, G., Venturruti, L., Roth, A., Steidl, C., Morin, R.D., Scott,
-D.W., **2025**. Multi-Omic Profiling of Dark Zone Lymphomas Uncovers
-Dysregulated Gene Regulatory Networks Reflecting Dz-Lz B-Cell Transition
-Dynamics. International Conference on Malignant Lymphoma. Lugano, CH.
+Fong, A., Collinge, B., **Hilton, L.K.**, Rai, S., Cassidy, C.,
+Ben-Neriah, S., Boyle, M., Telenius, A., Meissner, B., Farinha, P.,
+Lytle, A., Slack, G., Venturruti, L., Roth, A., Steidl, C., Morin, R.D.,
+Scott, D.W., **2025**. Multi-Omic Profiling of Dark Zone Lymphomas
+Uncovers Dysregulated Gene Regulatory Networks Reflecting Dz-Lz B-Cell
+Transition Dynamics. International Conference on Malignant Lymphoma.
+Lugano, CH.
 
 </div>
 
 <div id="ref-hiltonWholeGenomeSequencing2025" class="csl-entry">
 
-Hilton, L.K., Fujisawa, M., Tse, E., Sarkozy, C., Lo, A.C., Dreval, K.,
-Meissner, B., Boyle, M., Craig, J.W., Slack, G.W., Farinha, P., Lytle,
-A., Freeman, C.L., Gerrie, A.S., Villa, D., Savage, K.J., Sehn, L.H.,
-Karsan, A., Morin, R.D., Steidl, C., Scott, D.W., **2025**. Whole Genome
-Sequencing of Serial Fl Biopsies from 96 Patients with Follicular
+**Hilton, L.K.**, Fujisawa, M., Tse, E., Sarkozy, C., Lo, A.C., Dreval,
+K., Meissner, B., Boyle, M., Craig, J.W., Slack, G.W., Farinha, P.,
+Lytle, A., Freeman, C.L., Gerrie, A.S., Villa, D., Savage, K.J., Sehn,
+L.H., Karsan, A., Morin, R.D., Steidl, C., Scott, D.W., **2025**. Whole
+Genome Sequencing of Serial Fl Biopsies from 96 Patients with Follicular
 Lymphoma Reveal Treatment-Specific Patterns of Tumour Evolution.
 International Conference on Malignant Lymphoma. Lugano, CH.
 
@@ -760,21 +797,21 @@ McIver-Brown, N., Xochelli, A., Ennis, S., Scarfo, L., Ghia, P.,
 Kalpadakis, C., Pangalis, G., Rossi, D., Ahearne, M., PD Dr. Seifert,
 M., Plass, C., Weichenhan, D., Kimby, E., Sutton, L.A., Rosenquist, R.,
 Pratt, G., Forconi, F., Stamatopoulos, K., Salido, M., Prince-Eladnani,
-R., Thieblemont, C., Hilton, L., Morin, R., Walewska, R., Martin-Subero,
-J., Oscier, D., Oakes, C., Gibson, J., Bryant, D., Strefford, J.,
-**2025**. [Integrated multi-omic profiling reveals two biologically
-distinct subgroups of splenic marginal zone lymphoma with prognostic
-relevance](https://doi.org/10.1182/blood-2025-353). American Society of
-Hematology Annual Meeting. Orlando, FL, USA.
+R., Thieblemont, C., **Hilton, L.**, Morin, R., Walewska, R.,
+Martin-Subero, J., Oscier, D., Oakes, C., Gibson, J., Bryant, D.,
+Strefford, J., **2025**. [Integrated multi-omic profiling reveals two
+biologically distinct subgroups of splenic marginal zone lymphoma with
+prognostic relevance](https://doi.org/10.1182/blood-2025-353). American
+Society of Hematology Annual Meeting. Orlando, FL, USA.
 
 </div>
 
 <div id="ref-pelzerSpenLossDrives2025a" class="csl-entry">
 
 Pelzer, B., Meydan, C., Spiegel, I., Karagiannidis, I., Xia, M., Teater,
-M., Welter, E., Searcy, Z., Hilton, L., Barisic, D., Fa, P., Sethi, S.,
-Isgor, I., Fielding, J., Karbalyhareh, A., Burdette, C., Tumuluru, S.,
-Debek, S., Lee, S., Massoni-Badosa, R., Durmaz, C., Salataj, E.,
+M., Welter, E., Searcy, Z., **Hilton, L.**, Barisic, D., Fa, P., Sethi,
+S., Isgor, I., Fielding, J., Karbalyhareh, A., Burdette, C., Tumuluru,
+S., Debek, S., Lee, S., Massoni-Badosa, R., Durmaz, C., Salataj, E.,
 Pararajalingam, P., Chen, Z., Pelzl, R., Shah, S., Rivas, M., Hoehn, K.,
 Mlynarczyk, C., Isles, H., Dogan, A., Elenitoba-Johnson, K., Scott, D.,
 Dreval, K., Morin, R., Leslie, C., Puri, R., Geri, J., Chin, C.,
@@ -792,7 +829,7 @@ Society of Hematology Annual Meeting. Orlando, FL, USA.
 Russler-Germain, D.A., Li, X., Singhal, K., Deng, Q., Chihara, D.,
 Hussein, U., Foltz, J.A., Henderson, J., Wilson, A., Tobin, J., Gandhi,
 M.K., Schmidt, E., Nizamuddin, I., Dinh, T., Sun, R., Kesaraju, A.,
-Hilton, L., Scott, D.W., Vega, F., Flowers, C.R., Westin, J.R.,
+**Hilton, L.**, Scott, D.W., Vega, F., Flowers, C.R., Westin, J.R.,
 Griffith, O.L., Fehniger, T.A., Griffith, M., Green, M.R., **2025**.
 Large B-Cell Lymphoma Microenvironment Archetype Profiles (lymphomaps)
 Identify Subgroups with Greatest Benefit from Cd19 Car T-Cell Therapy.
@@ -805,13 +842,13 @@ class="csl-entry">
 
 Li, X., Singhal, K., Deng, Q., Chihara, D., Russler-Germain, D.A.,
 Hussein, U., Foltz, J.A., Henderson, J., Wilson, A., Schmidt, E.,
-Nizamuddin, I.A., Dinh, T., Sun, R., Kesaraju, A., Hilton, L.K., Scott,
-D.W., Vega, F., Flowers, C.R., Griffith, O., Fehniger, T.A., Griffith,
-M., Green, M.R., **2024**. Comprehensive Characterization and Validation
-of the Tumor Microenvironment in Patients with Relapsed/Refractory Large
-B-Cell Lymphoma Identifies Subgroups with Greatest Benefit from CD19 CAR
-T-Cell Therapy. American Society of Hematology Annual Meeting. San
-Diego, CA, USA.
+Nizamuddin, I.A., Dinh, T., Sun, R., Kesaraju, A., **Hilton, L.K.**,
+Scott, D.W., Vega, F., Flowers, C.R., Griffith, O., Fehniger, T.A.,
+Griffith, M., Green, M.R., **2024**. Comprehensive Characterization and
+Validation of the Tumor Microenvironment in Patients with
+Relapsed/Refractory Large B-Cell Lymphoma Identifies Subgroups with
+Greatest Benefit from CD19 CAR T-Cell Therapy. American Society of
+Hematology Annual Meeting. San Diego, CA, USA.
 
 </div>
 
@@ -820,8 +857,8 @@ Diego, CA, USA.
 Rai, S., Aoki, T., Duns, G., Jiang, A., Lytle, A., Yin, Y., Kishida, M.,
 Li, M.Y., Smorra, D., Lee, C., Milne, K., Telenius, A., O’Brien, L.,
 Takata, K., Miyata-Takata, T., Boyle, M., Ben-Neriah, S., Weng, A.P.,
-Roth, A., NelsonH, B.H., Hilton, L.K., Farinha, P., Savage, K.J., Scott,
-D.W., Steidl, C., **2024**. CSF2RB Mutations Result in
+Roth, A., NelsonH, B.H., **Hilton, L.K.**, Farinha, P., Savage, K.J.,
+Scott, D.W., Steidl, C., **2024**. CSF2RB Mutations Result in
 <span class="nocase">Cytokine-Dependent Gain-of-Function
 Phenotypes</span> in Classic Hodgkin Lymphoma. American Society of
 Hematology Annual Meeting. San Diego, CA, USA.
@@ -833,9 +870,9 @@ class="csl-entry">
 
 Shaalan, H., Frontzek, F., Freeman, C.L., Lytle, A., Farinha, P.,
 Alduaij, W., Ben-Neriah, S., Boyle, M., Meissner, B., Weng, A.P., Sehn,
-L.H., Steidl, C., Hilton, L., Scott, D.W., Morin, R., **2024**. A Novel
-Genetics-Based Classification of Advanced Follicular Lymphoma Identifies
-Prognostic Subgroups Following Bendamustine-Rituximab
+L.H., Steidl, C., **Hilton, L.**, Scott, D.W., Morin, R., **2024**. A
+Novel Genetics-Based Classification of Advanced Follicular Lymphoma
+Identifies Prognostic Subgroups Following Bendamustine-Rituximab
 Immunochemotherapy. American Society of Hematology Annual Meeting. San
 Diego, CA, USA.
 
@@ -843,7 +880,7 @@ Diego, CA, USA.
 
 <div id="ref-wongBiologicalPrognosticSubgroups2024" class="csl-entry">
 
-Wong, J.C.H., Frontzek, F., Lytle, A., Collinge, B., Hilton, L.,
+Wong, J.C.H., Frontzek, F., Lytle, A., Collinge, B., **Hilton, L.**,
 Ben-Neriah, S., Slack, G.W., Farinha, P., Gerrie, A.S., Li, Y.,
 Kosnopfel, C., Cook, J.R., Salaverria, I., Campo, E., Ott, G.,
 Rosenwald, A., Amador, C., Jaffe, E.S., Greiner, T.C., Raess, P.W.,
@@ -859,8 +896,8 @@ Diego, CA, USA.
 
 <div id="ref-balBtg2SuperEnhancerMutations2023" class="csl-entry">
 
-Bal, E., De Simone, P., Holmes, A.B., Hilton, L., Basso, K., Soni, R.K.,
-Morin, R.D., Dalla-Favera, R., Pasqualucci, L., **2023**. [Btg2
+Bal, E., De Simone, P., Holmes, A.B., **Hilton, L.**, Basso, K., Soni,
+R.K., Morin, R.D., Dalla-Favera, R., Pasqualucci, L., **2023**. [Btg2
 Super-Enhancer Mutations Disrupt Tfap4 Binding and Dysregulate Btg2
 Expression in Diffuse Large B-Cell
 Lymphoma](https://doi.org/10.1002/hon.3163_68). International Conference
@@ -870,8 +907,8 @@ on Malignant Lymphoma. Lugano, CH.
 
 <div id="ref-desimoneBTG2SuperEnhancerMutations2023" class="csl-entry">
 
-De Simone, P., Bal, E., Holmes, A., Hilton, L., Basso, K., Soni, R.K.,
-Morin, R., Dalla-Favera, R., Pasqualucci, L., **2023**. [BTG2
+De Simone, P., Bal, E., Holmes, A., **Hilton, L.**, Basso, K., Soni,
+R.K., Morin, R., Dalla-Favera, R., Pasqualucci, L., **2023**. [BTG2
 Super-Enhancer Mutations Disrupt TFAP4 Binding and Deregulate BTG2
 Expression in Diffuse Large B-Cell
 Lymphoma](https://doi.org/10.1182/blood-2023-190230). American Society
@@ -881,7 +918,7 @@ of Hematology Annual Meeting. San Diego, CA, USA.
 
 <div id="ref-coyleExploringSplicingFactor2022" class="csl-entry">
 
-Coyle, K.M., Qureshi, Q.U.A., Ruprai, B., Kang, T., Hilton, L.K.,
+Coyle, K.M., Qureshi, Q.U.A., Ruprai, B., Kang, T., **Hilton, L.K.**,
 Dreval, K., Pararajalingam, P., Rushton, C.K., Thomas, N., Audas, T.E.,
 Morin, R.D., **2022**. [Exploring Splicing Factor Aberrations As a
 Therapeutic Target in Mature B-Cell
@@ -892,7 +929,7 @@ Society of Hematology Annual Meeting. New Orleans, LA, USA.
 
 <div id="ref-hiltonRelapseTimingAssociated2022" class="csl-entry">
 
-Hilton, L.K., Ngu, H.S., Collinge, B., Dreval, K., Ben-Neriah, S.,
+**Hilton, L.K.**, Ngu, H.S., Collinge, B., Dreval, K., Ben-Neriah, S.,
 Rushton, C.K., Wong, J., Cruz, M., Roth, A., Boyle, M., Meissner, B.,
 Slack, G.W., Farinha, P., Craig, J.W., Gerrie, A.S., Freeman, C.L.,
 Villa, D., Savage, K.J., Sehn, L.H., Marra, M.A., Karsan, A., Steidl,
@@ -905,7 +942,7 @@ USA.
 
 <div id="ref-thomasDNAMethylationBasedBurkitt2022" class="csl-entry">
 
-Thomas, N., Dreval, K., Gerhard, D.S., Hilton, L.K., Abramson, J.S.,
+Thomas, N., Dreval, K., Gerhard, D.S., **Hilton, L.K.**, Abramson, J.S.,
 Bartlett, N.L., Bethony, J., Bowen, J., Bryan, A., Casper, C., Dyer, M.,
 Esteller, M., Garcia-Prieto, C., Gastier-Foster, J.M., Gerrie, A.S.,
 Grande, B.M., Greiner, T.C., Griner, N.B., Gross, T.G., Harris, N.L.,
@@ -923,14 +960,14 @@ Society of Hematology Annual Meeting. San Diego, CA, USA.
 <div id="ref-collingeCharacterizationGeneticLandscape2021a"
 class="csl-entry">
 
-Collinge, B.J., Hilton, L.K., Wong, J., Ben-Neriah, S., Rushton, C.K.,
-Slack, G.W., Farinha, P., Cook, J.R., Ott, G., Rosenwald, A., Campo, E.,
-Amador, C., Greiner, T.C., Raess, P.W., Song, J.Y., Inghirami, G.,
-Jaffe, E.S., Weisenburger, D.D., Chan, W.C., Holte, H., Beiske, K., Fu,
-K., Delabie, J., Pittaluga, S., Feldman, A.L., Savage, K.J., Mungall,
-A.J., Staudt, L.M., Steidl, C., Rimsza, L.M., Morin, R.D., Scott, D.W.,
-**2021a**. [Characterization of the Genetic Landscape of High-Grade
-B-Cell Lymphoma, Nos – an Llmpp
+Collinge, B.J., **Hilton, L.K.**, Wong, J., Ben-Neriah, S., Rushton,
+C.K., Slack, G.W., Farinha, P., Cook, J.R., Ott, G., Rosenwald, A.,
+Campo, E., Amador, C., Greiner, T.C., Raess, P.W., Song, J.Y.,
+Inghirami, G., Jaffe, E.S., Weisenburger, D.D., Chan, W.C., Holte, H.,
+Beiske, K., Fu, K., Delabie, J., Pittaluga, S., Feldman, A.L., Savage,
+K.J., Mungall, A.J., Staudt, L.M., Steidl, C., Rimsza, L.M., Morin,
+R.D., Scott, D.W., **2021a**. [Characterization of the Genetic Landscape
+of High-Grade B-Cell Lymphoma, Nos – an Llmpp
 Project](https://doi.org/10.1002/hon.13_2880). International Conference
 on Malignant Lymphoma. Lugano, CH.
 
@@ -938,7 +975,7 @@ on Malignant Lymphoma. Lugano, CH.
 
 <div id="ref-collingeMutationalLandscapeDouble2021a" class="csl-entry">
 
-Collinge, B.J., Hilton, L.K., Wong, J., Ben-Neriah, S., Alduaij, W.,
+Collinge, B.J., **Hilton, L.K.**, Wong, J., Ben-Neriah, S., Alduaij, W.,
 Rushton, C.K., Slack, G.W., Farinha, P., Miyata-Takata, T., Cook, J.R.,
 Ott, G., Rosenwald, A., Campo, E., Amador, C., Greiner, T.C., Raess,
 P.W., Song, J.Y., Inghirami, G., Jaffe, E.S., Weisenburger, D.D., Chan,
@@ -954,25 +991,26 @@ on Malignant Lymphoma. Lugano, CH.
 
 <div id="ref-drevalCopyNumberVariation2021" class="csl-entry">
 
-Dreval, K., Thomas, N., Gerhard, D.S., Hilton, L.K., Wong, J., Abramson,
-J.S., Bartlett, N.L., Bethony, J., Bowen, J., Bryan, A.C., Casper, C.,
-Dyer, M., Gastier-Foster, J.M., Grande, B.M., Greiner, T., Griner, N.B.,
-Gross, T.G., Harris, N.L., Irvin, J.D., Jaffe, E., Leal, F., Martin,
-J.P., Martin, M.-R., Mbulaiteye, S.M., Mullighan, C.G., Mungall, A.J.,
-Mungall, K., Namirembe, C., Noy, A., Ogwang, M.D., Orem, J., Petrello,
-H., Reynolds, S.J., Swerdlow, S.H., Traverse-Glehen, A., Wilson, W.H.,
-Marra, M.A., Staudt, L.M., Scott, D.W., Morin, R.D., **2021**. [Copy
-Number Variation Analysis Identifies Distinct Genomic Features in Adult
-Burkitt Lymphoma](https://doi.org/10.1002/hon.67_2879). International
-Conference on Malignant Lymphoma. Lugano, CH.
+Dreval, K., Thomas, N., Gerhard, D.S., **Hilton, L.K.**, Wong, J.,
+Abramson, J.S., Bartlett, N.L., Bethony, J., Bowen, J., Bryan, A.C.,
+Casper, C., Dyer, M., Gastier-Foster, J.M., Grande, B.M., Greiner, T.,
+Griner, N.B., Gross, T.G., Harris, N.L., Irvin, J.D., Jaffe, E., Leal,
+F., Martin, J.P., Martin, M.-R., Mbulaiteye, S.M., Mullighan, C.G.,
+Mungall, A.J., Mungall, K., Namirembe, C., Noy, A., Ogwang, M.D., Orem,
+J., Petrello, H., Reynolds, S.J., Swerdlow, S.H., Traverse-Glehen, A.,
+Wilson, W.H., Marra, M.A., Staudt, L.M., Scott, D.W., Morin, R.D.,
+**2021**. [Copy Number Variation Analysis Identifies Distinct Genomic
+Features in Adult Burkitt
+Lymphoma](https://doi.org/10.1002/hon.67_2879). International Conference
+on Malignant Lymphoma. Lugano, CH.
 
 </div>
 
 <div id="ref-hiltonConstrainedFLGenetically2021" class="csl-entry">
 
-Hilton, L.K., Dreval, K., Soudi, S., Ben-Neriah, S., Cruz, M., Collinge,
-B., Coyle, K.M., Grande, B.M., Duns, G., Rushton, C.K., Boyle, M.,
-Meissner, B., Farinha, P., Slack, G.W., Mungall, A.J., Marra, M.A.,
+**Hilton, L.K.**, Dreval, K., Soudi, S., Ben-Neriah, S., Cruz, M.,
+Collinge, B., Coyle, K.M., Grande, B.M., Duns, G., Rushton, C.K., Boyle,
+M., Meissner, B., Farinha, P., Slack, G.W., Mungall, A.J., Marra, M.A.,
 Connors, J.M., Steidl, C., Scott, D.W., Morin, R.D., **2021**.
 Constrained FL: A Genetically Distinct Subgroup of Follicular Lymphoma
 with Low Rates of Somatic Hypermutation and a Reduced Propensity for
@@ -983,9 +1021,9 @@ Meeting. Atlanta, GA, USA.
 
 <div id="ref-hiltonTopologyMycRearrangements2021a" class="csl-entry">
 
-Hilton, L.K., Collinge, B., Ben-Neriah, S., Grande, B.M., Slack, G.W.,
-Farinha, P., Miyata-Takata, T., Cook, J.R., Ott, G., Rosenwald, A.,
-Campo, E., Amador, C., Greiner, T.C., Raess, P.W., Song, J.Y.,
+**Hilton, L.K.**, Collinge, B., Ben-Neriah, S., Grande, B.M., Slack,
+G.W., Farinha, P., Miyata-Takata, T., Cook, J.R., Ott, G., Rosenwald,
+A., Campo, E., Amador, C., Greiner, T.C., Raess, P.W., Song, J.Y.,
 Inghirami, G., Jaffe, E.S., Weisenburger, D.D., Chan, W.C., Holte, H.,
 Beiske, K., Fu, K., Delabie, J., Pittaluga, S., Feldman, A.L., Sehn,
 L.H., Savage, K.J., Mungall, A.J., Staudt, L.M., Steidl, C., Rimsza,
@@ -998,9 +1036,9 @@ Malignant Lymphoma. Lugano, CH.
 
 <div id="ref-hiltonTopologyMycRearrangements2021b" class="csl-entry">
 
-Hilton, L.K., Collinge, B., Ben-Neriah, S., Grande, B.M., Slack, G.W.,
-Farinha, P., Miyata-Takata, T., Cook, J.R., Ott, G., Rosenwald, A.,
-Campo, E., Amador, C., Greiner, T.C., Raess, P.W., Song, J.Y.,
+**Hilton, L.K.**, Collinge, B., Ben-Neriah, S., Grande, B.M., Slack,
+G.W., Farinha, P., Miyata-Takata, T., Cook, J.R., Ott, G., Rosenwald,
+A., Campo, E., Amador, C., Greiner, T.C., Raess, P.W., Song, J.Y.,
 Inghirami, G., Jaffe, E.S., Weisenburger, D.D., Chan, W.C., Holte, H.,
 Beiske, K., Fu, K., Delabie, J., Pittaluga, S., Feldman, A.L., Sehn,
 L.H., Savage, K.J., Mungall, A.J., Staudt, L.M., Steidl, C., Rimsza,
@@ -1014,24 +1052,24 @@ on Malignant Lymphoma. Lugano, CH.
 
 <div id="ref-hiltonWholeGenomeSequencing2021" class="csl-entry">
 
-Hilton, L.K., Collinge, B., Rushton, C.K., Ben-Neriah, S., Dreval, K.,
-Grande, B.M., Boyle, M., Meissner, B., Slack, G.W., Farinha, P., Craig,
-J.W., Gerrie, A.S., Freeman, C., Villa, D., Savage, K.J., Sehn, L.H.,
-Marra, M.A., Steidl, C., Morin, R.D., Scott, D.W., **2021a**. Whole
-Genome Sequencing of Matched Primary and Relapsed Dlbcl Reveals Distinct
-Evolutionary Dynamics Associated with Relapse Timing. International
-Conference on Malignant Lymphoma. Lugano, CH.
+**Hilton, L.K.**, Collinge, B., Rushton, C.K., Ben-Neriah, S., Dreval,
+K., Grande, B.M., Boyle, M., Meissner, B., Slack, G.W., Farinha, P.,
+Craig, J.W., Gerrie, A.S., Freeman, C., Villa, D., Savage, K.J., Sehn,
+L.H., Marra, M.A., Steidl, C., Morin, R.D., Scott, D.W., **2021a**.
+Whole Genome Sequencing of Matched Primary and Relapsed Dlbcl Reveals
+Distinct Evolutionary Dynamics Associated with Relapse Timing.
+International Conference on Malignant Lymphoma. Lugano, CH.
 
 </div>
 
 <div id="ref-hiltonWholeGenomeSequencing2021a" class="csl-entry">
 
-Hilton, L.K., Collinge, B., Rushton, C.K., Ben-Neriah, S., Dreval, K.,
-Grande, B.M., Boyle, M., Meissner, B., Slack, G.W., Farinha, P., Craig,
-J.W., Gerrie, A.S., Freeman, C., Villa, D., Savage, K.J., Sehn, L.H.,
-Marra, M.A., Steidl, C., Morin, R.D., Scott, D.W., **2021b**. [Whole
-Genome Sequencing of Matched Primary and Relapsed Dlbcl Reveals Distinct
-Evolutionary Dynamics Associated with Relapse
+**Hilton, L.K.**, Collinge, B., Rushton, C.K., Ben-Neriah, S., Dreval,
+K., Grande, B.M., Boyle, M., Meissner, B., Slack, G.W., Farinha, P.,
+Craig, J.W., Gerrie, A.S., Freeman, C., Villa, D., Savage, K.J., Sehn,
+L.H., Marra, M.A., Steidl, C., Morin, R.D., Scott, D.W., **2021b**.
+[Whole Genome Sequencing of Matched Primary and Relapsed Dlbcl Reveals
+Distinct Evolutionary Dynamics Associated with Relapse
 Timing](https://doi.org/10.1002/hon.24_2879). International Conference
 on Malignant Lymphoma. Lugano, CH.
 
@@ -1043,7 +1081,7 @@ Orem, J., Martin, M.-R., Mbulaiteye, S.M., Mullighan, C.G., Mungall,
 A.J., Mungall, K., Namirembe, C., Noy, A., Petrello, H., Ogwang, M.D.,
 Martin, J.-P., Reynolds, S.J., Swerdlow, S.H., Traverse-Glehen, A.,
 Wilson, W.H., Marra, M.A., Staudt, L.M., Scott, D.W., Morin, R.D.,
-Timothy, G., Dryer, M., Dreval, K., Gerhard, D.S., Hilton, L.K.,
+Timothy, G., Dryer, M., Dreval, K., Gerhard, D.S., **Hilton, L.K.**,
 Abramson, J.S., Bartlett, N.L., Bethony, J., Bowen, J., Bryan, A.,
 Casper, C., Thomas, N., Gastier-Foster, J.M., Grande, B.M., Griner,
 N.B., Gross, T.G., Harris, N.L., Irvin, J.D., Jaffe, E., Leal, F.,
@@ -1057,10 +1095,10 @@ on Malignant Lymphoma. Lugano, CH.
 <div id="ref-pararajalingamComplexStructuralVariation2021"
 class="csl-entry">
 
-Pararajalingam, P., Hilton, L.K., Coyle, K.M., Dreval, K., Meissner, B.,
-Melnick, A., Marra, M.A., Scott, D.W., Morin, R.D., **2021**. [Complex
-Structural Variation Associated with Enhancer Hijacking and Loss of
-Tumor Suppressors in Mantle Cell
+Pararajalingam, P., **Hilton, L.K.**, Coyle, K.M., Dreval, K., Meissner,
+B., Melnick, A., Marra, M.A., Scott, D.W., Morin, R.D., **2021**.
+[Complex Structural Variation Associated with Enhancer Hijacking and
+Loss of Tumor Suppressors in Mantle Cell
 Lymphoma](https://doi.org/10.1182/blood-2021-153162). American Society
 of Hematology Annual Meeting. New Orleans, LA, USA.
 
@@ -1068,7 +1106,7 @@ of Hematology Annual Meeting. New Orleans, LA, USA.
 
 <div id="ref-thomasNovelGeneticSubgroups2021" class="csl-entry">
 
-Thomas, N., Dreval, K., Gerhard, D.S., Hilton, L.K., Abramson, J.S.,
+Thomas, N., Dreval, K., Gerhard, D.S., **Hilton, L.K.**, Abramson, J.S.,
 Bartlett, N.L., Bethony, J., Bowen, J., Bryan, A., Casper, C., Cruz, M.,
 Dyer, M., Gastier-Foster, J.M., Gerrie, A.S., Grande, B.M., Greiner,
 T.C., Griner, N.B., Gross, T.G., Harris, N.L., Irvin, J.D., Jaffe, E.S.,
@@ -1085,15 +1123,15 @@ of Hematology Annual Meeting. New Orleans, LA, USA.
 
 <div id="ref-hiltonPrognosticSignificanceFc2020" class="csl-entry">
 
-Hilton, L.K., Nowicka, M., Ashton-Key, M., Hargreaves, C.E., Lee, C.,
-Foxall, R., Carter, M.J., Beers, S.A., Potter, K.N., Bolen, C.R., Klein,
-C., Knapp, A., Mir, F., Rose-Zerilli, M., Burton, C., Klapper, W.,
-Scott, D.W., Sehn, L.H., Vitolo, U., Martelli, M., Trneny, M., Slack,
-G.W., Farinha, P., Strefford, J.C., Oestergaard, M.Z., Morin, R.D.,
-Cragg, M.S., **2020**. [Prognostic significance of Fc gamma receptor IIB
-expression in the response of previously untreated diffuse large
-<span class="nocase">B-cell</span> lymphomas to anti-CD20 monoclonal
-antibodies: Differing impact of rituximab and
+**Hilton, L.K.**, Nowicka, M., Ashton-Key, M., Hargreaves, C.E., Lee,
+C., Foxall, R., Carter, M.J., Beers, S.A., Potter, K.N., Bolen, C.R.,
+Klein, C., Knapp, A., Mir, F., Rose-Zerilli, M., Burton, C., Klapper,
+W., Scott, D.W., Sehn, L.H., Vitolo, U., Martelli, M., Trneny, M.,
+Slack, G.W., Farinha, P., Strefford, J.C., Oestergaard, M.Z., Morin,
+R.D., Cragg, M.S., **2020**. [Prognostic significance of Fc gamma
+receptor IIB expression in the response of previously untreated diffuse
+large <span class="nocase">B-cell</span> lymphomas to anti-CD20
+monoclonal antibodies: Differing impact of rituximab and
 obinutuzumab](https://doi.org/10.1158/2643-3249.LYMPHOMA20-PO-26). AACR
 Virtual Meeting: Advances in Malignant Lymphoma. Virtual.
 
@@ -1101,8 +1139,8 @@ Virtual Meeting: Advances in Malignant Lymphoma. Virtual.
 
 <div id="ref-thomasAbstractIA42Detecting2020" class="csl-entry">
 
-Thomas, N., Hilton, L.K., Michaud, N., Bushell, K., Rys, R., Jain, M.,
-Shepherd, L., Marra, M.A., Kuruvilla, J., Crump, M., Mann, K.,
+Thomas, N., **Hilton, L.K.**, Michaud, N., Bushell, K., Rys, R., Jain,
+M., Shepherd, L., Marra, M.A., Kuruvilla, J., Crump, M., Mann, K.,
 Assouline, S., Steidl, C., Cragg, M.S., Scott, D.W., Johnson, N., Morin,
 R.D., Rushton, C.K., Arthur, S.E., Alcaide, M., Cheung, M., Jiang, A.,
 Coyle, K.M., Cleary, K.L.S., **2020**. [Abstract IA42: Detecting and
@@ -1115,7 +1153,7 @@ AACR Virtual Meeting: Advances in Malignant Lymphoma. Virtual.
 
 <div id="ref-hiltonCrypticMycBcl22019" class="csl-entry">
 
-Hilton, L.k., Alcaide, M., Ben-Neriah, S., Jiang, A., Grande, B.m.,
+**Hilton, L.k.**, Alcaide, M., Ben-Neriah, S., Jiang, A., Grande, B.m.,
 Rushton, C.k., Boyle, M., Meissner, B., Scott, D.w., Morin, R.d.,
 **2019**. Cryptic Myc and Bcl2 Rearrangements Are Among a Range of
 Genetic Mechanisms Underlying the Double Hit Signature in Non-Double Hit
@@ -1126,10 +1164,10 @@ Lymphoma. Lugano, CH.
 
 <div id="ref-hiltonKinasesLF4CNK22013a" class="csl-entry">
 
-Hilton, L.K., Gunawardane, K., Kim, J.W., Schwarz, M.C., Quarmby, L.M.,
-**2013**. The kinases LF4 and CNK2 control ciliary length by feedback
-control of assembly and disassembly rates. American Society for Cell
-Biology Annual Meeting. New Orleans, LA, USA.
+**Hilton, L.K.**, Gunawardane, K., Kim, J.W., Schwarz, M.C., Quarmby,
+L.M., **2013**. The kinases LF4 and CNK2 control ciliary length by
+feedback control of assembly and disassembly rates. American Society for
+Cell Biology Annual Meeting. New Orleans, LA, USA.
 
 </div>
 
@@ -1140,9 +1178,25 @@ Biology Annual Meeting. New Orleans, LA, USA.
 <div id="refs-posters" class="references csl-bib-body hanging-indent"
 entry-spacing="0">
 
+<div id="ref-akkadABCL698EvaluationGene2025" class="csl-entry">
+
+Akkad, N., **Hilton, L.**, Balakrishnan, K., Duose, D., Lau, Y., Nwogbo,
+O., Lucas, A.S., Ghosh, A., Erhumutemabor, P., Ayers, A., Alvarez, H.,
+Paponova, S., Nesmelov, A., Zemskiy, P., Shvyrkova, A., Sheehan, L.,
+Lauziere, K., Podsvirova, S., Postovalova, E., Kotlov, N., Bagaev, A.,
+Luthra, R., Mederios, J., Patel, K., Westin, J., Vega, F., Fowler, N.,
+Scott, D., Flowers, C., **2025**. [Evaluation of Gene Expression Assays
+to Classify Large B-Cell Lymphoma by Molecular Subtype From
+Formalin-Fixed, Paraffin-Embedded Tumor Biopsy Tissue
+(FFPET)](https://doi.org/10.1016/S2152-2650(25)02286-4). Society of
+Hematologic Oncology Annual Meeting, Society of Hematologic Oncology
+Annual Meeting. Houston, TX, USA.
+
+</div>
+
 <div id="ref-bancoEvaluatingTargetedLongread2025" class="csl-entry">
 
-Banco, G., Dreval, K., Hilton, L., Scott, D., Trimble, M.J., Lee,
+Banco, G., Dreval, K., **Hilton, L.**, Scott, D., Trimble, M.J., Lee,
 A.H.Y., Coyle, K., Morin, R., **2025**. [Evaluating targeted long-read
 sequencing as a diagnostic tool for burkitt
 lymphoma](https://doi.org/10.1182/blood-2025-3547). American Society of
@@ -1152,7 +1206,7 @@ Hematology Annual Meeting. Orlando, FL, USA.
 
 <div id="ref-drevalGenomicAnalysisMature2025" class="csl-entry">
 
-Dreval, K., Cruz, M., Hilton, L.K., Shaalan, H., Wijesinghe, M.,
+Dreval, K., Cruz, M., **Hilton, L.K.**, Shaalan, H., Wijesinghe, M.,
 Frontzek, F., Pararajalingam, P., Freeman, C., Lytle, A., Farinha, P.,
 Alduaij, W., Ben-Neriah, S., Boyle, M., Meissner, B., Rushton, C., Wong,
 J., Mirhosseneini, H.L., Souza, V., Gillis, S., Thomas, N., Qureshi, Q.,
@@ -1166,8 +1220,8 @@ International Conference on Malignant Lymphoma. Lugano, CH.
 class="csl-entry">
 
 Champagne, J.-N., Villa, D., Gerrie, A.S., Venner, C.P., Slack, G.W.,
-Farinha, P., Craig, J.W., Hilton, L., Savage, K.J., Scott, D.W., Sehn,
-L.H., **2024**. Retreatment with <span class="nocase">R-CHOP-like
+Farinha, P., Craig, J.W., **Hilton, L.**, Savage, K.J., Scott, D.W.,
+Sehn, L.H., **2024**. Retreatment with <span class="nocase">R-CHOP-like
 Therapy</span> in Patients with Late Relapse of Diffuse Large B-Cell
 Lymphoma (DLBCL). American Society of Hematology Annual Meeting. San
 Diego, CA, USA.
@@ -1176,19 +1230,20 @@ Diego, CA, USA.
 
 <div id="ref-feldmanFusionLandscapeAnaplastic2024" class="csl-entry">
 
-Feldman, A.L., Hu, G., Dasari, S., Rimsza, L.M., Scott, D.W., Gimenez,
-J.B., Salama, F.M., Shi, M., Campo, E., Chan, W.C., Cook, J.R.,
-Inghirami, G., Jaffe, E.S., Morin, R., Raess, P.W., Rosenwald, A.,
-Savage, K.J., Staudt, L.M., Wright, G.W., Amador, C., Delabie, J.,
-Greiner, T.C., Iqbal, J., Hilton, L.K., Ondrejka, S.L., Ott, G.,
-Pittaluga, S., Slack, G.W., Slager, S.L., Song, J.Y., Wang, H.-W.,
-Aljudi, A.A., Ansell, S.M., Barrionuevo, C., Cerhan, J.R.,
+<span class="nocase">Feldman, A.L., Hu, G., Dasari, S., Rimsza, L.M.,
+Scott, D.W., Gimenez, J.B., Salama, F.M., Shi, M., Campo, E., Chan,
+W.C., Cook, J.R., Inghirami, G., Jaffe, E.S., Morin, R., Raess, P.W.,
+Rosenwald, A., Savage, K.J., Staudt, L.M., Wright, G.W., Amador, C.,
+Delabie, J., Greiner, T.C., Iqbal, J., **Hilton, L.K.**, Ondrejka, S.L.,
+Ott, G., Pittaluga, S., Slack, G.W., Slager, S.L., Song, J.Y., Wang,
+H.-W., Aljudi, A.A., Ansell, S.M., Barrionuevo, C., Cerhan, J.R.,
 Chapman-Fredricks, J.R., Chen, W., de Leval, L., Gru, A.A., Jaye, D.L.,
 Jiang, L., Kahl, B.S., Karube, K., Ko, Y.H., Mou, E., Maurer, M.J.,
 Medeiros, L.J., Miranda, R.N., Oishi, N., Anamarija, P.M., Satou, A.,
-Wang, X., Wilcox, R.A., Wu, X., Yoshino, T., Zeng, Y., **2024**. The
-Fusion Landscape of Anaplastic Large Cell Lymphoma: An L.L.M.P.P. Study.
-American Society of Hematology Annual Meeting. San Diego, CA, USA.
+Wang, X., Wilcox, R.A., Wu, X., Yoshino, T., Zeng, Y.</span>, **2024**.
+The Fusion Landscape of Anaplastic Large Cell Lymphoma: An L.L.M.P.P.
+Study. American Society of Hematology Annual Meeting. San Diego, CA,
+USA.
 
 </div>
 
@@ -1197,7 +1252,7 @@ American Society of Hematology Annual Meeting. San Diego, CA, USA.
 Rai, S., Duns, G., Frontzek, F., Wong, J., Yin, Y., Healy, S., Li, M.Y.,
 Kishida, M., Viganò, E., Fujisawa, M., Woolcock, B., Telenius, A.,
 Meissner, B., Boyle, M., Nakamura, H., O’Brien, L., Lytle, A., Farinha,
-P., Slack, G.W., Hilton, L.K., Morin, R., Venturutti, L., Aoki, T.,
+P., Slack, G.W., **Hilton, L.K.**, Morin, R., Venturutti, L., Aoki, T.,
 Savage, K.J., Scott, D.W., Steidl, C., **2024**. Multiomic Profiling
 Reveals Pleiotropic Effects of Somatic IRF4-C99R Mutations in Primary
 Mediastinal Large B-Cell Lymphomas. American Society of Hematology
@@ -1207,7 +1262,7 @@ Annual Meeting. San Diego, CA, USA.
 
 <div id="ref-alduaijImpactDarkZone2023" class="csl-entry">
 
-Alduaij, W., Jiang, A., Collinge, B., Ben-Neriah, S., Hilton, L.K.,
+Alduaij, W., Jiang, A., Collinge, B., Ben-Neriah, S., **Hilton, L.K.**,
 Boyle, M., Meissner, B., Farinha, P., Slack, G., Villa, D., Gerrie,
 A.S., Mungall, A.J., Steidl, C., Sehn, L.H., Scott, D.W., Savage, K.,
 **2023**. [Impact of the Dark Zone Signature on Central Nervous System
@@ -1219,9 +1274,9 @@ International Conference on Malignant Lymphoma. Lugano, CH.
 
 <div id="ref-cruzLargeScaleGenomicAnalysis2023" class="csl-entry">
 
-Cruz, M., Dreval, K., Pararajalingam, P., Hilton, L., Wong, J., Rushton,
-C., Morin, R., **2023**. [Large-Scale Genomic Analysis of Mutational
-Hotspots in Burkitt Lymphoma and Diffuse Large B-Cell
+Cruz, M., Dreval, K., Pararajalingam, P., **Hilton, L.**, Wong, J.,
+Rushton, C., Morin, R., **2023**. [Large-Scale Genomic Analysis of
+Mutational Hotspots in Burkitt Lymphoma and Diffuse Large B-Cell
 Lymphoma](https://doi.org/10.1182/blood-2023-185914). American Society
 of Hematology Annual Meeting. San Diego, CA, USA.
 
@@ -1230,7 +1285,7 @@ of Hematology Annual Meeting. San Diego, CA, USA.
 <div id="ref-qureshiHnrnpuMutationsAre2023" class="csl-entry">
 
 Qureshi, Q.U.A., Coyle, K.M., Thomas, N., Collinge, B., Dreval, K.,
-Hilton, L., Wong, J., Scott, D.W., Audas, T., Morin, R., **2023**.
+**Hilton, L.**, Wong, J., Scott, D.W., Audas, T., Morin, R., **2023**.
 [Hnrnpu mutations Are Haploinsufficient and Alter the Transcriptome of
 MYC-Driven Lymphomas](https://doi.org/10.1182/blood-2023-190409).
 American Society of Hematology Annual Meeting. San Diego, CA, USA.
@@ -1240,10 +1295,10 @@ American Society of Hematology Annual Meeting. San Diego, CA, USA.
 <div id="ref-alduaijRiskCentralNervous2022" class="csl-entry">
 
 Alduaij, W., Jiang, A., Villa, D., Collinge, B., Ben-Neriah, S., Boyle,
-M., Meissner, B., Hilton, L.K., Farinha, P., Slack, G.W., Craig, J.W.,
-Gerrie, A.S., Freeman, C.L., Mungall, A.J., Steidl, C., Sehn, L.H.,
-Scott, D.W., Savage, K.J., **2022**. [Risk of Central Nervous System
-Involvement in High-Grade B-Cell Lymphoma with MYC and BCL2
+M., Meissner, B., **Hilton, L.K.**, Farinha, P., Slack, G.W., Craig,
+J.W., Gerrie, A.S., Freeman, C.L., Mungall, A.J., Steidl, C., Sehn,
+L.H., Scott, D.W., Savage, K.J., **2022**. [Risk of Central Nervous
+System Involvement in High-Grade B-Cell Lymphoma with MYC and BCL2
 Rearrangements: Analysis of a Population-Based Cohort with Routine
 Fluorescence in Situ Hybridization Testing in British
 Columbia](https://doi.org/10.1182/blood-2022-159356). American Society
@@ -1253,7 +1308,7 @@ of Hematology Annual Meeting. New Orleans, LA, USA.
 
 <div id="ref-collingeUnbalancedMYCBreakApart2022" class="csl-entry">
 
-Collinge, B., Ben-Neriah, S., Hilton, L.K., Alduaij, W., Tucker, T.,
+Collinge, B., Ben-Neriah, S., **Hilton, L.K.**, Alduaij, W., Tucker, T.,
 Slack, G.W., Farinha, P., Craig, J.W., Boyle, M., Meissner, B.,
 Mekwunye, K., Villa, D., Gerrie, A.S., Sehn, L.H., Savage, K.J., Morin,
 R.D., Mungall, A.J., Steidl, C., Scott, D.W., **2022**. Do Unbalanced
@@ -1265,9 +1320,9 @@ Orleans, LA, USA.
 
 <div id="ref-drevalUnifiedGeneticClassification2022" class="csl-entry">
 
-Dreval, K., Hilton, L.K., Coyle, K.M., Wong, J., Boyle, M., Collinge,
-B., Cruz, M., Meissner, B., Rushton, C.K., Marra, M.A., Scott, D.W.,
-Steidl, C., Morin, R.D., **2022**. [Towards a Unified Genetic
+Dreval, K., **Hilton, L.K.**, Coyle, K.M., Wong, J., Boyle, M.,
+Collinge, B., Cruz, M., Meissner, B., Rushton, C.K., Marra, M.A., Scott,
+D.W., Steidl, C., Morin, R.D., **2022**. [Towards a Unified Genetic
 Classification System for Diffuse Large B-Cell Lymphoma
 (DLBCL)](https://doi.org/10.1182/blood-2022-167043). American Society of
 Hematology Annual Meeting. New Orleans, LA, USA.
@@ -1276,9 +1331,9 @@ Hematology Annual Meeting. New Orleans, LA, USA.
 
 <div id="ref-rushtonRecurrentCopyNumber2022" class="csl-entry">
 
-Rushton, C.K., Rys, R.N., Chavez, E., Hilton, L.K., Alcaide, M., Dreval,
-K., Cheung, M., Cruz, M., Coyle, K.M., Meissner, B., Ben-Neriah, S.,
-Michaud, N.R., Daigle, S., Davidson, J., Wong, J., Hay, A.E., Jain,
+Rushton, C.K., Rys, R.N., Chavez, E., **Hilton, L.K.**, Alcaide, M.,
+Dreval, K., Cheung, M., Cruz, M., Coyle, K.M., Meissner, B., Ben-Neriah,
+S., Michaud, N.R., Daigle, S., Davidson, J., Wong, J., Hay, A.E., Jain,
 M.D., Shepherd, L.E., Marra, M.A., Kuruvilla, J., Crump, M., Mann, K.K.,
 Assouline, S., Steidl, C., Scott, D.W., Johnson, N.A., Morin, R.D.,
 **2022**. [Recurrent Copy Number Alterations Contribute to a Unique
@@ -1291,7 +1346,7 @@ Hematology Annual Meeting. New Orleans, LA, USA.
 <div id="ref-shaalan2022genome" class="csl-entry">
 
 Shaalan, H., Thomas, N., Boyle, M., Meissner, B., Marra, M.A., Steidl,
-C., Scott, D.W., Hilton, L.K., Morin, R.D., **2022**. Genome-wide
+C., Scott, D.W., **Hilton, L.K.**, Morin, R.D., **2022**. Genome-wide
 methylation and haplotype-resolved aberrant somatic hypermutation
 patterns in <span class="nocase">B-cell</span> lymphomas. American
 Society of Hematology Annual Meeting. American Society of Hematology,
@@ -1301,7 +1356,7 @@ San Diego, CA, USA.
 
 <div id="ref-wongGeneticDeterminantsIsolated2022" class="csl-entry">
 
-Wong, J., Collinge, B., Hilton, L.K., Ben-Neriah, S., Boyle, M.,
+Wong, J., Collinge, B., **Hilton, L.K.**, Ben-Neriah, S., Boyle, M.,
 Meissner, B., Mekwunye, K., Slack, G.W., Farinha, P., Craig, J.W., Sehn,
 L.H., Villa, D., Gerrie, A.S., Mungall, A.J., Steidl, C., Cook, J.R.,
 Feldman, A.L., Rimsza, L.M., Savage, K.J., Morin, R.D., Scott, D.W.,
@@ -1316,14 +1371,14 @@ of Hematology Annual Meeting. New Orleans, LA, USA.
 class="csl-entry">
 
 Alduaij, W., Sehn, L.H., Jiang, A., Ben-Neriah, S., Collinge, B.,
-Hilton, L.K., Boyle, M., Meissner, B., Farinha, P., Slack, G.W., Craig,
-J.W., Miyata-Takata, T., Villa, D., Gerrie, A.S., Freeman, C.L., Savage,
-K.J., Gascoyne, R.D., Connors, J.M., Mungall, A.J., Steidl, C., Scott,
-D.W., **2021**. [Population-Wide Introduction of Dose-Adjusted EPOCH-R
-Is Associated with Improved Outcome of High Grade B-Cell Lymphoma with
-MYC and BCL2 Rearrangements with Diffuse Large B-Cell Lymphoma
-Morphology](https://doi.org/10.1182/blood-2021-145954). American Society
-of Hematology Annual Meeting.
+**Hilton, L.K.**, Boyle, M., Meissner, B., Farinha, P., Slack, G.W.,
+Craig, J.W., Miyata-Takata, T., Villa, D., Gerrie, A.S., Freeman, C.L.,
+Savage, K.J., Gascoyne, R.D., Connors, J.M., Mungall, A.J., Steidl, C.,
+Scott, D.W., **2021**. [Population-Wide Introduction of Dose-Adjusted
+EPOCH-R Is Associated with Improved Outcome of High Grade B-Cell
+Lymphoma with MYC and BCL2 Rearrangements with Diffuse Large B-Cell
+Lymphoma Morphology](https://doi.org/10.1182/blood-2021-145954).
+American Society of Hematology Annual Meeting.
 
 </div>
 
@@ -1332,7 +1387,7 @@ of Hematology Annual Meeting.
 Dreval, K., Grande, B.M., Winata, H., Wong, J., Sethi, L., Rushton,
 C.K., Pararajalingam, P., Arthur, S.E., Chong, L.C., Collinge, B.,
 Coyle, K.M., Cruz, M., Hung, S., Soudi, S., Thomas, N., Steidl, C.,
-Scott, D.W., Morin, R.D., Hilton, L.K., **2021**. [An Open-Source
+Scott, D.W., Morin, R.D., **Hilton, L.K.**, **2021**. [An Open-Source
 Toolkit That Powers the Genome-Wide Analysis of Mature B-Cell Lymphomas
 (GAMBL) Project](https://doi.org/10.1182/blood-2021-147548). American
 Society of Hematology Annual Meeting. Atlanta, GA, USA.
@@ -1341,18 +1396,19 @@ Society of Hematology Annual Meeting. Atlanta, GA, USA.
 
 <div id="ref-nguDiffuseLargeBCell2021" class="csl-entry">
 
-Ngu, H.S., Hilton, L.K., Rodrigo, J.A., Villa, D., Gerrie, A.S., Song,
-K., Farinha, P., Slack, G.W., Savage, K.J., Scott, D.W., Sehn, L.H.,
-**2021**. [Diffuse Large B-Cell Lymphoma (DLBCL) Patients with Late
-Relapses Who Are Transplant-Eligible Have Excellent Outcomes and May
-Represent Unique Biology](https://doi.org/10.1182/blood-2021-149049).
-American Society of Hematology Annual Meeting. Atlanta, GA, USA.
+Ngu, H.S., **Hilton, L.K.**, Rodrigo, J.A., Villa, D., Gerrie, A.S.,
+Song, K., Farinha, P., Slack, G.W., Savage, K.J., Scott, D.W., Sehn,
+L.H., **2021**. [Diffuse Large B-Cell Lymphoma (DLBCL) Patients with
+Late Relapses Who Are Transplant-Eligible Have Excellent Outcomes and
+May Represent Unique
+Biology](https://doi.org/10.1182/blood-2021-149049). American Society of
+Hematology Annual Meeting. Atlanta, GA, USA.
 
 </div>
 
 <div id="ref-wongGenomicLandscapePlasmablastic2021" class="csl-entry">
 
-Wong, J., Collinge, B., Hilton, L.K., Ben-Neriah, S., Slack, G.W.,
+Wong, J., Collinge, B., **Hilton, L.K.**, Ben-Neriah, S., Slack, G.W.,
 Farinha, P., Cook, J.R., Salaverria, I., Campo, E., Ott, G., Rosenwald,
 A., Amador, C., Jaffe, E.S., Greiner, T.C., Raess, P., Song, J.Y.,
 Inghirami, G., Weisenburger, D.D., Chan, W.(John).C., Holte, H., Beiske,
@@ -1367,29 +1423,30 @@ Society of Hematology Annual Meeting. Atlanta, GA, USA.
 <div id="ref-hiltonAmplificationOverexpressionFCGR2B2018"
 class="csl-entry">
 
-Hilton, L.K., Jiang, A., Grande, B.M., Alcaide, M., Rushton, C., Thomas,
-N., Arthur, S.E., Slack, G.W., Farinha, P., Colborne, S., Morin, G.B.,
-Gascoyne, R.D., Connors, J.M., Steidl, C., Scott, D.W., Morin, R.D.,
-**2018**. Amplification and overexpression of FCGR2B are associated with
-inferior outcomes in diffuse large B cell lymphoma patients. American
-Society of Hematology Meeting on Lymphoma Biology. Chantilly, VA, USA.
+**Hilton, L.K.**, Jiang, A., Grande, B.M., Alcaide, M., Rushton, C.,
+Thomas, N., Arthur, S.E., Slack, G.W., Farinha, P., Colborne, S., Morin,
+G.B., Gascoyne, R.D., Connors, J.M., Steidl, C., Scott, D.W., Morin,
+R.D., **2018**. Amplification and overexpression of FCGR2B are
+associated with inferior outcomes in diffuse large B cell lymphoma
+patients. American Society of Hematology Meeting on Lymphoma Biology.
+Chantilly, VA, USA.
 
 </div>
 
 <div id="ref-hiltonChlamydomonasCnk21Mutant2013" class="csl-entry">
 
-Hilton, L.K., Gunawardane, K., Kim, J.W., Schwarz, M.C., Quarmby, L.M.,
-**2013**. Chlamydomonas Cnk2-1 mutant supports a feedback model for
-ciliary length control. FASEB Biology of Cilia and Flagella. Niagara
+**Hilton, L.K.**, Gunawardane, K., Kim, J.W., Schwarz, M.C., Quarmby,
+L.M., **2013**. Chlamydomonas Cnk2-1 mutant supports a feedback model
+for ciliary length control. FASEB Biology of Cilia and Flagella. Niagara
 Falls, NY, USA.
 
 </div>
 
 <div id="ref-hiltonCiliaryKinaseCNK22012" class="csl-entry">
 
-Hilton, L.K., Quarmby, L.M., **2012**. The ciliary kinase CNK2 triggers
-ciliary disassembly. American Association for the Advancement of Science
-Annual Meeting. Vancouver, BC, Canada.
+**Hilton, L.K.**, Quarmby, L.M., **2012**. The ciliary kinase CNK2
+triggers ciliary disassembly. American Association for the Advancement
+of Science Annual Meeting. Vancouver, BC, Canada.
 
 </div>
 
