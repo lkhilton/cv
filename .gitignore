@@ -5,3 +5,4 @@
 /cv_files
 **/*.quarto_ipynb
 /README_files
+*.DS_Store
