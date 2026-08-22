@@ -1,0 +1,191 @@
+---
+title: "Laura K. Hilton, PhD"
+subtitle: "Curriculum Vitae"
+
+format:
+  pdf:
+    output-directory: bespoke/2026_CRS_IIT/
+    toc: false
+    geometry:
+      - top=25mm
+      - bottom=25mm
+      - right=25mm
+      - left=25mm
+      - footskip=15mm
+    mainfont: Helvetica
+    sansfont: Helvetica
+    header-includes:
+        - \usepackage{fancyhdr}
+        - \pagestyle{fancy}
+        - \fancyhf{}
+        - \fancyhead[L]{Hilton, Laura K.}
+        - \fancyhead[R]{\thepage}
+        - \renewcommand{\headrulewidth}{0pt}
+        - \usepackage{makecell}
+        - \usepackage{booktabs}
+        - \usepackage{longtable}
+        - \usepackage{array}
+        - \usepackage{xcolor}
+        - \usepackage{wrapfig}
+        - \usepackage{float}
+        - \usepackage{colortbl}
+        - \usepackage{pdflscape}
+        - \usepackage{tabu}
+        - \usepackage{threeparttable}
+        - \usepackage{threeparttablex}
+        - \usepackage{ulem}
+        - \usepackage{adjustbox}
+
+# Use the multibib extension
+filters:
+  - multibib
+  - ../../bold-author.lua
+
+# Turn off YAML validation
+validate-yaml: false
+
+# Define list of separate bibliography files
+bibliography:
+  papers: ../../bespoke/2026_CRS_IIT/5-year-peer-reviewed.bib
+nocite: |
+    @*
+csl: ../../csl/elsevier-harvard.csl
+
+# Disable citeproc
+citeproc: false
+
+# Custom cross reference type for appendix tables
+crossref:
+  custom:
+    - kind: float
+      key: apptbl
+      latex-env: apptbl
+      reference-prefix: Table A
+      space-before-numbering: false
+      latex-list-of-description: Appendix Table
+apptbl-cap-location: top
+
+editor:
+  render-on-save: false
+
+execute:
+  freeze: auto
+  echo: false
+  include: true
+  warning: false
+  message: false
+  error: false
+  cache: false
+  
+---
+
+```{r}
+#| label: setup
+
+library(tidyverse)
+library(knitr)
+library(flextable)
+library(kableExtra)
+
+output_format <- knitr::pandoc_to()
+
+# 14.9 Abbreviated CVs
+# For PI and all co-applicants (one PDF per person):
+ 
+# • Academic degrees
+# • Employment history
+# • Publications (past 5 years; highlight those relevant to this proposal; no non-peer-reviewed items)
+# • Explanation for any career interruptions
+# • PI/co-applicant last name and first name on each page
+
+```
+
+# Education {.unnumbered}
+
+```{r}
+#| label: education
+#| tbl-colwidths: [10, 90]
+
+
+education <- read_tsv("../../components/education.tsv")
+
+if (output_format == "docx") {
+    education <- education %>%
+        mutate(details = str_replace_all(
+            details,
+            "\\{return\\}",
+            "\n"
+        )) %>%
+        mutate(year = as.character(year)) %>%
+        flextable() %>%
+        delete_part("header")
+
+    set_table_properties(education, layout = "autofit")
+} else {
+    education %>%
+        mutate(details = str_replace_all(
+            details,
+            " \\{return\\}",
+            " \n"
+        ))%>%
+    mutate(details = linebreak(details)) %>% # add LaTeX-style linebreaks
+    kableExtra::kable("latex", escape = FALSE, booktabs = TRUE, longtable = TRUE, col.names = NULL) %>% # Required formatting for line breaks
+    kable_styling(latex_options = c("scale_down", "hold_position")) %>% 
+    column_spec(1, width = "1in") %>% # Make sure table doesn't extend past the end of the page
+    column_spec(2, width = "5in")
+}
+
+```
+
+# Appointments {.unnumbered}
+
+```{r}
+#| label: appointments
+#| tbl-colwidths: [30, 70]
+#| 
+
+appointments <- read_tsv("../../components/appointments.tsv")
+
+if (output_format == "docx") {
+    appointments <- appointments %>%
+        mutate(details = str_replace_all(
+            details,
+            "\\{return\\}",
+            "\n"
+        )) %>%
+        mutate(year = as.character(year)) %>%
+        flextable() %>%
+        delete_part("header")
+
+    set_table_properties(appointments, layout = "autofit")
+} else if(output_format == "gfm"){
+    appointments %>%
+        mutate(details = str_replace_all(
+            details,
+            " \\{return\\}",
+            " <br>"
+        ))%>%
+    kable(col.names = NULL)
+}else if(output_format == "latex"){
+    appointments %>%
+        mutate(details = str_replace_all(
+            details,
+            " \\{return\\}",
+            " \n"
+        ))%>%
+    mutate(details = linebreak(details)) %>% 
+    kableExtra::kable("latex", escape = FALSE, booktabs = TRUE, longtable = TRUE, col.names = NULL) %>% 
+    kable_styling(latex_options = c("scale_down", "hold_position")) %>% 
+    column_spec(1, width = "1.8in") %>% 
+    column_spec(2, width = "4.2in")
+}
+
+```
+
+## Published Peer-Reviewed Articles {.unnumbered}
+
+*\*Equal contributions*
+
+::: {#refs-papers}
+:::
+
