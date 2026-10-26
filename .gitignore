@@ -6,3 +6,4 @@
 **/*.quarto_ipynb
 /README_files
 *.DS_Store
+find_broken.R
