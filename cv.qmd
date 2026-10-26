@@ -224,8 +224,8 @@ funding <- read_tsv("components/funding.tsv")
 # Collapse all non-date fields into one column, separated by {return}
 funding <- funding %>%
     mutate(
-        pi = paste0("PI: ", pi),
-        coi = paste0("Co-I: ", coi)
+        pi = paste0("Principal Investigator: ", pi),
+        coi = paste0("Co-Investigator: ", coi)
     ) %>%
     unite(details, -date, sep = " {return} ")
 
