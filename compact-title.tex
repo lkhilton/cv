@@ -1,0 +1,13 @@
+% Compact title block: replaces KOMA's default \maketitle, which reserves
+% space for the (empty) author and date and pads above and below the title.
+\makeatletter
+\renewcommand{\maketitle}{%
+  \begin{center}
+    {\usekomafont{title}{\huge \@title \par}}%
+    \ifx\@subtitle\@empty\else
+      \vspace{0.25em}%
+      {\usekomafont{subtitle}{\@subtitle \par}}%
+    \fi
+  \end{center}
+  \vspace{0.5em}}
+\makeatother
