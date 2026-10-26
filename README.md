@@ -4,6 +4,13 @@
 - [Education](#education)
 - [Appointments](#appointments)
 - [Awards and Honours](#awards-and-honours)
+- [Funding](#funding)
+- [Service](#service)
+  - [Anonymous Peer Review (2018-Present,
+    Cumulative)](#anonymous-peer-review-2018-present-cumulative)
+  - [Service to University and
+    Community](#service-to-university-and-community)
+- [Career Disruptions](#career-disruptions)
 - [Publications](#publications)
   - [Published Peer-Reviewed Articles and
     Preprints](#published-peer-reviewed-articles-and-preprints)
@@ -12,16 +19,12 @@
   - [Invited Presentations](#invited-presentations)
   - [Conference Oral Presentations](#conference-oral-presentations)
   - [Conference Poster Presentations](#conference-poster-presentations)
-- [Career Disruptions](#career-disruptions)
-- [Service](#service)
-  - [Anonymous Peer Review (2018-Present,
-    Cumulative)](#anonymous-peer-review-2018-present-cumulative)
-  - [Service to University and
-    Community](#service-to-university-and-community)
 
 # Education
 
 # Appointments
+
+
 
 # Awards and Honours
 
@@ -39,16 +42,62 @@
 | 2011 | SFU President’s Research Stipend |
 | 2008-2010 | NSERC Alexander Graham Bell Canada Graduate Scholarship – Masters |
 
+# Funding
+
+# Service
+
+## Anonymous Peer Review (2018-Present, Cumulative)
+
+ASH Annual Meeting Abstracts (2), Blood (9), Blood Advances (10),
+Haematologica (3), Journal of Clinical Oncology (3), Clinical Lymphoma
+Myeloma and Leukemia (3), Genome Medicine (1), Nature Communications
+(1), Journal of Molecular Diagnostics (1), Cell Genomics (1).
+
+## Service to University and Community
+
+|  |  |
+|:---|:---|
+| 2026-Present | Member, Scientific Committee on Hematopathology & Clinical Laboratory Hematology, American Society of Hematology |
+| 2026-Present | Member, Vancouver Skating Club Board of Directors |
+| 2025-Present | Member, Clinical Lymphoma Myeloma and Leukemia Editorial Board |
+| 2024-Present | Member, Women in Lymphoma Steering Committee |
+| 2023-Present | Guider, Girl Guides of Canada |
+| 2019-2022 | Secretary, Board of Directors, Lonsdale Creek Daycare Society |
+| 2012-2013 | President, MBB Graduate Caucus |
+| 2012-2013 | Student Representative, MBB Departmental Graduate Studies Committee |
+| 2011-2012 | Secretary, MBB Graduate Caucus |
+
+# Career Disruptions
+
+|                       |                |
+|:----------------------|:---------------|
+| Mar. 2014 – Sep. 2014 | Parental Leave |
+| Feb. 2017 – Feb. 2018 | Parental Leave |
+
 # Publications
 
 ## Published Peer-Reviewed Articles and Preprints
 
-*48 total; 14 as (co-)first author*
+*49 total; 15 as (co-)first author*
 
 *\*Equal contributions*
 
 <div id="refs-papers" class="references csl-bib-body hanging-indent"
 entry-spacing="0">
+
+<div id="ref-akkadEvaluationGeneExpression2026" class="csl-entry">
+
+\*Akkad, N., **\*Hilton, L.K.**, Balakrishnan, K., Duose, D., Lau,
+Y.Y.M., Jiang, A., Sankar, S., Nwogbo, O.V., Ghosh, A., Erhumutemabor,
+P.Y., Ayers, A., Paponova, S., Nesmelov, A., Zemskiy, P., Shvyrkova, A.,
+Sheehan, E., Lauziere, K., Podsvirova, S., Postovalova, E., Kotlov, N.,
+Bagaev, A., Luthra, R., Medeiros, L.J., Patel, K.P., Vega, F., Fowler,
+N., Scott, D.W., Flowers, C.R., **2026**. [Evaluation of gene expression
+assays to classify large <span class="nocase">B-cell</span> lymphoma by
+molecular subtype using formalin-fixed paraffin-embedded tumor
+biopsies](https://doi.org/10.1038/s41408-026-01640-6). *Blood Cancer J.*
+
+</div>
 
 <div id="ref-aokiMultidimensionalCharacterizationTumor2026"
 class="csl-entry">
@@ -133,7 +182,7 @@ Staudt, L.M., Morin, R.D., Steidl, C., Scott, D.W., **2026**. [LySeqST:
 A targeted sequencing assay for robust genomic classification of diffuse
 large <span class="nocase">B-cell</span>
 lymphoma](https://doi.org/10.1182/bloodadvances.2026020105). *Blood
-Adv*. bloodadvances.2026020105.
+Adv*. **10**, 4208–4214.
 
 </div>
 
@@ -181,7 +230,7 @@ Béguelin, W., Venturutti, L., Melnick, A.M., **2026**. [SPEN loss drives
 extra-follicular diffuse large B cell lymphoma with female-specific
 lethality and therapeutic
 vulnerabilities](https://doi.org/10.1158/2159-8290.CD-25-1458). *Cancer
-Discov*.
+Discov*. **16**, 1666–1690.
 
 </div>
 
@@ -196,7 +245,7 @@ Davis, R.E., Flowers, C.R., Westin, J.R., Inghirami, G., Vega, F.,
 Green, M.R., **2026**. [A Patient-Derived Xenograft Repository Capturing
 Clinical and Molecular Heterogeneity of <span class="nocase">Large
 B-cell Lymphoma</span>](https://doi.org/10.1158/2643-3230.BCD-26-0005).
-*Blood Cancer Discov*. OF1–OF16.
+*Blood Cancer Discov*. **7**, 829–844.
 
 </div>
 
@@ -224,7 +273,7 @@ Freeman, C.L., Mungall, A.J., Steidl, C., Scott, D.W., **2025**.
 EPOCH-R In High-grade B-cell Lymphoma</span> with MYC/BCL2
 Rearrangements, DLBCL
 Morphology](https://doi.org/10.1182/bloodadvances.2025017282). *Blood
-Adv*. bloodadvances.2025017282.
+Adv*. **10**, 320–333.
 
 </div>
 
@@ -1027,26 +1076,10 @@ A., Campo, E., Amador, C., Greiner, T.C., Raess, P.W., Song, J.Y.,
 Inghirami, G., Jaffe, E.S., Weisenburger, D.D., Chan, W.C., Holte, H.,
 Beiske, K., Fu, K., Delabie, J., Pittaluga, S., Feldman, A.L., Sehn,
 L.H., Savage, K.J., Mungall, A.J., Staudt, L.M., Steidl, C., Rimsza,
-L.M., Morin, R.D., Scott, D.W., **2021a**. The Topology of Myc
+L.M., Morin, R.D., Scott, D.W., **2021**. The Topology of Myc
 Rearrangements in Double-Hit Lymphoma Is Constrained by the Preceding
 Igh-Bcl2 Rearrangement – an Llmpp Project. International Conference on
 Malignant Lymphoma. Lugano, CH.
-
-</div>
-
-<div id="ref-hiltonTopologyMycRearrangements2021b" class="csl-entry">
-
-**Hilton, L.K.**, Collinge, B., Ben-Neriah, S., Grande, B.M., Slack,
-G.W., Farinha, P., Miyata-Takata, T., Cook, J.R., Ott, G., Rosenwald,
-A., Campo, E., Amador, C., Greiner, T.C., Raess, P.W., Song, J.Y.,
-Inghirami, G., Jaffe, E.S., Weisenburger, D.D., Chan, W.C., Holte, H.,
-Beiske, K., Fu, K., Delabie, J., Pittaluga, S., Feldman, A.L., Sehn,
-L.H., Savage, K.J., Mungall, A.J., Staudt, L.M., Steidl, C., Rimsza,
-L.M., Morin, R.D., Scott, D.W., **2021b**. [The Topology of Myc
-Rearrangements in Double-Hit Lymphoma Is Constrained by the Preceding
-Igh-Bcl2 Rearrangement – an Llmpp
-Project](https://doi.org/10.1002/hon.64_2879). International Conference
-on Malignant Lymphoma. Lugano, CH.
 
 </div>
 
@@ -1055,23 +1088,10 @@ on Malignant Lymphoma. Lugano, CH.
 **Hilton, L.K.**, Collinge, B., Rushton, C.K., Ben-Neriah, S., Dreval,
 K., Grande, B.M., Boyle, M., Meissner, B., Slack, G.W., Farinha, P.,
 Craig, J.W., Gerrie, A.S., Freeman, C., Villa, D., Savage, K.J., Sehn,
-L.H., Marra, M.A., Steidl, C., Morin, R.D., Scott, D.W., **2021a**.
-Whole Genome Sequencing of Matched Primary and Relapsed Dlbcl Reveals
-Distinct Evolutionary Dynamics Associated with Relapse Timing.
-International Conference on Malignant Lymphoma. Lugano, CH.
-
-</div>
-
-<div id="ref-hiltonWholeGenomeSequencing2021a" class="csl-entry">
-
-**Hilton, L.K.**, Collinge, B., Rushton, C.K., Ben-Neriah, S., Dreval,
-K., Grande, B.M., Boyle, M., Meissner, B., Slack, G.W., Farinha, P.,
-Craig, J.W., Gerrie, A.S., Freeman, C., Villa, D., Savage, K.J., Sehn,
-L.H., Marra, M.A., Steidl, C., Morin, R.D., Scott, D.W., **2021b**.
-[Whole Genome Sequencing of Matched Primary and Relapsed Dlbcl Reveals
-Distinct Evolutionary Dynamics Associated with Relapse
-Timing](https://doi.org/10.1002/hon.24_2879). International Conference
-on Malignant Lymphoma. Lugano, CH.
+L.H., Marra, M.A., Steidl, C., Morin, R.D., Scott, D.W., **2021**. Whole
+Genome Sequencing of Matched Primary and Relapsed Dlbcl Reveals Distinct
+Evolutionary Dynamics Associated with Relapse Timing. International
+Conference on Malignant Lymphoma. Lugano, CH.
 
 </div>
 
@@ -1378,7 +1398,7 @@ Scott, D.W., **2021**. [Population-Wide Introduction of Dose-Adjusted
 EPOCH-R Is Associated with Improved Outcome of High Grade B-Cell
 Lymphoma with MYC and BCL2 Rearrangements with Diffuse Large B-Cell
 Lymphoma Morphology](https://doi.org/10.1182/blood-2021-145954).
-American Society of Hematology Annual Meeting.
+American Society of Hematology Annual Meeting. Atlanta, GA, USA.
 
 </div>
 
@@ -1451,30 +1471,3 @@ of Science Annual Meeting. Vancouver, BC, Canada.
 </div>
 
 </div>
-
-# Career Disruptions
-
-|                       |                |
-|:----------------------|:---------------|
-| Mar. 2014 – Sep. 2014 | Parental Leave |
-| Feb. 2017 – Feb. 2018 | Parental Leave |
-
-# Service
-
-## Anonymous Peer Review (2018-Present, Cumulative)
-
-ASH Annual Meeting Abstracts (1), Blood (7), Haematologica (3), Journal
-of Clinical Oncology (3), Genome Medicine (1), Nature Communications
-(1), Blood Advances (8), Journal of Molecular Diagnostics (1), Cell
-Genomics (1).
-
-## Service to University and Community
-
-|  |  |
-|:---|:---|
-| 2024-Present | Women in Lymphoma Steering Committee |
-| 2023-Present | Guider, Girl Guides of Canada |
-| 2019-2022 | Secretary, Board of Directors, Lonsdale Creek Daycare Society |
-| 2012-2013 | President, MBB Graduate Caucus |
-| 2012-2013 | Student Representative, MBB Departmental Graduate Studies Committee |
-| 2011-2012 | Secretary, MBB Graduate Caucus |

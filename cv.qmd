@@ -43,6 +43,7 @@ format:
         - \usepackage{threeparttablex}
         - \usepackage{ulem}
         - \usepackage{adjustbox}
+    include-in-header: compact-title.tex
 
 # Use the multibib extension
 filters:
@@ -184,6 +185,8 @@ if (output_format == "docx") {
 
 ```
 
+\newpage
+
 # Awards and Honours {.unnumbered}
 
 ```{r}
@@ -209,6 +212,119 @@ set_table_properties(awards, layout = "autofit")
 }
 
 ```
+
+# Funding {.unnumbered}
+
+```{r}
+#| label: funding
+#| tbl-colwidths: [30, 70]
+
+funding <- read_tsv("components/funding.tsv")
+
+# Collapse all non-date fields into one column, separated by {return}
+funding <- funding %>%
+    mutate(
+        pi = paste0("PI: ", pi),
+        coi = paste0("Co-I: ", coi)
+    ) %>%
+    unite(details, -date, sep = " {return} ")
+
+if (output_format == "docx") {
+    funding <- funding %>%
+        mutate(details = str_replace_all(
+            details,
+            " \\{return\\} ",
+            "\n"
+        )) %>%
+        flextable() %>%
+        delete_part("header")
+
+    set_table_properties(funding, layout = "autofit")
+} else if(output_format == "gfm"){
+    funding %>%
+        mutate(details = str_replace_all(
+            details,
+            " \\{return\\} ",
+            " <br>"
+        ))%>%
+    kable(col.names = NULL)
+}else if(output_format == "latex"){
+    funding %>%
+        mutate(details = str_replace_all(details, "([$&%])", "\\\\\\1")) %>% # escape LaTeX special characters
+        mutate(details = str_replace_all(
+            details,
+            " \\{return\\} ",
+            " \n"
+        ))%>%
+    mutate(details = linebreak(details)) %>%
+    kableExtra::kable("latex", escape = FALSE, booktabs = TRUE, longtable = TRUE, col.names = NULL) %>%
+    kable_styling(latex_options = c("scale_down", "hold_position")) %>%
+    column_spec(1, width = "1.8in") %>%
+    column_spec(2, width = "4.2in")
+}
+
+```
+
+# Service {.unnumbered}
+
+## Anonymous Peer Review (2018-Present, Cumulative) {.unnumbered}
+
+ASH Annual Meeting Abstracts (2), Blood (9), Blood Advances (10), Haematologica (3), Journal of Clinical Oncology (3), Clinical Lymphoma Myeloma and Leukemia (3), Genome Medicine (1), Nature Communications (1), Journal of Molecular Diagnostics (1), Cell Genomics (1). 
+
+## Service to University and Community {.unnumbered}
+
+```{r}
+#| label: service
+#| tbl-colwidths: [20, 80]
+
+service <- read_tsv("components/service.tsv") 
+
+if(output_format == "docx"){
+
+service <- service %>%
+    mutate(details = str_replace_all(
+        details,
+        "\\{return\\}",
+        "\n"
+    )) %>%
+    mutate(year = as.character(year)) %>% 
+    flextable() %>%
+    delete_part("header")
+
+set_table_properties(service, layout = "autofit")
+}else{
+  kable(service, col.names = NULL)
+}
+
+```
+
+# Career Disruptions {.unnumbered}
+
+```{r ft.align="left"}
+#| label: disruptions
+#| tbl-colwidths: [30, 70]
+
+disruptions <- read_tsv("components/disruptions.tsv") 
+
+if(output_format == "docx"){
+
+disruptions <- disruptions %>%
+    mutate(details = str_replace_all(
+        details,
+        "\\{return\\}",
+        "\n"
+    )) %>%
+    mutate(year = as.character(year)) %>% 
+    flextable() %>%
+    delete_part("header")
+    
+set_table_properties(disruptions, layout = "autofit")
+}else{
+  kable(disruptions, col.names = NULL)
+}
+
+```
+
 
 # Publications {.unnumbered}
 
@@ -284,63 +400,4 @@ set_table_properties(invited_talks, layout = "autofit")
 ::: {#refs-posters}
 :::
 
-# Career Disruptions {.unnumbered}
-
-```{r ft.align="left"}
-#| label: disruptions
-#| tbl-colwidths: [30, 70]
-
-disruptions <- read_tsv("components/disruptions.tsv") 
-
-if(output_format == "docx"){
-
-disruptions <- disruptions %>%
-    mutate(details = str_replace_all(
-        details,
-        "\\{return\\}",
-        "\n"
-    )) %>%
-    mutate(year = as.character(year)) %>% 
-    flextable() %>%
-    delete_part("header")
-    
-set_table_properties(disruptions, layout = "autofit")
-}else{
-  kable(disruptions, col.names = NULL)
-}
-
-```
-
-# Service {.unnumbered}
-
-## Anonymous Peer Review (2018-Present, Cumulative) {.unnumbered}
-
-ASH Annual Meeting Abstracts (1), Blood (7), Haematologica (3), Journal of Clinical Oncology (3), Genome Medicine (1), Nature Communications (1), Blood Advances (8), Journal of Molecular Diagnostics (1), Cell Genomics (1). 
-
-## Service to University and Community {.unnumbered}
-
-```{r}
-#| label: service
-#| tbl-colwidths: [20, 80]
-
-service <- read_tsv("components/service.tsv") 
-
-if(output_format == "docx"){
-
-service <- service %>%
-    mutate(details = str_replace_all(
-        details,
-        "\\{return\\}",
-        "\n"
-    )) %>%
-    mutate(year = as.character(year)) %>% 
-    flextable() %>%
-    delete_part("header")
-
-set_table_properties(service, layout = "autofit")
-}else{
-  kable(service, col.names = NULL)
-}
-
-```
 
