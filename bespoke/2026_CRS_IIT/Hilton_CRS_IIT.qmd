@@ -3,6 +3,17 @@ title: "Laura K. Hilton, PhD"
 subtitle: "Curriculum Vitae"
 
 format:
+  docx:
+    toc: false
+    geometry:
+      - top=25mm
+      - bottom=25mm
+      - right=25mm
+      - left=25mm
+      - footskip=15mm
+    reference-doc: ../../csl/custom-reference-doc.docx
+    mainfont: Helvetica
+    sansfont: Helvetica
   pdf:
     output-directory: bespoke/2026_CRS_IIT/
     toc: false
@@ -15,12 +26,16 @@ format:
     mainfont: Helvetica
     sansfont: Helvetica
     header-includes:
+        - \makeatletter
+        - \def\@maketitle{\null\vskip 0.5em\begin{center}\let\footnote\thanks{\LARGE\bfseries\@title\par}\end{center}\par\vskip 0.5em}
+        - \makeatother
         - \usepackage{fancyhdr}
         - \pagestyle{fancy}
         - \fancyhf{}
-        - \fancyhead[L]{Hilton, Laura K.}
-        - \fancyhead[R]{\thepage}
+        - \fancyfoot[L]{Savage, Kerry/Hilton, Laura}
+        - \fancyfoot[R]{\thepage}
         - \renewcommand{\headrulewidth}{0pt}
+        - \fancypagestyle{plain}{\fancyhf{}\fancyfoot[L]{Savage, Kerry/Hilton, Laura}\fancyfoot[R]{\thepage}\renewcommand{\headrulewidth}{0pt}}
         - \usepackage{makecell}
         - \usepackage{booktabs}
         - \usepackage{longtable}
@@ -182,10 +197,39 @@ if (output_format == "docx") {
 
 ```
 
+\newpage
+
 ## Published Peer-Reviewed Articles {.unnumbered}
 
 *\*Equal contributions*
 
 ::: {#refs-papers}
 :::
+
+# Career Disruptions {.unnumbered}
+
+```{r ft.align="left"}
+#| label: disruptions
+#| tbl-colwidths: [30, 70]
+
+disruptions <- read_tsv("../../components/disruptions.tsv") 
+
+if(output_format == "docx"){
+
+disruptions <- disruptions %>%
+    mutate(details = str_replace_all(
+        details,
+        "\\{return\\}",
+        "\n"
+    )) %>%
+    mutate(year = as.character(year)) %>% 
+    flextable() %>%
+    delete_part("header")
+    
+set_table_properties(disruptions, layout = "autofit")
+}else{
+  kable(disruptions, col.names = NULL)
+}
+
+```
 
