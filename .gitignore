@@ -7,3 +7,6 @@
 /README_files
 *.DS_Store
 find_broken.R
+bespoke/CCV/CCV-10129937-update.xml
+bespoke/CCV/missing_conferences.csv
+bespoke/CCV/missing_papers.csv
