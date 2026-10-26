@@ -120,11 +120,11 @@ def parse_bib(path: Path) -> list[dict]:
 
 
 def normalize_title(title: str) -> str:
-    """Lowercase, strip punctuation and extra spaces for fuzzy matching."""
+    """Lowercase, remove non-alphanumeric (treating LaTeX ~ as a space)."""
     t = title.lower()
+    t = t.replace('~', ' ')
     t = re.sub(r'[^a-z0-9 ]', '', t)
-    t = re.sub(r'\s+', ' ', t).strip()
-    return t
+    return re.sub(r'\s+', ' ', t).strip()
 
 
 def format_authors(raw: str) -> str:
