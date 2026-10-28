@@ -11,7 +11,7 @@ format:
       - right=25mm
       - left=25mm
       - footskip=15mm
-    reference-doc: csl/custom-reference-doc.docx
+    reference-doc: csl/cv-reference-doc.docx
     mainfont: Helvetica
     sansfont: Helvetica
   gfm: 
@@ -101,6 +101,42 @@ library(kableExtra)
 
 output_format <- knitr::pandoc_to()
 
+# flextable writes its own font into every table cell (default: DejaVu Sans),
+# so the reference doc cannot override it. Word uses the hAnsi slot for most
+# Latin text, so all four font slots must be set, not just font.family.
+set_flextable_defaults(
+    font.family = "Calibri",
+    hansi.family = "Calibri",
+    eastasia.family = "Calibri",
+    cs.family = "Calibri",
+    font.size = 11
+)
+
+# Table helper for docx output.
+# - widths come from the chunk's #| tbl-colwidths option (flextable ignores it
+#   on its own, it only applies to markdown tables); pass `colwidths` to override
+# - removes flextable's default rule under the last row
+cv_flextable <- function(df,
+                         colwidths = knitr::opts_current$get("tbl-colwidths"),
+                         text_width = 7) { # inches: 8.5in page - 2 x 0.75in margins
+  if (is.character(colwidths)) colwidths <- yaml::yaml.load(colwidths)
+  colwidths <- as.numeric(unlist(colwidths))
+  if (length(colwidths) != ncol(df)) {
+    message("cv_flextable: no usable tbl-colwidths, using equal widths")
+    colwidths <- rep(1, ncol(df))
+  }
+  inches <- colwidths / sum(colwidths) * text_width
+
+  ft <- flextable::flextable(df) %>%
+    flextable::delete_part("header") %>%
+    flextable::border_remove() %>%
+    flextable::set_table_properties(layout = "fixed")
+  for (j in seq_along(inches)) {
+    ft <- flextable::width(ft, j = j, width = inches[j])
+  }
+  ft
+}
+
 ```
 
 # Education {.unnumbered}
@@ -120,10 +156,9 @@ if (output_format == "docx") {
             "\n"
         )) %>%
         mutate(year = as.character(year)) %>%
-        flextable() %>%
-        delete_part("header")
+        cv_flextable()
 
-    set_table_properties(education, layout = "autofit")
+    education
 } else {
     education %>%
         mutate(details = str_replace_all(
@@ -157,10 +192,9 @@ if (output_format == "docx") {
             "\n"
         )) %>%
         mutate(year = as.character(year)) %>%
-        flextable() %>%
-        delete_part("header")
+        cv_flextable()
 
-    set_table_properties(appointments, layout = "autofit")
+    appointments
 } else if(output_format == "gfm"){
     appointments %>%
         mutate(details = str_replace_all(
@@ -203,10 +237,9 @@ awards <- awards %>%
         "\n"
     )) %>%
     mutate(year = as.character(year))%>% 
-    flextable() %>%
-    delete_part("header")
+    cv_flextable()
 
-set_table_properties(awards, layout = "autofit")
+awards
 }else{
   kable(awards, col.names = NULL)
 }
@@ -236,10 +269,9 @@ if (output_format == "docx") {
             " \\{return\\} ",
             "\n"
         )) %>%
-        flextable() %>%
-        delete_part("header")
+        cv_flextable()
 
-    set_table_properties(funding, layout = "autofit")
+    funding
 } else if(output_format == "gfm"){
     funding %>%
         mutate(details = str_replace_all(
@@ -271,7 +303,7 @@ if (output_format == "docx") {
 
 ASH Annual Meeting Abstracts (2), Blood (9), Blood Advances (10), Haematologica (3), Journal of Clinical Oncology (3), Clinical Lymphoma Myeloma and Leukemia (3), Genome Medicine (1), Nature Communications (1), Journal of Molecular Diagnostics (1), Cell Genomics (1). 
 
-## Service to University and Community {.unnumbered}
+## Service to Professional Organizations  {.unnumbered}
 
 ```{r}
 #| label: service
@@ -288,10 +320,35 @@ service <- service %>%
         "\n"
     )) %>%
     mutate(year = as.character(year)) %>% 
-    flextable() %>%
-    delete_part("header")
+    cv_flextable()
 
-set_table_properties(service, layout = "autofit")
+service
+}else{
+  kable(service, col.names = NULL)
+}
+
+```
+
+## Service to Community Organizations  {.unnumbered}
+
+```{r}
+#| label: community
+#| tbl-colwidths: [20, 80]
+
+service <- read_tsv("components/community.tsv") 
+
+if(output_format == "docx"){
+
+service <- service %>%
+    mutate(details = str_replace_all(
+        details,
+        "\\{return\\}",
+        "\n"
+    )) %>%
+    mutate(year = as.character(year)) %>% 
+    cv_flextable()
+
+service
 }else{
   kable(service, col.names = NULL)
 }
@@ -315,16 +372,52 @@ disruptions <- disruptions %>%
         "\n"
     )) %>%
     mutate(year = as.character(year)) %>% 
-    flextable() %>%
-    delete_part("header")
+    cv_flextable()
     
-set_table_properties(disruptions, layout = "autofit")
+disruptions
 }else{
   kable(disruptions, col.names = NULL)
 }
 
 ```
 
+# Presentations {.unnumbered}
+
+## Invited Presentations {.unnumbered}
+
+```{r}
+#| label: invited-talks
+#| tbl-colwidths: [10, 90]
+
+invited_talks <- read_tsv("components/invited_talks.tsv") 
+
+if(output_format == "docx"){
+
+invited_talks <- invited_talks %>%
+    mutate(details = str_replace_all(
+        details,
+        "\\{return\\}",
+        "\n"
+    )) %>%
+    mutate(year = as.character(year)) %>% 
+    cv_flextable()
+
+invited_talks
+}else{
+  kable(invited_talks, col.names = NULL)
+}
+
+```
+
+## Conference Oral Presentations {.unnumbered}
+
+::: {#refs-talks}
+:::
+
+## Conference Poster Presentations {.unnumbered}
+
+::: {#refs-posters}
+:::
 
 # Publications {.unnumbered}
 
@@ -360,44 +453,4 @@ first_author_count <- str_count(text_content, paste0(pattern, collapse = "|"))
 
 ::: {#refs-invited}
 :::
-
-# Presentations {.unnumbered}
-
-## Invited Presentations {.unnumbered}
-
-```{r}
-#| label: invited-talks
-#| tbl-colwidths: [10, 90]
-
-invited_talks <- read_tsv("components/invited_talks.tsv") 
-
-if(output_format == "docx"){
-
-invited_talks <- invited_talks %>%
-    mutate(details = str_replace_all(
-        details,
-        "\\{return\\}",
-        "\n"
-    )) %>%
-    mutate(year = as.character(year)) %>% 
-    flextable() %>%
-    delete_part("header")
-
-set_table_properties(invited_talks, layout = "autofit")
-}else{
-  kable(invited_talks, col.names = NULL)
-}
-
-```
-
-## Conference Oral Presentations {.unnumbered}
-
-::: {#refs-talks}
-:::
-
-## Conference Poster Presentations {.unnumbered}
-
-::: {#refs-posters}
-:::
-
 
