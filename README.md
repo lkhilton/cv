@@ -8,23 +8,23 @@
 - [Service](#service)
   - [Anonymous Peer Review (2018-Present,
     Cumulative)](#anonymous-peer-review-2018-present-cumulative)
-  - [Service to University and
-    Community](#service-to-university-and-community)
+  - [Service to Professional
+    Organizations](#service-to-professional-organizations)
+  - [Service to Community
+    Organizations](#service-to-community-organizations)
 - [Career Disruptions](#career-disruptions)
+- [Invited Presentations](#invited-presentations)
 - [Publications](#publications)
   - [Published Peer-Reviewed Articles and
     Preprints](#published-peer-reviewed-articles-and-preprints)
   - [Invited Commentary](#invited-commentary)
-- [Presentations](#presentations)
-  - [Invited Presentations](#invited-presentations)
-  - [Conference Oral Presentations](#conference-oral-presentations)
-  - [Conference Poster Presentations](#conference-poster-presentations)
+- [Conference Presentations](#conference-presentations)
+  - [Oral Presentations](#oral-presentations)
+  - [Poster Presentations](#poster-presentations)
 
 # Education
 
 # Appointments
-
-
 
 # Awards and Honours
 
@@ -53,26 +53,52 @@ Haematologica (3), Journal of Clinical Oncology (3), Clinical Lymphoma
 Myeloma and Leukemia (3), Genome Medicine (1), Nature Communications
 (1), Journal of Molecular Diagnostics (1), Cell Genomics (1).
 
-## Service to University and Community
+## Service to Professional Organizations
 
 |  |  |
 |:---|:---|
 | 2026-Present | Member, Scientific Committee on Hematopathology & Clinical Laboratory Hematology, American Society of Hematology |
-| 2026-Present | Member, Vancouver Skating Club Board of Directors |
 | 2025-Present | Member, Clinical Lymphoma Myeloma and Leukemia Editorial Board |
 | 2024-Present | Member, Women in Lymphoma Steering Committee |
-| 2023-Present | Guider, Girl Guides of Canada |
-| 2019-2022 | Secretary, Board of Directors, Lonsdale Creek Daycare Society |
 | 2012-2013 | President, MBB Graduate Caucus |
 | 2012-2013 | Student Representative, MBB Departmental Graduate Studies Committee |
 | 2011-2012 | Secretary, MBB Graduate Caucus |
+
+## Service to Community Organizations
+
+|  |  |
+|:---|:---|
+| 2026-Present | Member, Vancouver Skating Club Board of Directors |
+| 2023-Present | Guider, Girl Guides of Canada |
+| 2019-2022 | Secretary, Board of Directors, Lonsdale Creek Daycare Society |
 
 # Career Disruptions
 
 |                       |                |
 |:----------------------|:---------------|
-| Mar. 2014 – Sep. 2014 | Parental Leave |
 | Feb. 2017 – Feb. 2018 | Parental Leave |
+| Mar. 2014 – Sep. 2014 | Parental Leave |
+
+# Invited Presentations
+
+|  |  |
+|---:|:---|
+| 2026 | Genetic subtype-guided trials: Clinical application in 2026. MD Education CLL-Lymphoma US Focus Meeting. La Jolla, CA, USA. |
+| 2026 | Evolutionary trajectories to progression and transformation in follicular lymphoma. Lymphoma Research Foundation Follicular Lymphoma Scientific Workshop. Jersey City, NJ, USA. |
+| 2025 | The Biology and Evolution of Relapse in DLBCL. University of Rochester/Wilmot Cancer Center Grand Rounds. Rochester, NY, USA. |
+| 2025 | Plenary introduction: Diffuse large B-cell lymphoma classification and ancestry. American Society of Hematology Annual Meeting, Orlando, FL, USA. |
+| 2024 | The Biology of Relapsed/Refractory DLBCL. Women in Lymphoma Webinar, virtual. |
+| 2023 | The Biology and Evolution of Relapse in DLBCL. SWOG Fall 2023 Group Meeting, Chicago, IL. |
+| 2023 | From Cell of Origin to Mutational Landscape 20 years of Evolving Molecular Classification in DLBCL. International Ultmann Chicago Lymphoma Symposium, Chicago, IL. |
+| 2022 | Relapse Timing Is Associated with Distinct Evolutionary Dynamics and Response to Salvage Therapy in DLBCL. BC Cancer Summit, Vancouver, BC. |
+| 2021 | Invited Departmental Seminar, Molecular Biology and Biochemistry, Simon Fraser University. |
+| 2021 | Guest lecture on alternate academic career paths, MBB 801, Simon Fraser University, Canada. |
+| 2021 | Guest lecture on lymphoma genomics and transcriptomics, Cancer Biology, Quest University, Canada. |
+| 2020 | Guest lecture on transcriptomic analysis, MBB 460/669 Cancer Genomics, Simon Fraser University, Canada. |
+| 2020 | Guest lecture on alternate academic career paths, MBB 801, Simon Fraser University, Canada. |
+| 2019 | Oxford Nanopore long-read sequencing to refine somatic variant identification. Precision Medicine and Ion Channel Retreat, Vancouver, BC. |
+| 2016 | From Cilia to Climate Change: The Algae Connection. Hot Topics in Science Seminar, Quest University Canada. |
+| 2017 | Forward Genetics in the Era of Next Gen Sequencing. Guest Lecture, BIOL436 Intro to Functional Genomics, UBC. |
 
 # Publications
 
@@ -125,7 +151,7 @@ class="csl-entry">
 Champagne, J.-N., Villa, D., Gerrie, A.S., Venner, C.P., Slack, G.W.,
 Farinha, P., Craig, J.W., **Hilton, L.K.**, Savage, K.J., Scott, D.W.,
 Sehn, L.H., **2026**. [Retreatment with R-CHOP–like therapy in patients
-with late relapse of diffuse large <span class="nocase">B-cell</span>
+with late relapse of diffuse large B-cell
 lymphoma](https://doi.org/10.1182/bloodadvances.2025017620). *Blood
 Adv*. **10**, 620–626.
 
@@ -137,9 +163,9 @@ class="csl-entry">
 Dreval, K., **Hilton, L.K.**, Grande, B.M., Banco, G., Coyle, K.M.,
 Cruz, M., Gillis, S., Klossok, L., Pararajalingam, P., Rushton, C.K.,
 Shaalan, H., Thomas, N., Winata, H., Wong, J., Yiu, J., Steidl, C.,
-Scott, D.W., Morin, R.D., **2026**.
-[<span class="nocase">LCR-modules</span>: A collection of workflows for
-cancer genome analysis](https://doi.org/10.1093/bioinformatics/btag366).
+Scott, D.W., Morin, R.D., **2026**. [LCR-modules: A collection of
+workflows for cancer genome
+analysis](https://doi.org/10.1093/bioinformatics/btag366).
 *Bioinformatics*. **42**, btag366.
 
 </div>
@@ -180,7 +206,7 @@ Boyle, M., Meissner, B., Slack, G.W., Farinha, P., Craig, J.W., Gerrie,
 A.S., Villa, D., Savage, K.J., Sehn, L.H., Karsan, A., Wright, G.,
 Staudt, L.M., Morin, R.D., Steidl, C., Scott, D.W., **2026**. [LySeqST:
 A targeted sequencing assay for robust genomic classification of diffuse
-large <span class="nocase">B-cell</span>
+large B-cell
 lymphoma](https://doi.org/10.1182/bloodadvances.2026020105). *Blood
 Adv*. **10**, 4208–4214.
 
@@ -189,8 +215,7 @@ Adv*. **10**, 4208–4214.
 <div id="ref-hiltonStaticSubtypesLarge2026" class="csl-entry">
 
 **Hilton, L.K.**, Flowers, C.R., Koff, J.L., **2026**. [Beyond Static
-Subtypes in <span class="nocase">Large B-cell Lymphoma</span>: Context,
-Plasticity, and Therapeutic
+Subtypes in Large B-cell Lymphoma: Context, Plasticity, and Therapeutic
 Logic](https://doi.org/10.1158/2643-3230.BCD-26-0204). *Blood Cancer
 Discov*. **7**, 515–519.
 
@@ -243,9 +268,9 @@ P., Nastoupil, L.J., Fayad, L.E., Iyer, S.P., Rodriguez, M.A.,
 Hagemeister, F.B., Malpica, L., Lee, H., **Hilton, L.K.**, Scott, D.W.,
 Davis, R.E., Flowers, C.R., Westin, J.R., Inghirami, G., Vega, F.,
 Green, M.R., **2026**. [A Patient-Derived Xenograft Repository Capturing
-Clinical and Molecular Heterogeneity of <span class="nocase">Large
-B-cell Lymphoma</span>](https://doi.org/10.1158/2643-3230.BCD-26-0005).
-*Blood Cancer Discov*. **7**, 829–844.
+Clinical and Molecular Heterogeneity of Large B-cell
+Lymphoma](https://doi.org/10.1158/2643-3230.BCD-26-0005). *Blood Cancer
+Discov*. **7**, 829–844.
 
 </div>
 
@@ -255,10 +280,9 @@ Alduaij, W., Jiang, A., Villa, D., Collinge, B., Ben-Neriah, S., Boyle,
 M., Meissner, B., **Hilton, L.K.**, Farinha, P., Slack, G.W., Craig,
 J.W., Gerrie, A.S., Freeman, C.L., Mungall, A.J., Steidl, C., Sehn,
 L.H., Scott, D.W., Savage, K.J., **2025**. [CNS relapse in high-grade
-<span class="nocase">B-cell</span> lymphoma with MYC and BCL2
-rearrangements and dark-zone signature-expressing
-DLBCL](https://doi.org/10.1182/blood.2024025725). *Blood*. **145**,
-590–596.
+B-cell lymphoma with MYC and BCL2 rearrangements and dark-zone
+signature-expressing DLBCL](https://doi.org/10.1182/blood.2024025725).
+*Blood*. **145**, 590–596.
 
 </div>
 
@@ -269,9 +293,8 @@ Alduaij, W., Sehn, L.H., Champagne, J.-N., Collinge, B., Ben-Neriah, S.,
 Jiang, A., **Hilton, L.K.**, Boyle, M., Meissner, B., Slack, G.W.,
 Farinha, P., Craig, J.W., Savage, K.J., Villa, D., Gerrie, A.S.,
 Freeman, C.L., Mungall, A.J., Steidl, C., Scott, D.W., **2025**.
-[Population-Wide Introduction of <span class="nocase">Dose-Adjusted
-EPOCH-R In High-grade B-cell Lymphoma</span> with MYC/BCL2
-Rearrangements, DLBCL
+[Population-Wide Introduction of Dose-Adjusted EPOCH-R In High-grade
+B-cell Lymphoma with MYC/BCL2 Rearrangements, DLBCL
 Morphology](https://doi.org/10.1182/bloodadvances.2025017282). *Blood
 Adv*. **10**, 320–333.
 
@@ -286,8 +309,7 @@ J.Y., Inghirami, G., Ondrejka, S.L., Jaffe, E.S., Weisenburger, D.D.,
 Chan, W.C., Holte, H., Beiske, K., Fu, K., Delabie, J., Pittaluga, S.,
 Iqbal, J., Wright, G., Savage, K.J., Mungall, A.J., Staudt, L.M.,
 Steidl, C., Feldman, A.L., Morin, R.D., Rimsza, L.M., Scott, D.W.,
-**2025**. [High-grade <span class="nocase">B-cell</span> lymphoma, not
-otherwise specified: An LLMPP
+**2025**. [High-grade B-cell lymphoma, not otherwise specified: An LLMPP
 study](https://doi.org/10.1182/bloodadvances.2025016651). *Blood Adv*.
 **9**, 5409–5422.
 
@@ -333,8 +355,7 @@ P., Oscier, D., Langerak, A.W., Beà, S., López-Guillermo, A., Neuberg,
 D., Wu, C.J., Getz, G., Pospisilova, S., Stamatopoulos, K., Rosenquist,
 R., Huber, W., Zenz, T., Colomer, D., Martín-Subero, J.I., Delgado, J.,
 Morin, R.D., Stein, L.D., Puente, X.S., Campo, E.</span>, **2025**.
-[Disease-specific U1 spliceosomal RNA mutations in mature
-<span class="nocase">B-cell</span>
+[Disease-specific U1 spliceosomal RNA mutations in mature B-cell
 neoplasms](https://doi.org/10.1038/s41375-025-02667-7). *Leukemia*.
 **39**, 2076–2086.
 
@@ -348,8 +369,7 @@ B., Telenius, A., Ben-Neriah, S., Meissner, B., Boyle, M., Nakamura, H.,
 O’Brien, L., Cassidy, C., Lytle, A., Farinha, P., Slack, G., **Hilton,
 L.K.**, Morin, R.D., Venturutti, L., Aoki, T., Wretham, N., Bush, J.W.,
 Evgin, L., Savage, K.J., Scott, D.W., Steidl, C., **2025**. [Somatic
-IRF4 mutations and thymic tropism in primary mediastinal large
-<span class="nocase">B-cell</span>
+IRF4 mutations and thymic tropism in primary mediastinal large B-cell
 lymphoma](https://doi.org/10.1182/blood.2025028412). *Blood*. **146**,
 1586–1600.
 
@@ -392,7 +412,7 @@ Bakadlag, R., Subramaniam, N., Makhani, K., Guilbert, C., Tu, R.,
 Salaciak, M., Klein, K.O., Coyle, K.M., **Hilton, L.K.**, Santiago, R.,
 Dmitrienko, S., Assouline, S., Morin, R.D., Del Rincon, S.V., Johnson,
 N.A., Mann, K.K., **2024**. [STAT6 mutations enriched at diffuse large
-<span class="nocase">B-cell</span> lymphoma relapse reshape the tumor
+B-cell lymphoma relapse reshape the tumor
 microenvironment](https://doi.org/10.1007/s12185-023-03692-x). *Int J
 Hematol*. **119**, 275–290.
 
@@ -432,9 +452,8 @@ Inghirami, G., Jaffe, E.S., Weisenburger, D.D., Chan, W.C., Beiske, K.,
 Fu, K., Delabie, J., Pittaluga, S., Iqbal, J., Wright, G., Sehn, L.H.,
 Savage, K.J., Mungall, A.J., Feldman, A.L., Staudt, L.M., Steidl, C.,
 Rimsza, L.M., Morin, R.D., Scott, D.W., **2024**. [Motive and
-opportunity: MYC rearrangements in high-grade
-<span class="nocase">B-cell</span> lymphoma with MYC and BCL2
-rearrangements (an LLMPP
+opportunity: MYC rearrangements in high-grade B-cell lymphoma with MYC
+and BCL2 rearrangements (an LLMPP
 study)](https://doi.org/10.1182/blood.2024024251). *Blood*. **144**,
 525–540.
 
@@ -461,10 +480,9 @@ Boyle, M., Meissner, B., Chong, L., Miyata-Takata, T., Slack, G.W.,
 Farinha, P., Craig, J.W., Lytle, A., Savage, K.J., Villa, D., Gerrie,
 A.S., Freeman, C.L., Gascoyne, R.D., Connors, J.M., Morin, R.D., Sehn,
 L.H., Mungall, A.J., Steidl, C., Scott, D.W., **2023**. [Molecular
-determinants of clinical outcomes in a real-world diffuse large
-<span class="nocase">B-cell</span> lymphoma
-population](https://doi.org/10.1182/blood.2022018248). *Blood*. **141**,
-2493–2507.
+determinants of clinical outcomes in a real-world diffuse large B-cell
+lymphoma population](https://doi.org/10.1182/blood.2022018248). *Blood*.
+**141**, 2493–2507.
 
 </div>
 
@@ -498,7 +516,7 @@ patterns](https://doi.org/10.1182/blood.2022018719). *Blood*. **142**,
 class="csl-entry">
 
 **Hilton, L.K.**, Scott, D.W., Morin, R.D., **2023**. [Biological
-heterogeneity in diffuse large <span class="nocase">B-cell</span>
+heterogeneity in diffuse large B-cell
 lymphoma](https://doi.org/10.1053/j.seminhematol.2023.11.006). *Semin
 Hematol*. **60**, 267–276.
 
@@ -610,7 +628,7 @@ Mungall, A.J., Bakhtiari, M., Tremblay-LeMay, R., Silva, A., Ben-Neriah,
 S., Boyle, M., Villa, D., Marra, M.A., Steidl, C., Gascoyne, R.D.,
 Morin, R., Savage, K.J., Scott, D.W., Kridel, R., **2021**. [Molecular
 attributes underlying central nervous system and systemic relapse in
-diffuse large <span class="nocase">B-cell</span>
+diffuse large B-cell
 lymphoma](https://doi.org/10.3324/haematol.2020.255950).
 *Haematologica*. **106**, 1466–1471.
 
@@ -637,8 +655,7 @@ Advances*. **5**, 2945–2957.
 Shanmugam, V., Craig, J.W., **Hilton, L.K.**, Nguyen, M.H., Rushton,
 C.K., Fahimdanesh, K., Lovitch, S., Ferland, B., Scott, D.W., Aster,
 J.C., **2021**. [Notch activation is pervasive in SMZL and uncommon in
-DLBCL: Implications for Notch signaling in
-<span class="nocase">B-cell</span>
+DLBCL: Implications for Notch signaling in B-cell
 tumors](https://doi.org/10.1182/bloodadvances.2020002995). *Blood
 Advances*. **5**, 71–83.
 
@@ -663,7 +680,7 @@ S., Davidson, J., Bushell, K., Yu, S., Rys, R.N., Jain, M., Shepherd,
 L., Marra, M.A., Kuruvilla, J., Crump, M., Mann, K., Assouline, S.,
 Connors, J.M., Steidl, C., Cragg, M.S., Scott, D.W., Johnson, N.A.,
 Morin, R.D., **2020**. [Genetic and evolutionary patterns of treatment
-resistance in relapsed <span class="nocase">B-cell</span>
+resistance in relapsed B-cell
 lymphoma](https://doi.org/10.1182/bloodadvances.2020001696). *Blood
 Adv*. **4**, 2886–2898.
 
@@ -674,9 +691,9 @@ Adv*. **4**, 2886–2898.
 **Hilton, L.K.**, Tang, J., Ben-Neriah, S., Alcaide, M., Jiang, A.,
 Grande, B.M., Rushton, C.K., Boyle, M., Meissner, B., Scott, D.W.,
 Morin, R.D., **2019**. [The double-hit signature identifies double-hit
-diffuse large <span class="nocase">B-cell</span> lymphoma with genetic
-events cryptic to FISH](https://doi.org/10.1182/blood.2019002600).
-*Blood*. **134**, 1528–1532.
+diffuse large B-cell lymphoma with genetic events cryptic to
+FISH](https://doi.org/10.1182/blood.2019002600). *Blood*. **134**,
+1528–1532.
 
 </div>
 
@@ -690,7 +707,7 @@ K.R., Lai, D., Farinha, P., Slack, G.W., Morin, G.B., Shah, S., Sen, D.,
 Jones, S.J.M., Mungall, A.J., Gascoyne, R.D., Audas, T.E., Unrau, P.,
 Marra, M.A., Connors, J.M., Steidl, C., Scott, D.W., Morin, R.D.,
 **2018**. [Genome-wide discovery of somatic regulatory variants in
-diffuse large <span class="nocase">B-cell</span>
+diffuse large B-cell
 lymphoma](https://doi.org/10.1038/s41467-018-06354-3). *Nat Commun*.
 **9**, 4001.
 
@@ -731,7 +748,7 @@ mitosis](https://doi.org/10.1002/cm.20454). *Cytoskeleton (Hoboken)*.
 <div id="ref-hiltonNIMArelatedKinaseNEK12009" class="csl-entry">
 
 **Hilton, L.K.**, White, M.C., Quarmby, L.M., **2009**. [The
-<span class="nocase">NIMA-related</span> kinase NEK1 cycles through the
+NIMA-related kinase NEK1 cycles through the
 nucleus](https://doi.org/10.1016/j.bbrc.2009.08.086). *Biochem Biophys
 Res Commun*. **389**, 52–56.
 
@@ -772,30 +789,9 @@ Cellular Domains. Wiley, Hoboken.
 
 </div>
 
-# Presentations
+# Conference Presentations
 
-## Invited Presentations
-
-|  |  |
-|---:|:---|
-| 2026 | Genetic subtype-guided trials: Clinical application in 2026. MD Education CLL-Lymphoma US Focus Meeting. La Jolla, CA, USA. |
-| 2026 | Evolutionary trajectories to progression and transformation in follicular lymphoma. Lymphoma Research Foundation Follicular Lymphoma Scientific Workshop. Jersey City, NJ, USA. |
-| 2025 | The Biology and Evolution of Relapse in DLBCL. University of Rochester/Wilmot Cancer Center Grand Rounds. Rochester, NY, USA. |
-| 2025 | Plenary introduction: Diffuse large B-cell lymphoma classification and ancestry. American Society of Hematology Annual Meeting, Orlando, FL, USA. |
-| 2024 | The Biology of Relapsed/Refractory DLBCL. Women in Lymphoma Webinar, virtual. |
-| 2023 | The Biology and Evolution of Relapse in DLBCL. SWOG Fall 2023 Group Meeting, Chicago, IL. |
-| 2023 | From Cell of Origin to Mutational Landscape 20 years of Evolving Molecular Classification in DLBCL. International Ultmann Chicago Lymphoma Symposium, Chicago, IL. |
-| 2022 | Relapse Timing Is Associated with Distinct Evolutionary Dynamics and Response to Salvage Therapy in DLBCL. BC Cancer Summit, Vancouver, BC. |
-| 2021 | Invited Departmental Seminar, Molecular Biology and Biochemistry, Simon Fraser University. |
-| 2021 | Guest lecture on alternate academic career paths, MBB 801, Simon Fraser University, Canada. |
-| 2021 | Guest lecture on lymphoma genomics and transcriptomics, Cancer Biology, Quest University, Canada. |
-| 2020 | Guest lecture on transcriptomic analysis, MBB 460/669 Cancer Genomics, Simon Fraser University, Canada. |
-| 2020 | Guest lecture on alternate academic career paths, MBB 801, Simon Fraser University, Canada. |
-| 2019 | Oxford Nanopore long-read sequencing to refine somatic variant identification. Precision Medicine and Ion Channel Retreat, Vancouver, BC. |
-| 2016 | From Cilia to Climate Change: The Algae Connection. Hot Topics in Science Seminar, Quest University Canada. |
-| 2017 | Forward Genetics in the Era of Next Gen Sequencing. Guest Lecture, BIOL436 Intro to Functional Genomics, UBC. |
-
-## Conference Oral Presentations
+## Oral Presentations
 
 <div id="refs-talks" class="references csl-bib-body hanging-indent"
 entry-spacing="0">
@@ -908,9 +904,9 @@ Li, M.Y., Smorra, D., Lee, C., Milne, K., Telenius, A., O’Brien, L.,
 Takata, K., Miyata-Takata, T., Boyle, M., Ben-Neriah, S., Weng, A.P.,
 Roth, A., NelsonH, B.H., **Hilton, L.K.**, Farinha, P., Savage, K.J.,
 Scott, D.W., Steidl, C., **2024**. CSF2RB Mutations Result in
-<span class="nocase">Cytokine-Dependent Gain-of-Function
-Phenotypes</span> in Classic Hodgkin Lymphoma. American Society of
-Hematology Annual Meeting. San Diego, CA, USA.
+Cytokine-Dependent Gain-of-Function Phenotypes in Classic Hodgkin
+Lymphoma. American Society of Hematology Annual Meeting. San Diego, CA,
+USA.
 
 </div>
 
@@ -1150,8 +1146,8 @@ W., Scott, D.W., Sehn, L.H., Vitolo, U., Martelli, M., Trneny, M.,
 Slack, G.W., Farinha, P., Strefford, J.C., Oestergaard, M.Z., Morin,
 R.D., Cragg, M.S., **2020**. [Prognostic significance of Fc gamma
 receptor IIB expression in the response of previously untreated diffuse
-large <span class="nocase">B-cell</span> lymphomas to anti-CD20
-monoclonal antibodies: Differing impact of rituximab and
+large B-cell lymphomas to anti-CD20 monoclonal antibodies: Differing
+impact of rituximab and
 obinutuzumab](https://doi.org/10.1158/2643-3249.LYMPHOMA20-PO-26). AACR
 Virtual Meeting: Advances in Malignant Lymphoma. Virtual.
 
@@ -1193,7 +1189,7 @@ Cell Biology Annual Meeting. New Orleans, LA, USA.
 
 </div>
 
-## Conference Poster Presentations
+## Poster Presentations
 
 <div id="refs-posters" class="references csl-bib-body hanging-indent"
 entry-spacing="0">

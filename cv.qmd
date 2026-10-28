@@ -219,7 +219,6 @@ if (output_format == "docx") {
 
 ```
 
-\newpage
 
 # Awards and Honours {.unnumbered}
 
@@ -381,9 +380,7 @@ disruptions
 
 ```
 
-# Presentations {.unnumbered}
-
-## Invited Presentations {.unnumbered}
+# Invited Presentations {.unnumbered}
 
 ```{r}
 #| label: invited-talks
@@ -409,15 +406,6 @@ invited_talks
 
 ```
 
-## Conference Oral Presentations {.unnumbered}
-
-::: {#refs-talks}
-:::
-
-## Conference Poster Presentations {.unnumbered}
-
-::: {#refs-posters}
-:::
 
 # Publications {.unnumbered}
 
@@ -454,3 +442,14 @@ first_author_count <- str_count(text_content, paste0(pattern, collapse = "|"))
 ::: {#refs-invited}
 :::
 
+# Conference Presentations {.unnumbered}
+
+## Oral Presentations {.unnumbered}
+
+::: {#refs-talks}
+:::
+
+## Poster Presentations {.unnumbered}
+
+::: {#refs-posters}
+:::
